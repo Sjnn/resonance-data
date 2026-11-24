@@ -1,0 +1,43 @@
+{
+  "id": "mornye",
+  "name": "Mornye",
+  "element": "Fusion",
+  "weaponType": "Broadblade",
+  "rarity": 5,
+  "roles": [
+    "sustain",
+    "buffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "healing",
+    "def-scaling",
+    "tune-rupture",
+    "all-dmg-amp"
+  ],
+  "stats": {
+    "hp": 11800,
+    "atk": 325,
+    "def": 1480
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "starfield-calibrator"
+    ],
+    "echoSets": [
+      "halo-of-starry-radiance"
+    ],
+    "mainStats": {
+      "cost4": "Healing Bonus",
+      "cost3": "Energy Regen",
+      "cost1": "DEF%"
+    },
+    "substats": [
+      "Energy Regen",
+      "DEF%",
+      "Crit DMG",
+      "HP%"
+    ]
+  }
+}

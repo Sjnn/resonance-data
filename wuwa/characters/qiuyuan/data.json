@@ -1,0 +1,43 @@
+{
+  "id": "qiuyuan",
+  "name": "Qiuyuan",
+  "element": "Aero",
+  "weaponType": "Sword",
+  "rarity": 5,
+  "roles": [
+    "sub-dps",
+    "buffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "aero-dmg",
+    "echo-skill-amp",
+    "crit-dmg-buff"
+  ],
+  "stats": {
+    "hp": 10775,
+    "atk": 412,
+    "def": 1186
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "emerald-sentence"
+    ],
+    "echoSets": [
+      "law-of-harmony",
+      "sierra-gale"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate",
+      "cost3": "Aero DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

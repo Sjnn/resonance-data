@@ -1,0 +1,42 @@
+{
+  "id": "lynae",
+  "name": "Lynae",
+  "element": "Spectro",
+  "weaponType": "Pistol",
+  "rarity": 5,
+  "roles": [
+    "sub-dps",
+    "buffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "spectro-dmg",
+    "tune-break",
+    "all-dmg-amp"
+  ],
+  "stats": {
+    "hp": 10650,
+    "atk": 412,
+    "def": 1160
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "spectrum-blaster"
+    ],
+    "echoSets": [
+      "pact-of-neonlight-leap"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate",
+      "cost3": "Spectro DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "Energy Regen",
+      "ATK%"
+    ]
+  }
+}

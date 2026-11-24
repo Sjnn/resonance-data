@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "synced-2026-11-24T07:55:55.977Z",
-  "updatedAt": "2026-11-24T07:55:55.977Z",
+  "version": "synced-2026-11-24T08:15:47.896Z",
+  "updatedAt": "2026-11-24T08:15:47.896Z",
   "characters": [
     {
       "id": "aalto",
@@ -24,6 +24,49 @@
         "def": 1075
       },
       "dataComplete": true
+    },
+    {
+      "id": "aemeath",
+      "name": "Aemeath",
+      "element": "Fusion",
+      "weaponType": "Sword",
+      "rarity": 5,
+      "roles": [
+        "main-dps"
+      ],
+      "rotationType": "sustained",
+      "synergyTags": [
+        "fusion-dmg",
+        "tune-rupture",
+        "fusion-burst"
+      ],
+      "stats": {
+        "hp": 10450,
+        "atk": 450,
+        "def": 1125
+      },
+      "dataComplete": false
+    },
+    {
+      "id": "augusta",
+      "name": "Augusta",
+      "element": "Electro",
+      "weaponType": "Broadblade",
+      "rarity": 5,
+      "roles": [
+        "main-dps"
+      ],
+      "rotationType": "sustained",
+      "synergyTags": [
+        "electro-dmg",
+        "heavy-attack"
+      ],
+      "stats": {
+        "hp": 10300,
+        "atk": 462,
+        "def": 1112
+      },
+      "dataComplete": false
     },
     {
       "id": "baizhi",
@@ -74,6 +117,29 @@
       "dataComplete": true
     },
     {
+      "id": "buling",
+      "name": "Buling",
+      "element": "Electro",
+      "weaponType": "Rectifier",
+      "rarity": 4,
+      "roles": [
+        "sustain",
+        "buffer"
+      ],
+      "rotationType": "quickswap",
+      "synergyTags": [
+        "healing",
+        "resonance-skill-amp",
+        "electro-flare"
+      ],
+      "stats": {
+        "hp": 9800,
+        "atk": 312,
+        "def": 960
+      },
+      "dataComplete": false
+    },
+    {
       "id": "calcharo",
       "name": "Calcharo",
       "element": "Electro",
@@ -114,6 +180,30 @@
         "def": 1161
       },
       "dataComplete": true
+    },
+    {
+      "id": "cantarella",
+      "name": "Cantarella",
+      "element": "Havoc",
+      "weaponType": "Rectifier",
+      "rarity": 5,
+      "roles": [
+        "sub-dps",
+        "sustain"
+      ],
+      "rotationType": "quickswap",
+      "synergyTags": [
+        "havoc-dmg",
+        "resonance-skill",
+        "coordinated-attack",
+        "healing"
+      ],
+      "stats": {
+        "hp": 11600,
+        "atk": 400,
+        "def": 1100
+      },
+      "dataComplete": false
     },
     {
       "id": "carlotta",
@@ -180,6 +270,30 @@
         "def": 1099
       },
       "dataComplete": true
+    },
+    {
+      "id": "chisa",
+      "name": "Chisa",
+      "element": "Havoc",
+      "weaponType": "Broadblade",
+      "rarity": 5,
+      "roles": [
+        "sub-dps",
+        "debuffer",
+        "sustain"
+      ],
+      "rotationType": "quickswap",
+      "synergyTags": [
+        "havoc-bane",
+        "def-shred",
+        "healing"
+      ],
+      "stats": {
+        "hp": 11200,
+        "atk": 388,
+        "def": 1150
+      },
+      "dataComplete": false
     },
     {
       "id": "chixia",
@@ -269,6 +383,72 @@
       "dataComplete": true
     },
     {
+      "id": "galbrena",
+      "name": "Galbrena",
+      "element": "Fusion",
+      "weaponType": "Pistol",
+      "rarity": 5,
+      "roles": [
+        "main-dps"
+      ],
+      "rotationType": "sustained",
+      "synergyTags": [
+        "fusion-dmg",
+        "echo-skill",
+        "heavy-attack"
+      ],
+      "stats": {
+        "hp": 10300,
+        "atk": 462,
+        "def": 1112
+      },
+      "dataComplete": false
+    },
+    {
+      "id": "hiyuki",
+      "name": "Hiyuki",
+      "element": "Glacio",
+      "weaponType": "Sword",
+      "rarity": 5,
+      "roles": [
+        "main-dps"
+      ],
+      "rotationType": "sustained",
+      "synergyTags": [
+        "glacio-dmg",
+        "glacio-chafe"
+      ],
+      "stats": {
+        "hp": 10550,
+        "atk": 440,
+        "def": 1140
+      },
+      "dataComplete": false
+    },
+    {
+      "id": "iuno",
+      "name": "Iuno",
+      "element": "Aero",
+      "weaponType": "Gauntlet",
+      "rarity": 5,
+      "roles": [
+        "sub-dps",
+        "buffer"
+      ],
+      "rotationType": "quickswap",
+      "synergyTags": [
+        "aero-dmg",
+        "heavy-attack-amp",
+        "shield"
+      ],
+      "stats": {
+        "hp": 10525,
+        "atk": 425,
+        "def": 1161
+      },
+      "dataComplete": false
+    },
+    {
       "id": "jianxin",
       "name": "Jianxin",
       "element": "Aero",
@@ -356,6 +536,28 @@
       "dataComplete": true
     },
     {
+      "id": "lucilla",
+      "name": "Lucilla",
+      "element": "Glacio",
+      "weaponType": "Rectifier",
+      "rarity": 5,
+      "roles": [
+        "sub-dps",
+        "debuffer"
+      ],
+      "rotationType": "quickswap",
+      "synergyTags": [
+        "glacio-dmg",
+        "glacio-chafe"
+      ],
+      "stats": {
+        "hp": 10800,
+        "atk": 405,
+        "def": 1150
+      },
+      "dataComplete": false
+    },
+    {
       "id": "lumi",
       "name": "Lumi",
       "element": "Electro",
@@ -399,6 +601,75 @@
         "def": 1185
       },
       "dataComplete": true
+    },
+    {
+      "id": "luuk-herssen",
+      "name": "Luuk Herssen",
+      "element": "Spectro",
+      "weaponType": "Gauntlet",
+      "rarity": 5,
+      "roles": [
+        "main-dps"
+      ],
+      "rotationType": "sustained",
+      "synergyTags": [
+        "spectro-dmg",
+        "tune-strain",
+        "basic-attack"
+      ],
+      "stats": {
+        "hp": 10500,
+        "atk": 445,
+        "def": 1130
+      },
+      "dataComplete": false
+    },
+    {
+      "id": "lynae",
+      "name": "Lynae",
+      "element": "Spectro",
+      "weaponType": "Pistol",
+      "rarity": 5,
+      "roles": [
+        "sub-dps",
+        "buffer"
+      ],
+      "rotationType": "quickswap",
+      "synergyTags": [
+        "spectro-dmg",
+        "tune-break",
+        "all-dmg-amp"
+      ],
+      "stats": {
+        "hp": 10650,
+        "atk": 412,
+        "def": 1160
+      },
+      "dataComplete": false
+    },
+    {
+      "id": "mornye",
+      "name": "Mornye",
+      "element": "Fusion",
+      "weaponType": "Broadblade",
+      "rarity": 5,
+      "roles": [
+        "sustain",
+        "buffer"
+      ],
+      "rotationType": "quickswap",
+      "synergyTags": [
+        "healing",
+        "def-scaling",
+        "tune-rupture",
+        "all-dmg-amp"
+      ],
+      "stats": {
+        "hp": 11800,
+        "atk": 325,
+        "def": 1480
+      },
+      "dataComplete": false
     },
     {
       "id": "mortefi",
@@ -453,21 +724,43 @@
       "weaponType": "Rectifier",
       "rarity": 5,
       "roles": [
-        "main-dps",
-        "sub-dps"
+        "main-dps"
       ],
-      "rotationType": "quickswap",
+      "rotationType": "sustained",
       "synergyTags": [
         "havoc-dmg",
-        "heavy-attack-buff",
-        "coordinated-attack"
+        "echo-skill",
+        "resonance-skill"
       ],
       "stats": {
         "hp": 10775,
-        "atk": 437,
-        "def": 1136
+        "atk": 438,
+        "def": 1137
       },
-      "dataComplete": true
+      "dataComplete": false
+    },
+    {
+      "id": "qiuyuan",
+      "name": "Qiuyuan",
+      "element": "Aero",
+      "weaponType": "Sword",
+      "rarity": 5,
+      "roles": [
+        "sub-dps",
+        "buffer"
+      ],
+      "rotationType": "quickswap",
+      "synergyTags": [
+        "aero-dmg",
+        "echo-skill-amp",
+        "crit-dmg-buff"
+      ],
+      "stats": {
+        "hp": 10775,
+        "atk": 412,
+        "def": 1186
+      },
+      "dataComplete": false
     },
     {
       "id": "roccia",
@@ -603,6 +896,27 @@
         "def": 1099
       },
       "dataComplete": true
+    },
+    {
+      "id": "sigrika",
+      "name": "Sigrika",
+      "element": "Aero",
+      "weaponType": "Gauntlet",
+      "rarity": 5,
+      "roles": [
+        "main-dps"
+      ],
+      "rotationType": "sustained",
+      "synergyTags": [
+        "aero-dmg",
+        "echo-skill"
+      ],
+      "stats": {
+        "hp": 10400,
+        "atk": 450,
+        "def": 1120
+      },
+      "dataComplete": false
     },
     {
       "id": "taoqi",
@@ -1511,6 +1825,49 @@
       ]
     },
     {
+      "characterId": "aemeath",
+      "role": "main-dps",
+      "weapons": [
+        "everbright-polestar"
+      ],
+      "echoSets": [
+        "trailblazing-star"
+      ],
+      "mainStats": {
+        "cost4": "Crit Rate",
+        "cost3": "Fusion DMG",
+        "cost1": "ATK%"
+      },
+      "substats": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    {
+      "characterId": "augusta",
+      "role": "main-dps",
+      "weapons": [
+        "thunderflare-dominion"
+      ],
+      "echoSets": [
+        "crown-of-valor",
+        "void-thunder"
+      ],
+      "mainStats": {
+        "cost4": "Crit DMG",
+        "cost3": "Electro DMG",
+        "cost1": "ATK%"
+      },
+      "substats": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Heavy Attack DMG"
+      ]
+    },
+    {
       "characterId": "baizhi",
       "role": "sustain",
       "weapons": [
@@ -1559,6 +1916,26 @@
       ]
     },
     {
+      "characterId": "buling",
+      "role": "sustain",
+      "weapons": [
+        "stellar-symphony"
+      ],
+      "echoSets": [
+        "rejuvenating-glow"
+      ],
+      "mainStats": {
+        "cost4": "Healing Bonus",
+        "cost3": "Energy Regen",
+        "cost1": "ATK%"
+      },
+      "substats": [
+        "Energy Regen",
+        "ATK%",
+        "HP%"
+      ]
+    },
+    {
       "characterId": "calcharo",
       "role": "main-dps",
       "weapons": [
@@ -1601,6 +1978,27 @@
         "Crit Rate",
         "Crit DMG",
         "Basic Attack DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    {
+      "characterId": "cantarella",
+      "role": "sub-dps",
+      "weapons": [
+        "whispers-of-sirens"
+      ],
+      "echoSets": [
+        "midnight-veil"
+      ],
+      "mainStats": {
+        "cost4": "Crit Rate",
+        "cost3": "Havoc DMG",
+        "cost1": "ATK%"
+      },
+      "substats": [
+        "Crit Rate",
+        "Crit DMG",
         "ATK%",
         "Energy Regen"
       ]
@@ -1673,6 +2071,28 @@
         "Energy Regen",
         "Resonance Skill DMG",
         "ATK%"
+      ]
+    },
+    {
+      "characterId": "chisa",
+      "role": "sub-dps",
+      "weapons": [
+        "kumokiri"
+      ],
+      "echoSets": [
+        "thread-of-severed-fate",
+        "havoc-eclipse"
+      ],
+      "mainStats": {
+        "cost4": "Crit Rate",
+        "cost3": "ATK%",
+        "cost1": "ATK%"
+      },
+      "substats": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
       ]
     },
     {
@@ -1771,6 +2191,71 @@
       ]
     },
     {
+      "characterId": "galbrena",
+      "role": "main-dps",
+      "weapons": [
+        "lux-and-umbra"
+      ],
+      "echoSets": [
+        "flamewings-shadow",
+        "flaming-clawprint"
+      ],
+      "mainStats": {
+        "cost4": "Crit Rate",
+        "cost3": "Fusion DMG",
+        "cost1": "ATK%"
+      },
+      "substats": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    {
+      "characterId": "hiyuki",
+      "role": "main-dps",
+      "weapons": [
+        "frostburn"
+      ],
+      "echoSets": [
+        "wishes-of-quiet-snowfall"
+      ],
+      "mainStats": {
+        "cost4": "Crit Rate",
+        "cost3": "Glacio DMG",
+        "cost1": "ATK%"
+      },
+      "substats": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    {
+      "characterId": "iuno",
+      "role": "sub-dps",
+      "weapons": [
+        "moongazers-sigil"
+      ],
+      "echoSets": [
+        "crown-of-valor",
+        "sierra-gale"
+      ],
+      "mainStats": {
+        "cost4": "Crit DMG",
+        "cost3": "Aero DMG",
+        "cost1": "ATK%"
+      },
+      "substats": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    {
       "characterId": "jianxin",
       "role": "sustain",
       "weapons": [
@@ -1864,6 +2349,27 @@
       ]
     },
     {
+      "characterId": "lucilla",
+      "role": "sub-dps",
+      "weapons": [
+        "freeze-frame"
+      ],
+      "echoSets": [
+        "wishes-of-quiet-snowfall"
+      ],
+      "mainStats": {
+        "cost4": "Crit Rate",
+        "cost3": "Glacio DMG",
+        "cost1": "ATK%"
+      },
+      "substats": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    {
       "characterId": "lumi",
       "role": "main-dps",
       "weapons": [
@@ -1911,6 +2417,69 @@
         "Resonance Liberation DMG",
         "ATK%",
         "Energy Regen"
+      ]
+    },
+    {
+      "characterId": "luuk-herssen",
+      "role": "main-dps",
+      "weapons": [
+        "daybreakers-spine"
+      ],
+      "echoSets": [
+        "rite-of-gilded-revelation"
+      ],
+      "mainStats": {
+        "cost4": "Crit Rate",
+        "cost3": "Spectro DMG",
+        "cost1": "ATK%"
+      },
+      "substats": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Basic Attack DMG"
+      ]
+    },
+    {
+      "characterId": "lynae",
+      "role": "sub-dps",
+      "weapons": [
+        "spectrum-blaster"
+      ],
+      "echoSets": [
+        "pact-of-neonlight-leap"
+      ],
+      "mainStats": {
+        "cost4": "Crit Rate",
+        "cost3": "Spectro DMG",
+        "cost1": "ATK%"
+      },
+      "substats": [
+        "Crit Rate",
+        "Crit DMG",
+        "Energy Regen",
+        "ATK%"
+      ]
+    },
+    {
+      "characterId": "mornye",
+      "role": "sustain",
+      "weapons": [
+        "starfield-calibrator"
+      ],
+      "echoSets": [
+        "halo-of-starry-radiance"
+      ],
+      "mainStats": {
+        "cost4": "Healing Bonus",
+        "cost3": "Energy Regen",
+        "cost1": "DEF%"
+      },
+      "substats": [
+        "Energy Regen",
+        "DEF%",
+        "Crit DMG",
+        "HP%"
       ]
     },
     {
@@ -1965,23 +2534,42 @@
       "characterId": "phrolova",
       "role": "main-dps",
       "weapons": [
-        "lethean-elegy",
-        "stringmaster",
-        "cosmic-ripples"
+        "lethean-elegy"
       ],
       "echoSets": [
-        "midnight-veil",
+        "dream-of-the-lost",
         "havoc-eclipse"
       ],
       "mainStats": {
-        "cost4": "Crit Rate / Crit DMG",
+        "cost4": "Crit DMG",
         "cost3": "Havoc DMG",
         "cost1": "ATK%"
       },
       "substats": [
         "Crit Rate",
         "Crit DMG",
-        "Resonance Skill DMG",
+        "ATK%",
+        "Resonance Skill DMG"
+      ]
+    },
+    {
+      "characterId": "qiuyuan",
+      "role": "sub-dps",
+      "weapons": [
+        "emerald-sentence"
+      ],
+      "echoSets": [
+        "law-of-harmony",
+        "sierra-gale"
+      ],
+      "mainStats": {
+        "cost4": "Crit Rate",
+        "cost3": "Aero DMG",
+        "cost1": "ATK%"
+      },
+      "substats": [
+        "Crit Rate",
+        "Crit DMG",
         "ATK%",
         "Energy Regen"
       ]
@@ -2127,6 +2715,27 @@
         "HP%",
         "Crit DMG",
         "Flat HP"
+      ]
+    },
+    {
+      "characterId": "sigrika",
+      "role": "main-dps",
+      "weapons": [
+        "solsworn-ciphers"
+      ],
+      "echoSets": [
+        "sound-of-true-name"
+      ],
+      "mainStats": {
+        "cost4": "Crit DMG",
+        "cost3": "Energy Regen",
+        "cost1": "ATK%"
+      },
+      "substats": [
+        "Crit Rate",
+        "Crit DMG",
+        "Energy Regen",
+        "ATK%"
       ]
     },
     {

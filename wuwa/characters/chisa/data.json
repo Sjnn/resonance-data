@@ -1,0 +1,44 @@
+{
+  "id": "chisa",
+  "name": "Chisa",
+  "element": "Havoc",
+  "weaponType": "Broadblade",
+  "rarity": 5,
+  "roles": [
+    "sub-dps",
+    "debuffer",
+    "sustain"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "havoc-bane",
+    "def-shred",
+    "healing"
+  ],
+  "stats": {
+    "hp": 11200,
+    "atk": 388,
+    "def": 1150
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "kumokiri"
+    ],
+    "echoSets": [
+      "thread-of-severed-fate",
+      "havoc-eclipse"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate",
+      "cost3": "ATK%",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

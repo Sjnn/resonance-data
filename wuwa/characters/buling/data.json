@@ -1,0 +1,41 @@
+{
+  "id": "buling",
+  "name": "Buling",
+  "element": "Electro",
+  "weaponType": "Rectifier",
+  "rarity": 4,
+  "roles": [
+    "sustain",
+    "buffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "healing",
+    "resonance-skill-amp",
+    "electro-flare"
+  ],
+  "stats": {
+    "hp": 9800,
+    "atk": 312,
+    "def": 960
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "stellar-symphony"
+    ],
+    "echoSets": [
+      "rejuvenating-glow"
+    ],
+    "mainStats": {
+      "cost4": "Healing Bonus",
+      "cost3": "Energy Regen",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Energy Regen",
+      "ATK%",
+      "HP%"
+    ]
+  }
+}

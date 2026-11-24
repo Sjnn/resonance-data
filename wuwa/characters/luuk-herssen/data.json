@@ -1,0 +1,41 @@
+{
+  "id": "luuk-herssen",
+  "name": "Luuk Herssen",
+  "element": "Spectro",
+  "weaponType": "Gauntlet",
+  "rarity": 5,
+  "roles": [
+    "main-dps"
+  ],
+  "rotationType": "sustained",
+  "synergyTags": [
+    "spectro-dmg",
+    "tune-strain",
+    "basic-attack"
+  ],
+  "stats": {
+    "hp": 10500,
+    "atk": 445,
+    "def": 1130
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "daybreakers-spine"
+    ],
+    "echoSets": [
+      "rite-of-gilded-revelation"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate",
+      "cost3": "Spectro DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Basic Attack DMG"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "augusta",
+  "name": "Augusta",
+  "element": "Electro",
+  "weaponType": "Broadblade",
+  "rarity": 5,
+  "roles": [
+    "main-dps"
+  ],
+  "rotationType": "sustained",
+  "synergyTags": [
+    "electro-dmg",
+    "heavy-attack"
+  ],
+  "stats": {
+    "hp": 10300,
+    "atk": 462,
+    "def": 1112
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "thunderflare-dominion"
+    ],
+    "echoSets": [
+      "crown-of-valor",
+      "void-thunder"
+    ],
+    "mainStats": {
+      "cost4": "Crit DMG",
+      "cost3": "Electro DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Heavy Attack DMG"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "galbrena",
+  "name": "Galbrena",
+  "element": "Fusion",
+  "weaponType": "Pistol",
+  "rarity": 5,
+  "roles": [
+    "main-dps"
+  ],
+  "rotationType": "sustained",
+  "synergyTags": [
+    "fusion-dmg",
+    "echo-skill",
+    "heavy-attack"
+  ],
+  "stats": {
+    "hp": 10300,
+    "atk": 462,
+    "def": 1112
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "lux-and-umbra"
+    ],
+    "echoSets": [
+      "flamewings-shadow",
+      "flaming-clawprint"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate",
+      "cost3": "Fusion DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

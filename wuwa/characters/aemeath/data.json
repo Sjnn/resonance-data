@@ -1,0 +1,41 @@
+{
+  "id": "aemeath",
+  "name": "Aemeath",
+  "element": "Fusion",
+  "weaponType": "Sword",
+  "rarity": 5,
+  "roles": [
+    "main-dps"
+  ],
+  "rotationType": "sustained",
+  "synergyTags": [
+    "fusion-dmg",
+    "tune-rupture",
+    "fusion-burst"
+  ],
+  "stats": {
+    "hp": 10450,
+    "atk": 450,
+    "def": 1125
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "everbright-polestar"
+    ],
+    "echoSets": [
+      "trailblazing-star"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate",
+      "cost3": "Fusion DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

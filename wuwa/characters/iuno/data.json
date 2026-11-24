@@ -1,0 +1,43 @@
+{
+  "id": "iuno",
+  "name": "Iuno",
+  "element": "Aero",
+  "weaponType": "Gauntlet",
+  "rarity": 5,
+  "roles": [
+    "sub-dps",
+    "buffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "aero-dmg",
+    "heavy-attack-amp",
+    "shield"
+  ],
+  "stats": {
+    "hp": 10525,
+    "atk": 425,
+    "def": 1161
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "moongazers-sigil"
+    ],
+    "echoSets": [
+      "crown-of-valor",
+      "sierra-gale"
+    ],
+    "mainStats": {
+      "cost4": "Crit DMG",
+      "cost3": "Aero DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

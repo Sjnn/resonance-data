@@ -5,42 +5,38 @@
   "weaponType": "Rectifier",
   "rarity": 5,
   "roles": [
-    "main-dps",
-    "sub-dps"
+    "main-dps"
   ],
-  "rotationType": "quickswap",
+  "rotationType": "sustained",
   "synergyTags": [
     "havoc-dmg",
-    "heavy-attack-buff",
-    "coordinated-attack"
+    "echo-skill",
+    "resonance-skill"
   ],
   "stats": {
     "hp": 10775,
-    "atk": 437,
-    "def": 1136
+    "atk": 438,
+    "def": 1137
   },
-  "dataComplete": true,
+  "dataComplete": false,
   "build": {
     "weapons": [
-      "lethean-elegy",
-      "stringmaster",
-      "cosmic-ripples"
+      "lethean-elegy"
     ],
     "echoSets": [
-      "midnight-veil",
+      "dream-of-the-lost",
       "havoc-eclipse"
     ],
     "mainStats": {
-      "cost4": "Crit Rate / Crit DMG",
+      "cost4": "Crit DMG",
       "cost3": "Havoc DMG",
       "cost1": "ATK%"
     },
     "substats": [
       "Crit Rate",
       "Crit DMG",
-      "Resonance Skill DMG",
       "ATK%",
-      "Energy Regen"
+      "Resonance Skill DMG"
     ]
   }
 }

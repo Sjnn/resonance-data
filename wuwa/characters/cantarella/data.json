@@ -1,0 +1,43 @@
+{
+  "id": "cantarella",
+  "name": "Cantarella",
+  "element": "Havoc",
+  "weaponType": "Rectifier",
+  "rarity": 5,
+  "roles": [
+    "sub-dps",
+    "sustain"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "havoc-dmg",
+    "resonance-skill",
+    "coordinated-attack",
+    "healing"
+  ],
+  "stats": {
+    "hp": 11600,
+    "atk": 400,
+    "def": 1100
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "whispers-of-sirens"
+    ],
+    "echoSets": [
+      "midnight-veil"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate",
+      "cost3": "Havoc DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

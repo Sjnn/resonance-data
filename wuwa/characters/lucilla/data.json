@@ -1,0 +1,41 @@
+{
+  "id": "lucilla",
+  "name": "Lucilla",
+  "element": "Glacio",
+  "weaponType": "Rectifier",
+  "rarity": 5,
+  "roles": [
+    "sub-dps",
+    "debuffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "glacio-dmg",
+    "glacio-chafe"
+  ],
+  "stats": {
+    "hp": 10800,
+    "atk": 405,
+    "def": 1150
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "freeze-frame"
+    ],
+    "echoSets": [
+      "wishes-of-quiet-snowfall"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate",
+      "cost3": "Glacio DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

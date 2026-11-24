@@ -1,0 +1,40 @@
+{
+  "id": "sigrika",
+  "name": "Sigrika",
+  "element": "Aero",
+  "weaponType": "Gauntlet",
+  "rarity": 5,
+  "roles": [
+    "main-dps"
+  ],
+  "rotationType": "sustained",
+  "synergyTags": [
+    "aero-dmg",
+    "echo-skill"
+  ],
+  "stats": {
+    "hp": 10400,
+    "atk": 450,
+    "def": 1120
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "solsworn-ciphers"
+    ],
+    "echoSets": [
+      "sound-of-true-name"
+    ],
+    "mainStats": {
+      "cost4": "Crit DMG",
+      "cost3": "Energy Regen",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "Energy Regen",
+      "ATK%"
+    ]
+  }
+}
