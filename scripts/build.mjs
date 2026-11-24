@@ -6,6 +6,7 @@ const REPO_RAW_BASE = 'https://raw.githubusercontent.com/Sjnn/resonance-data/mai
 const ROOT = process.cwd();
 const GAME_DIR = path.join(ROOT, 'wuwa');
 const IMAGE_NAMES = ['icon.png', 'icon.webp', 'icon.jpg', 'avatar.png'];
+const SPLASH_NAMES = ['splash.png', 'splash.webp', 'splash.jpg', 'portrait.png', 'portrait.webp'];
 
 const VALID_ELEMENTS = new Set(['Aero', 'Electro', 'Fusion', 'Glacio', 'Havoc', 'Spectro']);
 const VALID_WEAPONS = new Set(['Broadblade', 'Gauntlets', 'Pistols', 'Rectifier', 'Sword']);
