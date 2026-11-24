@@ -1,0 +1,45 @@
+{
+  "id": "rover-aero",
+  "name": "Rover (Aero)",
+  "element": "Aero",
+  "weaponType": "Sword",
+  "rarity": 5,
+  "roles": [
+    "sub-dps",
+    "sustain"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "aero-buff",
+    "healing"
+  ],
+  "stats": {
+    "hp": 11675,
+    "atk": 387,
+    "def": 1209
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "bloodpacts-pledge",
+      "emerald-of-genesis",
+      "overture"
+    ],
+    "echoSets": [
+      "rejuvenating-glow",
+      "gusts-of-welkin"
+    ],
+    "mainStats": {
+      "cost4": "Healing Bonus / Crit Rate",
+      "cost3": "Energy Regen / Aero DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Energy Regen",
+      "ATK%",
+      "Crit Rate",
+      "Crit DMG",
+      "Resonance Skill DMG"
+    ]
+  }
+}

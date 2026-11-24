@@ -1,0 +1,45 @@
+{
+  "id": "aalto",
+  "name": "Aalto",
+  "element": "Aero",
+  "weaponType": "Pistols",
+  "rarity": 4,
+  "roles": [
+    "sub-dps",
+    "buffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "aero-buff",
+    "atk-buff"
+  ],
+  "stats": {
+    "hp": 9850,
+    "atk": 262,
+    "def": 1075
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "static-mist",
+      "cadenza",
+      "novaburst"
+    ],
+    "echoSets": [
+      "moonlit-clouds",
+      "sierra-gale"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Aero DMG / Energy Regen",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Energy Regen",
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Basic Attack DMG"
+    ]
+  }
+}

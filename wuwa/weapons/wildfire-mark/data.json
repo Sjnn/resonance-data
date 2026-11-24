@@ -1,0 +1,10 @@
+{
+  "id": "wildfire-mark",
+  "name": "Wildfire Mark",
+  "weaponType": "Broadblade",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "Crit DMG",
+  "subStatValue": "48.6%",
+  "passive": "Increases ATK by 12%. Casting Intro Skill or Resonance Liberation increases Resonance Liberation DMG by 24% and team Fusion DMG by 24%."
+}

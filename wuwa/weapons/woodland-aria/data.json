@@ -1,0 +1,10 @@
+{
+  "id": "woodland-aria",
+  "name": "Woodland Aria",
+  "weaponType": "Pistols",
+  "rarity": 5,
+  "baseAtk": 500,
+  "subStat": "Crit Rate",
+  "subStatValue": "36.0%",
+  "passive": "Increases ATK by 12%. Inflicting Aero Erosion grants 24% Aero DMG Bonus and reduces enemy Aero RES by 10%."
+}

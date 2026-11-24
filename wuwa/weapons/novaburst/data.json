@@ -1,0 +1,10 @@
+{
+  "id": "novaburst",
+  "name": "Novaburst",
+  "weaponType": "Pistols",
+  "rarity": 4,
+  "baseAtk": 412,
+  "subStat": "ATK",
+  "subStatValue": "30.3%",
+  "passive": "When the Resonator dashes or dodges, increases ATK by 4%, stacking up to 3 times for 8s."
+}

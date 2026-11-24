@@ -1,0 +1,43 @@
+{
+  "id": "zani",
+  "name": "Zani",
+  "element": "Spectro",
+  "weaponType": "Gauntlets",
+  "rarity": 5,
+  "roles": [
+    "main-dps"
+  ],
+  "rotationType": "sustained",
+  "synergyTags": [
+    "spectro-dmg",
+    "heavy-attack"
+  ],
+  "stats": {
+    "hp": 10775,
+    "atk": 437,
+    "def": 1136
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "blazing-justice",
+      "veritys-handle",
+      "abyss-surges"
+    ],
+    "echoSets": [
+      "eternal-radiance"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Spectro DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "Heavy Attack DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

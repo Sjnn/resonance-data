@@ -1,0 +1,10 @@
+{
+  "id": "augment",
+  "name": "Augment",
+  "weaponType": "Rectifier",
+  "rarity": 4,
+  "baseAtk": 412,
+  "subStat": "Crit Rate",
+  "subStatValue": "20.2%",
+  "passive": "Casting Resonance Liberation increases the wearer ATK by 15% for 15s."
+}

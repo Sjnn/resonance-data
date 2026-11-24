@@ -1,0 +1,10 @@
+{
+  "id": "cadenza",
+  "name": "Cadenza",
+  "weaponType": "Pistols",
+  "rarity": 4,
+  "baseAtk": 337,
+  "subStat": "Energy Regen",
+  "subStatValue": "51.8%",
+  "passive": "When Resonance Skill is cast, restores 8 Concerto Energy. Can be triggered once every 20s."
+}

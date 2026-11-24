@@ -1,0 +1,10 @@
+{
+  "id": "jinzhou-keeper",
+  "name": "Jinzhou Keeper",
+  "weaponType": "Rectifier",
+  "rarity": 4,
+  "baseAtk": 387,
+  "subStat": "ATK",
+  "subStatValue": "36.4%",
+  "passive": "Casting Intro Skill increases the wearer ATK by 8% and HP by 10% for 15s."
+}

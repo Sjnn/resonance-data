@@ -1,0 +1,10 @@
+{
+  "id": "lethean-elegy",
+  "name": "Lethean Elegy",
+  "weaponType": "Rectifier",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "Crit Rate",
+  "subStatValue": "24.3%",
+  "passive": "Increases ATK by 12%. Dealing Echo Skill DMG increases Resonance Skill DMG by 32% and Echo Skill DMG by 32%, ignoring 8% DEF."
+}

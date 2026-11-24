@@ -1,0 +1,43 @@
+{
+  "id": "calcharo",
+  "name": "Calcharo",
+  "element": "Electro",
+  "weaponType": "Broadblade",
+  "rarity": 5,
+  "roles": [
+    "main-dps"
+  ],
+  "rotationType": "sustained",
+  "synergyTags": [
+    "electro-dmg",
+    "liberation-dmg"
+  ],
+  "stats": {
+    "hp": 10500,
+    "atk": 437,
+    "def": 1185
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "lustrous-razor",
+      "verdant-summit",
+      "autumntrace"
+    ],
+    "echoSets": [
+      "void-thunder"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Electro DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "Resonance Liberation DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

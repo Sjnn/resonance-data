@@ -1,0 +1,10 @@
+{
+  "id": "bloodpacts-pledge",
+  "name": "Bloodpact's Pledge",
+  "weaponType": "Sword",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "Energy Regen",
+  "subStatValue": "38.8%",
+  "passive": "Providing Healing increases Resonance Skill DMG by 10% and amplifies team Aero DMG by 10%."
+}

@@ -1,0 +1,10 @@
+{
+  "id": "commando-of-conviction",
+  "name": "Commando of Conviction",
+  "weaponType": "Sword",
+  "rarity": 4,
+  "baseAtk": 412,
+  "subStat": "ATK",
+  "subStatValue": "30.3%",
+  "passive": "When Intro Skill is cast, increases ATK by 15% for 15s."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "phoebe",
+  "name": "Phoebe",
+  "element": "Spectro",
+  "weaponType": "Rectifier",
+  "rarity": 5,
+  "roles": [
+    "main-dps",
+    "sub-dps"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "spectro-dmg",
+    "spectro-buff",
+    "heavy-attack"
+  ],
+  "stats": {
+    "hp": 10825,
+    "atk": 412,
+    "def": 1258
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "luminous-hymn",
+      "stringmaster",
+      "cosmic-ripples"
+    ],
+    "echoSets": [
+      "eternal-radiance",
+      "moonlit-clouds"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Spectro DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "Heavy Attack DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

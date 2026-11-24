@@ -1,0 +1,44 @@
+{
+  "id": "baizhi",
+  "name": "Baizhi",
+  "element": "Glacio",
+  "weaponType": "Rectifier",
+  "rarity": 4,
+  "roles": [
+    "sustain",
+    "buffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "universal-buffer",
+    "healing",
+    "atk-buff"
+  ],
+  "stats": {
+    "hp": 12812,
+    "atk": 212,
+    "def": 1002
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "variation",
+      "stellar-symphony",
+      "jinzhou-keeper"
+    ],
+    "echoSets": [
+      "rejuvenating-glow"
+    ],
+    "mainStats": {
+      "cost4": "Healing Bonus / HP%",
+      "cost3": "Energy Regen",
+      "cost1": "HP%"
+    },
+    "substats": [
+      "Energy Regen",
+      "HP%",
+      "Flat HP",
+      "DEF%"
+    ]
+  }
+}

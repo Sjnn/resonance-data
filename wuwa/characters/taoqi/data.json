@@ -1,0 +1,43 @@
+{
+  "id": "taoqi",
+  "name": "Taoqi",
+  "element": "Havoc",
+  "weaponType": "Broadblade",
+  "rarity": 4,
+  "roles": [
+    "sustain",
+    "buffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "skill-buff",
+    "shield",
+    "healing"
+  ],
+  "stats": {
+    "hp": 8950,
+    "atk": 225,
+    "def": 1564
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "discord",
+      "lustrous-razor"
+    ],
+    "echoSets": [
+      "moonlit-clouds"
+    ],
+    "mainStats": {
+      "cost4": "DEF% / Crit Rate",
+      "cost3": "Energy Regen / DEF%",
+      "cost1": "DEF%"
+    },
+    "substats": [
+      "Energy Regen",
+      "DEF%",
+      "Crit Rate",
+      "Crit DMG"
+    ]
+  }
+}

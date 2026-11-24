@@ -1,0 +1,43 @@
+{
+  "id": "cartethyia",
+  "name": "Cartethyia",
+  "element": "Aero",
+  "weaponType": "Sword",
+  "rarity": 5,
+  "roles": [
+    "main-dps"
+  ],
+  "rotationType": "sustained",
+  "synergyTags": [
+    "aero-dmg",
+    "basic-attack"
+  ],
+  "stats": {
+    "hp": 14800,
+    "atk": 312,
+    "def": 1161
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "defiers-thorn",
+      "emerald-of-genesis",
+      "red-spring"
+    ],
+    "echoSets": [
+      "gusts-of-welkin"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Aero DMG / HP%",
+      "cost1": "HP%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "HP%",
+      "Basic Attack DMG",
+      "Energy Regen"
+    ]
+  }
+}

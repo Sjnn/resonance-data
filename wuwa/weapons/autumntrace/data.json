@@ -1,0 +1,10 @@
+{
+  "id": "autumntrace",
+  "name": "Autumntrace",
+  "weaponType": "Broadblade",
+  "rarity": 4,
+  "baseAtk": 412,
+  "subStat": "Crit Rate",
+  "subStatValue": "20.2%",
+  "passive": "Increases ATK by 4% upon dealing Basic or Heavy Attack DMG, stacking up to 5 times for 7s."
+}

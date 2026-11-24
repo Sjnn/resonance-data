@@ -1,0 +1,10 @@
+{
+  "id": "blazing-justice",
+  "name": "Blazing Justice",
+  "weaponType": "Gauntlets",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "Crit DMG",
+  "subStatValue": "48.6%",
+  "passive": "Increases ATK by 12%. Casting Basic Attack ignores 8% DEF and amplifies Spectro Frazzle DMG by 50%."
+}

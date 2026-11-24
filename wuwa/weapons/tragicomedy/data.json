@@ -1,0 +1,10 @@
+{
+  "id": "tragicomedy",
+  "name": "Tragicomedy",
+  "weaponType": "Gauntlets",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "Crit Rate",
+  "subStatValue": "24.3%",
+  "passive": "Increases ATK by 12%. Casting Basic Attack or Intro Skill increases Heavy Attack DMG Bonus by 48% for 3s."
+}

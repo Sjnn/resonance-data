@@ -1,0 +1,44 @@
+{
+  "id": "lingyang",
+  "name": "Lingyang",
+  "element": "Glacio",
+  "weaponType": "Gauntlets",
+  "rarity": 5,
+  "roles": [
+    "main-dps"
+  ],
+  "rotationType": "sustained",
+  "synergyTags": [
+    "glacio-dmg",
+    "basic-attack"
+  ],
+  "stats": {
+    "hp": 10387,
+    "atk": 437,
+    "def": 1209
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "veritys-handle",
+      "abyss-surges",
+      "hollow-mirage"
+    ],
+    "echoSets": [
+      "freezing-frost",
+      "lingering-tunes"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Glacio DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "Basic Attack DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

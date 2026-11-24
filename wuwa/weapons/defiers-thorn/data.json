@@ -1,0 +1,10 @@
+{
+  "id": "defiers-thorn",
+  "name": "Defier's Thorn",
+  "weaponType": "Sword",
+  "rarity": 5,
+  "baseAtk": 412,
+  "subStat": "HP",
+  "subStatValue": "72.2%",
+  "passive": "Increases Max HP by 12%. Casting Intro Skill or Resonance Skill ignores 8% DEF and amplifies Aero Erosion DMG."
+}

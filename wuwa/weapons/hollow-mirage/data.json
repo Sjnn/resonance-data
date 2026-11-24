@@ -1,0 +1,10 @@
+{
+  "id": "hollow-mirage",
+  "name": "Hollow Mirage",
+  "weaponType": "Gauntlets",
+  "rarity": 4,
+  "baseAtk": 412,
+  "subStat": "ATK",
+  "subStatValue": "36.4%",
+  "passive": "When Resonance Liberation is cast, grants 3 stacks of Iron Armor, each increasing ATK and DEF by 3%."
+}

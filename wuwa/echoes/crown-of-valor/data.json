@@ -1,0 +1,6 @@
+{
+  "id": "crown-of-valor",
+  "name": "Crown of Valor",
+  "twoPiece": "ATK +10%",
+  "fivePiece": "Gaining a Shield increases ATK by 6% and Crit DMG by 4% for 4s, stacking up to 5 times."
+}

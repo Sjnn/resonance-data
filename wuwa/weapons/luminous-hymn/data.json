@@ -1,0 +1,10 @@
+{
+  "id": "luminous-hymn",
+  "name": "Luminous Hymn",
+  "weaponType": "Rectifier",
+  "rarity": 5,
+  "baseAtk": 500,
+  "subStat": "Crit Rate",
+  "subStatValue": "36.0%",
+  "passive": "Increases ATK by 12%. Dealing Basic or Heavy Attack DMG to enemies with Spectro Frazzle boosts DMG and Outro Amplification."
+}

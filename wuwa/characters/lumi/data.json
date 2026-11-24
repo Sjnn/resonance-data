@@ -1,0 +1,45 @@
+{
+  "id": "lumi",
+  "name": "Lumi",
+  "element": "Electro",
+  "weaponType": "Broadblade",
+  "rarity": 4,
+  "roles": [
+    "main-dps",
+    "sub-dps"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "skill-buff",
+    "electro-dmg"
+  ],
+  "stats": {
+    "hp": 8500,
+    "atk": 337,
+    "def": 892
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "ages-of-harvest",
+      "lustrous-razor",
+      "autumntrace"
+    ],
+    "echoSets": [
+      "moonlit-clouds",
+      "void-thunder"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Electro DMG / Energy Regen",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Energy Regen",
+      "Crit Rate",
+      "Crit DMG",
+      "Basic Attack DMG",
+      "ATK%"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "lupa",
+  "name": "Lupa",
+  "element": "Fusion",
+  "weaponType": "Broadblade",
+  "rarity": 5,
+  "roles": [
+    "main-dps",
+    "sub-dps"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "fusion-dmg",
+    "fusion-buff",
+    "basic-attack-buff"
+  ],
+  "stats": {
+    "hp": 11912,
+    "atk": 387,
+    "def": 1185
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "wildfire-mark",
+      "ages-of-harvest",
+      "lustrous-razor"
+    ],
+    "echoSets": [
+      "flaming-clawprint",
+      "molten-rift"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Fusion DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "Resonance Liberation DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "phrolova",
+  "name": "Phrolova",
+  "element": "Havoc",
+  "weaponType": "Rectifier",
+  "rarity": 5,
+  "roles": [
+    "main-dps",
+    "sub-dps"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "havoc-dmg",
+    "heavy-attack-buff",
+    "coordinated-attack"
+  ],
+  "stats": {
+    "hp": 10775,
+    "atk": 437,
+    "def": 1136
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "lethean-elegy",
+      "stringmaster",
+      "cosmic-ripples"
+    ],
+    "echoSets": [
+      "midnight-veil",
+      "havoc-eclipse"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Havoc DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "Resonance Skill DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "yuanwu",
+  "name": "Yuanwu",
+  "element": "Electro",
+  "weaponType": "Gauntlets",
+  "rarity": 4,
+  "roles": [
+    "sub-dps",
+    "buffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "coordinated-attack",
+    "def-buff"
+  ],
+  "stats": {
+    "hp": 8525,
+    "atk": 225,
+    "def": 1637
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "marcato",
+      "abyss-surges"
+    ],
+    "echoSets": [
+      "rejuvenating-glow",
+      "moonlit-clouds"
+    ],
+    "mainStats": {
+      "cost4": "DEF% / Healing Bonus",
+      "cost3": "DEF% / Energy Regen",
+      "cost1": "DEF%"
+    },
+    "substats": [
+      "DEF%",
+      "Energy Regen",
+      "Flat DEF",
+      "Crit Rate"
+    ]
+  }
+}

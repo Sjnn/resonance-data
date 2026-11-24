@@ -1,0 +1,46 @@
+{
+  "id": "roccia",
+  "name": "Roccia",
+  "element": "Havoc",
+  "weaponType": "Gauntlets",
+  "rarity": 5,
+  "roles": [
+    "sub-dps",
+    "buffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "havoc-buff",
+    "basic-attack-buff",
+    "atk-buff"
+  ],
+  "stats": {
+    "hp": 12250,
+    "atk": 375,
+    "def": 1197
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "tragicomedy",
+      "veritys-handle",
+      "abyss-surges"
+    ],
+    "echoSets": [
+      "midnight-veil",
+      "moonlit-clouds"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Havoc DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate (70%+ target)",
+      "Crit DMG",
+      "Heavy Attack DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

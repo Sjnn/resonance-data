@@ -1,0 +1,44 @@
+{
+  "id": "yangyang",
+  "name": "Yangyang",
+  "element": "Aero",
+  "weaponType": "Sword",
+  "rarity": 4,
+  "roles": [
+    "sub-dps",
+    "buffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "energy-buff",
+    "atk-buff"
+  ],
+  "stats": {
+    "hp": 10200,
+    "atk": 250,
+    "def": 1099
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "emerald-of-genesis",
+      "overture",
+      "commando-of-conviction"
+    ],
+    "echoSets": [
+      "moonlit-clouds"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Aero DMG / Energy Regen",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Energy Regen",
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Resonance Liberation DMG"
+    ]
+  }
+}

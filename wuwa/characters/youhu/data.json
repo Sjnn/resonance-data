@@ -1,0 +1,44 @@
+{
+  "id": "youhu",
+  "name": "Youhu",
+  "element": "Glacio",
+  "weaponType": "Gauntlets",
+  "rarity": 4,
+  "roles": [
+    "sustain",
+    "buffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "coordinated-attack-buff",
+    "healing"
+  ],
+  "stats": {
+    "hp": 9975,
+    "atk": 262,
+    "def": 1051
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "variation",
+      "marcato",
+      "abyss-surges"
+    ],
+    "echoSets": [
+      "rejuvenating-glow",
+      "moonlit-clouds"
+    ],
+    "mainStats": {
+      "cost4": "Healing Bonus / Crit Rate",
+      "cost3": "Energy Regen / ATK%",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Energy Regen",
+      "ATK%",
+      "Crit Rate",
+      "Crit DMG"
+    ]
+  }
+}

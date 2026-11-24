@@ -1,0 +1,43 @@
+{
+  "id": "chixia",
+  "name": "Chixia",
+  "element": "Fusion",
+  "weaponType": "Pistols",
+  "rarity": 4,
+  "roles": [
+    "main-dps"
+  ],
+  "rotationType": "sustained",
+  "synergyTags": [
+    "fusion-dmg",
+    "skill-dmg"
+  ],
+  "stats": {
+    "hp": 9087,
+    "atk": 300,
+    "def": 953
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "the-last-dance",
+      "static-mist",
+      "novaburst"
+    ],
+    "echoSets": [
+      "molten-rift"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Fusion DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "Resonance Skill DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "brant",
+  "name": "Brant",
+  "element": "Fusion",
+  "weaponType": "Sword",
+  "rarity": 5,
+  "roles": [
+    "sub-dps",
+    "sustain",
+    "buffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "fusion-buff",
+    "skill-buff",
+    "healing",
+    "shield"
+  ],
+  "stats": {
+    "hp": 11675,
+    "atk": 387,
+    "def": 1307
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "unflickering-valor",
+      "emerald-of-genesis",
+      "overture"
+    ],
+    "echoSets": [
+      "tidebreaking-courage",
+      "molten-rift"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Energy Regen + Fusion DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Energy Regen (250% target)",
+      "Crit Rate",
+      "Crit DMG",
+      "Basic Attack DMG",
+      "ATK%"
+    ]
+  }
+}

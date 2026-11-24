@@ -1,0 +1,44 @@
+{
+  "id": "ciaccona",
+  "name": "Ciaccona",
+  "element": "Aero",
+  "weaponType": "Pistols",
+  "rarity": 5,
+  "roles": [
+    "sub-dps",
+    "buffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "aero-buff",
+    "atk-buff"
+  ],
+  "stats": {
+    "hp": 12237,
+    "atk": 375,
+    "def": 1197
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "woodland-aria",
+      "static-mist"
+    ],
+    "echoSets": [
+      "gusts-of-welkin",
+      "moonlit-clouds"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Aero DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "Energy Regen",
+      "ATK%",
+      "Resonance Liberation DMG"
+    ]
+  }
+}

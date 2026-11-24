@@ -1,0 +1,45 @@
+{
+  "id": "danjin",
+  "name": "Danjin",
+  "element": "Havoc",
+  "weaponType": "Sword",
+  "rarity": 4,
+  "roles": [
+    "main-dps",
+    "sub-dps"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "havoc-dmg",
+    "havoc-buff",
+    "heavy-attack"
+  ],
+  "stats": {
+    "hp": 9437,
+    "atk": 262,
+    "def": 1148
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "blazing-brilliance",
+      "emerald-of-genesis",
+      "commando-of-conviction"
+    ],
+    "echoSets": [
+      "havoc-eclipse"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Havoc DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "Heavy Attack DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}
