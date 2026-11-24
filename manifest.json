@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-24T06:08:28.154Z",
+  "app": {
+    "latestVersion": "1.0.0",
+    "minSupportedVersion": "1.0.0",
+    "releaseUrl": "https://github.com/Sjnn/Resonance/releases/latest",
+    "changelog": []
+  },
+  "games": {
+    "wuwa": {
+      "version": "1.0.0",
+      "path": "wuwa/dataset.json",
+      "sha256": "8ebf321e2c2bc1052fc3e957be0bc3f8bfafef32e09394ee9f05fb28347dfbc6",
+      "counts": {
+        "characters": 1,
+        "weapons": 1,
+        "bosses": 1,
+        "echoes": 1,
+        "builds": 1
+      }
+    }
+  }
+}

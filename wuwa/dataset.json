@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "updatedAt": "2026-11-24T06:08:28.154Z",
+  "characters": [
+    {
+      "id": "jiyan",
+      "name": "Jiyan",
+      "element": "Aero",
+      "weaponType": "Broadblade",
+      "rarity": 5,
+      "roles": [
+        "main-dps"
+      ],
+      "rotationType": "sustained",
+      "synergyTags": [
+        "aero-dmg",
+        "heavy-attack"
+      ],
+      "stats": {
+        "hp": 10488,
+        "atk": 438,
+        "def": 1186
+      },
+      "dataComplete": true,
+      "build": {
+        "weapons": [
+          "verdant-summit"
+        ],
+        "echoSets": [
+          "sierra-gale"
+        ],
+        "mainStats": {
+          "cost4": "Crit Rate / Crit DMG",
+          "cost3": "Aero DMG",
+          "cost1": "ATK%"
+        },
+        "substats": [
+          "Crit Rate",
+          "Crit DMG",
+          "Energy Regen",
+          "ATK%",
+          "Heavy Attack DMG"
+        ]
+      }
+    }
+  ],
+  "weapons": [
+    {
+      "id": "verdant-summit",
+      "name": "Verdant Summit",
+      "weaponType": "Broadblade",
+      "rarity": 5,
+      "baseAtk": 587,
+      "subStat": "Crit DMG",
+      "subStatValue": "48.6%",
+      "passive": "Increases Attribute DMG Bonus by 12%. Every time Intro Skill or Resonance Liberation is cast, increases Heavy Attack DMG Bonus by 24%, stacking up to 2 times."
+    }
+  ],
+  "bosses": [
+    {
+      "id": "feilian-beringal",
+      "name": "Feilian Beringal",
+      "element": "Aero",
+      "cost": 4,
+      "echoSetId": "sierra-gale",
+      "location": "Giant Banyan, Dim Forest"
+    }
+  ],
+  "echoes": [
+    {
+      "id": "sierra-gale",
+      "name": "Sierra Gale",
+      "twoPiece": "Aero DMG +10%",
+      "fivePiece": "Aero DMG +30% for 15s upon using Intro Skill"
+    }
+  ],
+  "builds": [
+    {
+      "characterId": "jiyan",
+      "weapons": [
+        "verdant-summit"
+      ],
+      "echoSets": [
+        "sierra-gale"
+      ],
+      "mainStats": {
+        "cost4": "Crit Rate / Crit DMG",
+        "cost3": "Aero DMG",
+        "cost1": "ATK%"
+      },
+      "substats": [
+        "Crit Rate",
+        "Crit DMG",
+        "Energy Regen",
+        "ATK%",
+        "Heavy Attack DMG"
+      ]
+    }
+  ]
+}
