@@ -1,0 +1,10 @@
+{
+  "id": "rectifier-25",
+  "name": "Rectifier#25",
+  "weaponType": "Rectifier",
+  "rarity": 4,
+  "baseAtk": 337,
+  "subStat": "Energy Regen",
+  "subStatValue": "51.8%",
+  "passive": "When Resonance Skill is cast, if the wielder's HP is below 60%, restores 5% HP; if above 60%, increases ATK by 12% for 10s."
+}

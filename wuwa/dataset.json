@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "synced-2026-11-24T22:35:30.275Z",
-  "updatedAt": "2026-11-24T22:35:30.275Z",
+  "version": "synced-2026-11-24T22:37:21.668Z",
+  "updatedAt": "2026-11-24T22:37:21.668Z",
   "characters": [
     {
       "id": "aalto",
@@ -1432,6 +1432,16 @@
       "passive": "Increases Energy Regen by 12.8%. Hitting with Resonance Skill increases Basic Attack DMG by 10% and vice versa."
     },
     {
+      "id": "aether-strike",
+      "name": "Aether Strike",
+      "weaponType": "Gauntlets",
+      "rarity": 4,
+      "baseAtk": 412,
+      "subStat": "CRIT DMG",
+      "subStatValue": "40.5%",
+      "passive": "Casting Resonance Liberation increases ATK by 7.2% and Resonance Liberation DMG Bonus by 10.8% for 15s, stacking up to 2 times."
+    },
+    {
       "id": "ages-of-harvest",
       "name": "Ages of Harvest",
       "weaponType": "Broadblade",
@@ -1442,6 +1452,16 @@
       "passive": "Grants 12% Attribute DMG Bonus. Casting Intro Skill or Resonance Skill boosts Resonance Skill DMG up to 48%."
     },
     {
+      "id": "amity-accord",
+      "name": "Amity Accord",
+      "weaponType": "Gauntlets",
+      "rarity": 4,
+      "baseAtk": 337,
+      "subStat": "DEF",
+      "subStatValue": "61.5%",
+      "passive": "Casting Intro Skill increases Resonance Liberation DMG Bonus by 20% for 15s."
+    },
+    {
       "id": "augment",
       "name": "Augment",
       "weaponType": "Rectifier",
@@ -1450,6 +1470,16 @@
       "subStat": "Crit Rate",
       "subStatValue": "20.2%",
       "passive": "Casting Resonance Liberation increases the wearer ATK by 15% for 15s."
+    },
+    {
+      "id": "aureate-zenith",
+      "name": "Aureate Zenith",
+      "weaponType": "Broadblade",
+      "rarity": 4,
+      "baseAtk": 412,
+      "subStat": "CRIT DMG",
+      "subStatValue": "40.5%",
+      "passive": "Casting Resonance Liberation increases ATK by 7.2% and Heavy Attack DMG Bonus by 10.8% for 15s, stacking up to 2 times."
     },
     {
       "id": "autumntrace",
@@ -1512,6 +1542,16 @@
       "passive": "Increases ATK by 12%. Casting Intro Skill or Resonance Skill grants 18% Glacio DMG Bonus and increases Resonance Liberation DMG by 32% for 14s."
     },
     {
+      "id": "broadblade-41",
+      "name": "Broadblade#41",
+      "weaponType": "Broadblade",
+      "rarity": 4,
+      "baseAtk": 412,
+      "subStat": "Energy Regen",
+      "subStatValue": "32.3%",
+      "passive": "When the wielder's HP is above 80%, increases ATK by 12%. When HP is below 40%, restores 5% HP when dealing Basic or Heavy Attack DMG."
+    },
+    {
       "id": "cadenza",
       "name": "Cadenza",
       "weaponType": "Pistols",
@@ -1520,6 +1560,36 @@
       "subStat": "Energy Regen",
       "subStatValue": "51.8%",
       "passive": "When Resonance Skill is cast, restores 8 Concerto Energy. Can be triggered once every 20s."
+    },
+    {
+      "id": "call-of-the-abyss",
+      "name": "Call of the Abyss",
+      "weaponType": "Rectifier",
+      "rarity": 4,
+      "baseAtk": 337,
+      "subStat": "Energy Regen",
+      "subStatValue": "51.8%",
+      "passive": "Casting Resonance Liberation increases the wielder's Healing Bonus by 16% for 15s."
+    },
+    {
+      "id": "celestial-spiral",
+      "name": "Celestial Spiral",
+      "weaponType": "Gauntlets",
+      "rarity": 4,
+      "baseAtk": 462,
+      "subStat": "ATK",
+      "subStatValue": "18.2%",
+      "passive": "Casting Resonance Skill restores 6 Resonance Energy and increases ATK by 10% for 16s."
+    },
+    {
+      "id": "comet-flare",
+      "name": "Comet Flare",
+      "weaponType": "Rectifier",
+      "rarity": 4,
+      "baseAtk": 412,
+      "subStat": "HP",
+      "subStatValue": "30.3%",
+      "passive": "Hitting a target with Basic Attack or Heavy Attack increases Healing Bonus by 3% for 10s, stacking up to 3 times."
     },
     {
       "id": "commando-of-conviction",
@@ -1540,6 +1610,16 @@
       "subStat": "ATK",
       "subStatValue": "54.0%",
       "passive": "Increases Energy Regen by 12.8%. Dealing Basic Attack DMG increases Basic Attack DMG Bonus by 3.2%, stacking up to 5 times."
+    },
+    {
+      "id": "dauntless-evernight",
+      "name": "Dauntless Evernight",
+      "weaponType": "Broadblade",
+      "rarity": 4,
+      "baseAtk": 337,
+      "subStat": "DEF",
+      "subStatValue": "61.5%",
+      "passive": "Casting Intro Skill increases ATK by 8% and DEF by 15% for 15s."
     },
     {
       "id": "daybreakers-spine",
@@ -1602,6 +1682,16 @@
       "passive": "Increases All-Attribute DMG Bonus by 12%. Inflicting Tune Rupture - Shifting or Fusion Burst causes Resonance Liberation DMG to ignore 32% of the target's DEF and 10% of Fusion RES."
     },
     {
+      "id": "fables-of-wisdom",
+      "name": "Fables of Wisdom",
+      "weaponType": "Sword",
+      "rarity": 4,
+      "baseAtk": 462,
+      "subStat": "ATK",
+      "subStatValue": "18.2%",
+      "passive": "Dealing damage to enemies with Negative Status effects increases the wielder's ATK by 4% for 10s, stacking up to 4 times."
+    },
+    {
       "id": "firstlights-herald",
       "name": "Firstlight's Herald",
       "weaponType": "Broadblade",
@@ -1642,6 +1732,26 @@
       "passive": "Increases ATK by 12%. Dealing Resonance Skill DMG grants 18% Glacio DMG Bonus and increases Resonance Skill DMG by 28% for 12s."
     },
     {
+      "id": "fusion-accretion",
+      "name": "Fusion Accretion",
+      "weaponType": "Rectifier",
+      "rarity": 4,
+      "baseAtk": 462,
+      "subStat": "ATK",
+      "subStatValue": "18.2%",
+      "passive": "Casting Resonance Skill restores 6 Resonance Energy and increases ATK by 10% for 16s."
+    },
+    {
+      "id": "gauntlets-21d",
+      "name": "Gauntlets#21D",
+      "weaponType": "Gauntlets",
+      "rarity": 4,
+      "baseAtk": 387,
+      "subStat": "Energy Regen",
+      "subStatValue": "38.8%",
+      "passive": "When the wielder dashes or dodges, increases ATK by 8% for 8s and increases Dodge Counter DMG by 50%."
+    },
+    {
       "id": "glint-of-clouds",
       "name": "Glint of Clouds",
       "weaponType": "Sword",
@@ -1650,6 +1760,16 @@
       "subStat": "CRIT Rate",
       "subStatValue": "24.3%",
       "passive": "Increases ATK by 12%. Casting Resonance Skill increases Aero DMG by 18% and Basic Attack DMG by 32% for 14s."
+    },
+    {
+      "id": "helios-cleaver",
+      "name": "Helios Cleaver",
+      "weaponType": "Broadblade",
+      "rarity": 4,
+      "baseAtk": 412,
+      "subStat": "ATK",
+      "subStatValue": "30.3%",
+      "passive": "Within 12s after Resonance Skill is cast, increases ATK by 3% every 2s, stacking up to 4 times."
     },
     {
       "id": "hollow-mirage",
@@ -1682,6 +1802,16 @@
       "passive": "Increases ATK by 12%. Inflicting Negative Status or dealing Resonance Liberation DMG increases Resonance Liberation DMG by 8% (up to 3 stacks) and grants 24% All-Attribute DMG Bonus to team members inflicting Negative Status."
     },
     {
+      "id": "legend-of-drunken-hero",
+      "name": "Legend of Drunken Hero",
+      "weaponType": "Gauntlets",
+      "rarity": 4,
+      "baseAtk": 462,
+      "subStat": "ATK",
+      "subStatValue": "18.2%",
+      "passive": "Dealing damage to enemies with Negative Status effects increases the wielder's ATK by 4% for 10s, stacking up to 4 times."
+    },
+    {
       "id": "lethean-elegy",
       "name": "Lethean Elegy",
       "weaponType": "Rectifier",
@@ -1702,6 +1832,16 @@
       "passive": "Increases ATK by 12%. Dealing Resonance Skill DMG increases Havoc DMG by 18% and boosts coordinated or off-field Resonance Skill DMG by 32% for 14s."
     },
     {
+      "id": "lumingloss",
+      "name": "Lumingloss",
+      "weaponType": "Sword",
+      "rarity": 4,
+      "baseAtk": 387,
+      "subStat": "ATK",
+      "subStatValue": "36.4%",
+      "passive": "Casting Resonance Skill increases Basic Attack DMG and Heavy Attack DMG by 20% for 10s, stacking up to 1 time."
+    },
+    {
       "id": "luminous-hymn",
       "name": "Luminous Hymn",
       "weaponType": "Rectifier",
@@ -1710,6 +1850,16 @@
       "subStat": "Crit Rate",
       "subStatValue": "36.0%",
       "passive": "Increases ATK by 12%. Dealing Basic or Heavy Attack DMG to enemies with Spectro Frazzle boosts DMG and Outro Amplification."
+    },
+    {
+      "id": "lunar-cutter",
+      "name": "Lunar Cutter",
+      "weaponType": "Sword",
+      "rarity": 4,
+      "baseAtk": 412,
+      "subStat": "ATK",
+      "subStatValue": "30.3%",
+      "passive": "Wielder gains 6 stacks of Oath upon entering the battlefield. Dealing DMG consumes 1 stack and increases ATK by 2% for 10s."
     },
     {
       "id": "lustrous-razor",
@@ -1742,6 +1892,16 @@
       "passive": "When Resonance Skill is cast, restores 8 Concerto Energy. Can be triggered once every 20s."
     },
     {
+      "id": "meditation-on-mercy",
+      "name": "Meditation on Mercy",
+      "weaponType": "Broadblade",
+      "rarity": 4,
+      "baseAtk": 462,
+      "subStat": "ATK",
+      "subStatValue": "18.2%",
+      "passive": "Dealing damage to enemies with Negative Status effects increases the wielder's ATK by 4% for 10s, stacking up to 4 times."
+    },
+    {
       "id": "moongazers-sigil",
       "name": "Moongazer's Sigil",
       "weaponType": "Gauntlets",
@@ -1762,6 +1922,16 @@
       "passive": "When the Resonator dashes or dodges, increases ATK by 4%, stacking up to 3 times for 8s."
     },
     {
+      "id": "oceans-gift",
+      "name": "Ocean's Gift",
+      "weaponType": "Rectifier",
+      "rarity": 4,
+      "baseAtk": 462,
+      "subStat": "ATK",
+      "subStatValue": "18.2%",
+      "passive": "Dealing damage to enemies with Spectro Frazzle increases the wielder's Spectro DMG Bonus by 6% for 6s, stacking up to 4 times."
+    },
+    {
       "id": "overture",
       "name": "Overture",
       "weaponType": "Sword",
@@ -1770,6 +1940,26 @@
       "subStat": "Energy Regen",
       "subStatValue": "51.8%",
       "passive": "When Resonance Skill is cast, restores 8 Concerto Energy. Can be triggered once every 20s."
+    },
+    {
+      "id": "pistols-26",
+      "name": "Pistols#26",
+      "weaponType": "Pistols",
+      "rarity": 4,
+      "baseAtk": 387,
+      "subStat": "ATK",
+      "subStatValue": "36.4%",
+      "passive": "When the wielder takes no damage, increases ATK by 6% every 5s, stacking up to 2 times."
+    },
+    {
+      "id": "rectifier-25",
+      "name": "Rectifier#25",
+      "weaponType": "Rectifier",
+      "rarity": 4,
+      "baseAtk": 337,
+      "subStat": "Energy Regen",
+      "subStatValue": "51.8%",
+      "passive": "When Resonance Skill is cast, if the wielder's HP is below 60%, restores 5% HP; if above 60%, increases ATK by 12% for 10s."
     },
     {
       "id": "red-spring",
@@ -1782,6 +1972,16 @@
       "passive": "Increases ATK by 12%. Dealing Basic Attack DMG increases Basic Attack DMG Bonus by up to 50%."
     },
     {
+      "id": "relativistic-jet",
+      "name": "Relativistic Jet",
+      "weaponType": "Pistols",
+      "rarity": 4,
+      "baseAtk": 462,
+      "subStat": "ATK",
+      "subStatValue": "18.2%",
+      "passive": "Casting Resonance Skill restores 6 Resonance Energy and increases ATK by 10% for 16s."
+    },
+    {
       "id": "rime-draped-sprouts",
       "name": "Rime-Draped Sprouts",
       "weaponType": "Rectifier",
@@ -1790,6 +1990,26 @@
       "subStat": "Crit DMG",
       "subStatValue": "72.0%",
       "passive": "Increases ATK by 12%. Casting Resonance Skill increases Basic Attack DMG Bonus by 12% up to 3 stacks, persisting off-field."
+    },
+    {
+      "id": "romance-in-farewell",
+      "name": "Romance in Farewell",
+      "weaponType": "Pistols",
+      "rarity": 4,
+      "baseAtk": 462,
+      "subStat": "ATK",
+      "subStatValue": "18.2%",
+      "passive": "Dealing damage to enemies with Negative Status effects increases the wielder's ATK by 4% for 10s, stacking up to 4 times."
+    },
+    {
+      "id": "scale-slasher",
+      "name": "Scale: Slasher",
+      "weaponType": "Sword",
+      "rarity": 4,
+      "baseAtk": 337,
+      "subStat": "Energy Regen",
+      "subStatValue": "51.8%",
+      "passive": "Casting Resonance Skill restores 6 Concerto Energy. Can be triggered once every 20s."
     },
     {
       "id": "skull-thrasher",
@@ -1802,6 +2022,16 @@
       "passive": "Casting Resonance Skill increases Heavy Attack DMG by 18% and DEF by 15% for 12s."
     },
     {
+      "id": "solar-flame",
+      "name": "Solar Flame",
+      "weaponType": "Pistols",
+      "rarity": 4,
+      "baseAtk": 412,
+      "subStat": "CRIT Rate",
+      "subStatValue": "20.2%",
+      "passive": "Dealing Basic Attack or Heavy Attack DMG increases ATK by 2.2% and Heavy Attack DMG Bonus by 2.2% for 10s, stacking up to 4 times."
+    },
+    {
       "id": "solsworn-ciphers",
       "name": "Solsworn Ciphers",
       "weaponType": "Gauntlets",
@@ -1810,6 +2040,16 @@
       "subStat": "CRIT Rate",
       "subStatValue": "24.3%",
       "passive": "Increases ATK by 12%. Casting Resonance Skill or Echo Skill increases Echo Skill DMG by 24% and Aero DMG by 16% for 12s."
+    },
+    {
+      "id": "somnoire-anchor",
+      "name": "Somnoire Anchor",
+      "weaponType": "Sword",
+      "rarity": 4,
+      "baseAtk": 462,
+      "subStat": "ATK",
+      "subStatValue": "18.2%",
+      "passive": "Dealing damage to targets increases ATK by 2% and CRIT Rate by 0.6% for 3s, stacking up to 10 times."
     },
     {
       "id": "spectral-trigger",
@@ -1862,6 +2102,16 @@
       "passive": "Increases HP by 12%. Restores Concerto Energy when casting Resonance Liberation and increases all nearby allies ATK by 14% when healing."
     },
     {
+      "id": "stonard",
+      "name": "Stonard",
+      "weaponType": "Gauntlets",
+      "rarity": 4,
+      "baseAtk": 412,
+      "subStat": "CRIT Rate",
+      "subStatValue": "20.2%",
+      "passive": "Casting Resonance Skill increases the wielder's Resonance Liberation DMG Bonus by 18% for 15s."
+    },
+    {
       "id": "stringmaster",
       "name": "Stringmaster",
       "weaponType": "Rectifier",
@@ -1870,6 +2120,16 @@
       "subStat": "Crit Rate",
       "subStatValue": "36.0%",
       "passive": "Increases All-Attribute DMG Bonus by 12%. Dealing Resonance Skill DMG increases ATK by 12%, stacking up to 2 times, doubled when off-field."
+    },
+    {
+      "id": "sword-18",
+      "name": "Sword#18",
+      "weaponType": "Sword",
+      "rarity": 4,
+      "baseAtk": 387,
+      "subStat": "ATK",
+      "subStatValue": "36.4%",
+      "passive": "When the wielder's HP drops below 40%, increases Heavy Attack DMG by 18% and restores 5% HP upon dealing Heavy Attack DMG."
     },
     {
       "id": "the-last-dance",
@@ -1892,6 +2152,16 @@
       "passive": "Increases ATK by 12%. Casting Resonance Liberation increases Heavy Attack DMG by 28% and grants 16% Electro DMG Bonus for 14s."
     },
     {
+      "id": "thunderbolt",
+      "name": "Thunderbolt",
+      "weaponType": "Pistols",
+      "rarity": 4,
+      "baseAtk": 387,
+      "subStat": "ATK",
+      "subStatValue": "36.4%",
+      "passive": "Hitting a target with Basic Attack or Heavy Attack increases Resonance Skill DMG Bonus by 7% for 10s, stacking up to 3 times."
+    },
+    {
       "id": "thunderflare-dominion",
       "name": "Thunderflare Dominion",
       "weaponType": "Broadblade",
@@ -1910,6 +2180,16 @@
       "subStat": "Crit Rate",
       "subStatValue": "24.3%",
       "passive": "Increases ATK by 12%. Casting Basic Attack or Intro Skill increases Heavy Attack DMG Bonus by 48% for 3s."
+    },
+    {
+      "id": "undying-flame",
+      "name": "Undying Flame",
+      "weaponType": "Pistols",
+      "rarity": 4,
+      "baseAtk": 412,
+      "subStat": "ATK",
+      "subStatValue": "30.3%",
+      "passive": "Casting Intro Skill increases Resonance Skill DMG Bonus by 20% for 15s."
     },
     {
       "id": "unflickering-valor",
@@ -1960,6 +2240,26 @@
       "subStat": "Crit Rate",
       "subStatValue": "24.3%",
       "passive": "Increases All-Attribute DMG Bonus by 12%. Casting Resonance Liberation increases Resonance Liberation DMG Bonus by 48% for 8s."
+    },
+    {
+      "id": "waltz-in-masquerade",
+      "name": "Waltz in Masquerade",
+      "weaponType": "Rectifier",
+      "rarity": 4,
+      "baseAtk": 462,
+      "subStat": "ATK",
+      "subStatValue": "18.2%",
+      "passive": "Dealing damage to enemies with Negative Status effects increases the wielder's ATK by 4% for 10s, stacking up to 4 times."
+    },
+    {
+      "id": "waning-redshift",
+      "name": "Waning Redshift",
+      "weaponType": "Broadblade",
+      "rarity": 4,
+      "baseAtk": 462,
+      "subStat": "ATK",
+      "subStatValue": "18.2%",
+      "passive": "Casting Resonance Skill restores 6 Resonance Energy and increases ATK by 10% for 16s."
     },
     {
       "id": "whispers-of-sirens",

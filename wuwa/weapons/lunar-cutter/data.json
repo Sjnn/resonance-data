@@ -1,0 +1,10 @@
+{
+  "id": "lunar-cutter",
+  "name": "Lunar Cutter",
+  "weaponType": "Sword",
+  "rarity": 4,
+  "baseAtk": 412,
+  "subStat": "ATK",
+  "subStatValue": "30.3%",
+  "passive": "Wielder gains 6 stacks of Oath upon entering the battlefield. Dealing DMG consumes 1 stack and increases ATK by 2% for 10s."
+}

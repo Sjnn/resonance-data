@@ -1,0 +1,10 @@
+{
+  "id": "stonard",
+  "name": "Stonard",
+  "weaponType": "Gauntlets",
+  "rarity": 4,
+  "baseAtk": 412,
+  "subStat": "CRIT Rate",
+  "subStatValue": "20.2%",
+  "passive": "Casting Resonance Skill increases the wielder's Resonance Liberation DMG Bonus by 18% for 15s."
+}

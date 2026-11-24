@@ -1,0 +1,10 @@
+{
+  "id": "call-of-the-abyss",
+  "name": "Call of the Abyss",
+  "weaponType": "Rectifier",
+  "rarity": 4,
+  "baseAtk": 337,
+  "subStat": "Energy Regen",
+  "subStatValue": "51.8%",
+  "passive": "Casting Resonance Liberation increases the wielder's Healing Bonus by 16% for 15s."
+}

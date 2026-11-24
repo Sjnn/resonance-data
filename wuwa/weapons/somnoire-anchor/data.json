@@ -1,0 +1,10 @@
+{
+  "id": "somnoire-anchor",
+  "name": "Somnoire Anchor",
+  "weaponType": "Sword",
+  "rarity": 4,
+  "baseAtk": 462,
+  "subStat": "ATK",
+  "subStatValue": "18.2%",
+  "passive": "Dealing damage to targets increases ATK by 2% and CRIT Rate by 0.6% for 3s, stacking up to 10 times."
+}

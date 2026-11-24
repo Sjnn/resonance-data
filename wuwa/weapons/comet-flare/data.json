@@ -1,0 +1,10 @@
+{
+  "id": "comet-flare",
+  "name": "Comet Flare",
+  "weaponType": "Rectifier",
+  "rarity": 4,
+  "baseAtk": 412,
+  "subStat": "HP",
+  "subStatValue": "30.3%",
+  "passive": "Hitting a target with Basic Attack or Heavy Attack increases Healing Bonus by 3% for 10s, stacking up to 3 times."
+}

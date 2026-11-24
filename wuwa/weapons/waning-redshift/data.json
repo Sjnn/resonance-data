@@ -1,0 +1,10 @@
+{
+  "id": "waning-redshift",
+  "name": "Waning Redshift",
+  "weaponType": "Broadblade",
+  "rarity": 4,
+  "baseAtk": 462,
+  "subStat": "ATK",
+  "subStatValue": "18.2%",
+  "passive": "Casting Resonance Skill restores 6 Resonance Energy and increases ATK by 10% for 16s."
+}

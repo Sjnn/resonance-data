@@ -1,0 +1,10 @@
+{
+  "id": "broadblade-41",
+  "name": "Broadblade#41",
+  "weaponType": "Broadblade",
+  "rarity": 4,
+  "baseAtk": 412,
+  "subStat": "Energy Regen",
+  "subStatValue": "32.3%",
+  "passive": "When the wielder's HP is above 80%, increases ATK by 12%. When HP is below 40%, restores 5% HP when dealing Basic or Heavy Attack DMG."
+}

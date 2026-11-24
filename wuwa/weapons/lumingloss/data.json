@@ -1,0 +1,10 @@
+{
+  "id": "lumingloss",
+  "name": "Lumingloss",
+  "weaponType": "Sword",
+  "rarity": 4,
+  "baseAtk": 387,
+  "subStat": "ATK",
+  "subStatValue": "36.4%",
+  "passive": "Casting Resonance Skill increases Basic Attack DMG and Heavy Attack DMG by 20% for 10s, stacking up to 1 time."
+}

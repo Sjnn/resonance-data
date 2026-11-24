@@ -1,0 +1,10 @@
+{
+  "id": "aether-strike",
+  "name": "Aether Strike",
+  "weaponType": "Gauntlets",
+  "rarity": 4,
+  "baseAtk": 412,
+  "subStat": "CRIT DMG",
+  "subStatValue": "40.5%",
+  "passive": "Casting Resonance Liberation increases ATK by 7.2% and Resonance Liberation DMG Bonus by 10.8% for 15s, stacking up to 2 times."
+}

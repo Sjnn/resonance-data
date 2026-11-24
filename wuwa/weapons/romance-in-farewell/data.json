@@ -1,0 +1,10 @@
+{
+  "id": "romance-in-farewell",
+  "name": "Romance in Farewell",
+  "weaponType": "Pistols",
+  "rarity": 4,
+  "baseAtk": 462,
+  "subStat": "ATK",
+  "subStatValue": "18.2%",
+  "passive": "Dealing damage to enemies with Negative Status effects increases the wielder's ATK by 4% for 10s, stacking up to 4 times."
+}

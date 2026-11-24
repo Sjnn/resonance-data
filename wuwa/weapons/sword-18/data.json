@@ -1,0 +1,10 @@
+{
+  "id": "sword-18",
+  "name": "Sword#18",
+  "weaponType": "Sword",
+  "rarity": 4,
+  "baseAtk": 387,
+  "subStat": "ATK",
+  "subStatValue": "36.4%",
+  "passive": "When the wielder's HP drops below 40%, increases Heavy Attack DMG by 18% and restores 5% HP upon dealing Heavy Attack DMG."
+}

@@ -1,0 +1,10 @@
+{
+  "id": "solar-flame",
+  "name": "Solar Flame",
+  "weaponType": "Pistols",
+  "rarity": 4,
+  "baseAtk": 412,
+  "subStat": "CRIT Rate",
+  "subStatValue": "20.2%",
+  "passive": "Dealing Basic Attack or Heavy Attack DMG increases ATK by 2.2% and Heavy Attack DMG Bonus by 2.2% for 10s, stacking up to 4 times."
+}

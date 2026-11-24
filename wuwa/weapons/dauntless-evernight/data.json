@@ -1,0 +1,10 @@
+{
+  "id": "dauntless-evernight",
+  "name": "Dauntless Evernight",
+  "weaponType": "Broadblade",
+  "rarity": 4,
+  "baseAtk": 337,
+  "subStat": "DEF",
+  "subStatValue": "61.5%",
+  "passive": "Casting Intro Skill increases ATK by 8% and DEF by 15% for 15s."
+}

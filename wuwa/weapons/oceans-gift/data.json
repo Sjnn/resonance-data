@@ -1,0 +1,10 @@
+{
+  "id": "oceans-gift",
+  "name": "Ocean's Gift",
+  "weaponType": "Rectifier",
+  "rarity": 4,
+  "baseAtk": 462,
+  "subStat": "ATK",
+  "subStatValue": "18.2%",
+  "passive": "Dealing damage to enemies with Spectro Frazzle increases the wielder's Spectro DMG Bonus by 6% for 6s, stacking up to 4 times."
+}

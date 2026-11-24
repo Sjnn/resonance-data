@@ -1,0 +1,10 @@
+{
+  "id": "gauntlets-21d",
+  "name": "Gauntlets#21D",
+  "weaponType": "Gauntlets",
+  "rarity": 4,
+  "baseAtk": 387,
+  "subStat": "Energy Regen",
+  "subStatValue": "38.8%",
+  "passive": "When the wielder dashes or dodges, increases ATK by 8% for 8s and increases Dodge Counter DMG by 50%."
+}

@@ -1,0 +1,10 @@
+{
+  "id": "helios-cleaver",
+  "name": "Helios Cleaver",
+  "weaponType": "Broadblade",
+  "rarity": 4,
+  "baseAtk": 412,
+  "subStat": "ATK",
+  "subStatValue": "30.3%",
+  "passive": "Within 12s after Resonance Skill is cast, increases ATK by 3% every 2s, stacking up to 4 times."
+}

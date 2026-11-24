@@ -1,0 +1,10 @@
+{
+  "id": "pistols-26",
+  "name": "Pistols#26",
+  "weaponType": "Pistols",
+  "rarity": 4,
+  "baseAtk": 387,
+  "subStat": "ATK",
+  "subStatValue": "36.4%",
+  "passive": "When the wielder takes no damage, increases ATK by 6% every 5s, stacking up to 2 times."
+}

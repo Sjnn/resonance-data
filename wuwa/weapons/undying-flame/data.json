@@ -1,0 +1,10 @@
+{
+  "id": "undying-flame",
+  "name": "Undying Flame",
+  "weaponType": "Pistols",
+  "rarity": 4,
+  "baseAtk": 412,
+  "subStat": "ATK",
+  "subStatValue": "30.3%",
+  "passive": "Casting Intro Skill increases Resonance Skill DMG Bonus by 20% for 15s."
+}

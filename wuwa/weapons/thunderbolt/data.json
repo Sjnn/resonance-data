@@ -1,0 +1,10 @@
+{
+  "id": "thunderbolt",
+  "name": "Thunderbolt",
+  "weaponType": "Pistols",
+  "rarity": 4,
+  "baseAtk": 387,
+  "subStat": "ATK",
+  "subStatValue": "36.4%",
+  "passive": "Hitting a target with Basic Attack or Heavy Attack increases Resonance Skill DMG Bonus by 7% for 10s, stacking up to 3 times."
+}
