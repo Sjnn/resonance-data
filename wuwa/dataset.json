@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "synced-2026-11-24T22:37:44.329Z",
-  "updatedAt": "2026-11-24T22:37:44.329Z",
+  "version": "synced-2026-11-24T22:43:11.970Z",
+  "updatedAt": "2026-11-24T22:43:11.970Z",
   "characters": [
     {
       "id": "aalto",
@@ -1429,7 +1429,8 @@
       "baseAtk": 587,
       "subStat": "ATK",
       "subStatValue": "36.4%",
-      "passive": "Increases Energy Regen by 12.8%. Hitting with Resonance Skill increases Basic Attack DMG by 10% and vice versa."
+      "passive": "Increases Energy Regen by 12.8%. Hitting with Resonance Skill increases Basic Attack DMG by 10% and vice versa.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/abyss-surges/icon.png"
     },
     {
       "id": "aether-strike",
@@ -1459,7 +1460,8 @@
       "baseAtk": 337,
       "subStat": "DEF",
       "subStatValue": "61.5%",
-      "passive": "Casting Intro Skill increases Resonance Liberation DMG Bonus by 20% for 15s."
+      "passive": "Casting Intro Skill increases Resonance Liberation DMG Bonus by 20% for 15s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/amity-accord/icon.png"
     },
     {
       "id": "augment",
@@ -1469,7 +1471,8 @@
       "baseAtk": 412,
       "subStat": "Crit Rate",
       "subStatValue": "20.2%",
-      "passive": "Casting Resonance Liberation increases the wearer ATK by 15% for 15s."
+      "passive": "Casting Resonance Liberation increases the wearer ATK by 15% for 15s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/augment/icon.png"
     },
     {
       "id": "aureate-zenith",
@@ -1489,7 +1492,8 @@
       "baseAtk": 412,
       "subStat": "Crit Rate",
       "subStatValue": "20.2%",
-      "passive": "Increases ATK by 4% upon dealing Basic or Heavy Attack DMG, stacking up to 5 times for 7s."
+      "passive": "Increases ATK by 4% upon dealing Basic or Heavy Attack DMG, stacking up to 5 times for 7s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/autumntrace/icon.png"
     },
     {
       "id": "azure-oath",
@@ -1499,7 +1503,8 @@
       "baseAtk": 587,
       "subStat": "CRIT Rate",
       "subStatValue": "24.3%",
-      "passive": "Increases ATK by 12%. Casting Resonance Skill or Resonance Liberation increases Aero DMG by 20% and Resonance Liberation DMG by 32% for 14s."
+      "passive": "Increases ATK by 12%. Casting Resonance Skill or Resonance Liberation increases Aero DMG by 20% and Resonance Liberation DMG by 32% for 14s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/azure-oath/icon.png"
     },
     {
       "id": "blazing-brilliance",
@@ -1539,7 +1544,8 @@
       "baseAtk": 587,
       "subStat": "CRIT DMG",
       "subStatValue": "48.6%",
-      "passive": "Increases ATK by 12%. Casting Intro Skill or Resonance Skill grants 18% Glacio DMG Bonus and increases Resonance Liberation DMG by 32% for 14s."
+      "passive": "Increases ATK by 12%. Casting Intro Skill or Resonance Skill grants 18% Glacio DMG Bonus and increases Resonance Liberation DMG by 32% for 14s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/blooming-jadehaven/icon.webp"
     },
     {
       "id": "broadblade-41",
@@ -1549,7 +1555,8 @@
       "baseAtk": 412,
       "subStat": "Energy Regen",
       "subStatValue": "32.3%",
-      "passive": "When the wielder's HP is above 80%, increases ATK by 12%. When HP is below 40%, restores 5% HP when dealing Basic or Heavy Attack DMG."
+      "passive": "When the wielder's HP is above 80%, increases ATK by 12%. When HP is below 40%, restores 5% HP when dealing Basic or Heavy Attack DMG.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/broadblade-41/icon.png"
     },
     {
       "id": "cadenza",
@@ -1559,7 +1566,8 @@
       "baseAtk": 337,
       "subStat": "Energy Regen",
       "subStatValue": "51.8%",
-      "passive": "When Resonance Skill is cast, restores 8 Concerto Energy. Can be triggered once every 20s."
+      "passive": "When Resonance Skill is cast, restores 8 Concerto Energy. Can be triggered once every 20s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/cadenza/icon.png"
     },
     {
       "id": "call-of-the-abyss",
@@ -1589,7 +1597,8 @@
       "baseAtk": 412,
       "subStat": "HP",
       "subStatValue": "30.3%",
-      "passive": "Hitting a target with Basic Attack or Heavy Attack increases Healing Bonus by 3% for 10s, stacking up to 3 times."
+      "passive": "Hitting a target with Basic Attack or Heavy Attack increases Healing Bonus by 3% for 10s, stacking up to 3 times.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/comet-flare/icon.png"
     },
     {
       "id": "commando-of-conviction",
@@ -1599,7 +1608,8 @@
       "baseAtk": 412,
       "subStat": "ATK",
       "subStatValue": "30.3%",
-      "passive": "When Intro Skill is cast, increases ATK by 15% for 15s."
+      "passive": "When Intro Skill is cast, increases ATK by 15% for 15s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/commando-of-conviction/icon.png"
     },
     {
       "id": "cosmic-ripples",
@@ -1609,7 +1619,8 @@
       "baseAtk": 500,
       "subStat": "ATK",
       "subStatValue": "54.0%",
-      "passive": "Increases Energy Regen by 12.8%. Dealing Basic Attack DMG increases Basic Attack DMG Bonus by 3.2%, stacking up to 5 times."
+      "passive": "Increases Energy Regen by 12.8%. Dealing Basic Attack DMG increases Basic Attack DMG Bonus by 3.2%, stacking up to 5 times.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/cosmic-ripples/icon.png"
     },
     {
       "id": "dauntless-evernight",
@@ -1619,7 +1630,8 @@
       "baseAtk": 337,
       "subStat": "DEF",
       "subStatValue": "61.5%",
-      "passive": "Casting Intro Skill increases ATK by 8% and DEF by 15% for 15s."
+      "passive": "Casting Intro Skill increases ATK by 8% and DEF by 15% for 15s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/dauntless-evernight/icon.png"
     },
     {
       "id": "daybreakers-spine",
@@ -1649,7 +1661,8 @@
       "baseAtk": 337,
       "subStat": "Energy Regen",
       "subStatValue": "51.8%",
-      "passive": "When Resonance Skill is cast, restores 8 Concerto Energy. Can be triggered once every 20s."
+      "passive": "When Resonance Skill is cast, restores 8 Concerto Energy. Can be triggered once every 20s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/discord/icon.png"
     },
     {
       "id": "emerald-of-genesis",
@@ -1659,7 +1672,8 @@
       "baseAtk": 587,
       "subStat": "Crit Rate",
       "subStatValue": "24.3%",
-      "passive": "Increases Energy Regen by 12.8%. Casting Resonance Skill increases ATK by 6%, stacking up to 2 times."
+      "passive": "Increases Energy Regen by 12.8%. Casting Resonance Skill increases ATK by 6%, stacking up to 2 times.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/emerald-of-genesis/icon.png"
     },
     {
       "id": "emerald-sentence",
@@ -1709,7 +1723,8 @@
       "baseAtk": 587,
       "subStat": "CRIT Rate",
       "subStatValue": "24.3%",
-      "passive": "Increases ATK by 12%. Casting Resonance Skill restores 6 Concerto Energy and increases Basic Attack DMG and Fusion DMG by 24% for 14s."
+      "passive": "Increases ATK by 12%. Casting Resonance Skill restores 6 Concerto Energy and increases Basic Attack DMG and Fusion DMG by 24% for 14s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/forged-dwarf-star/icon.webp"
     },
     {
       "id": "freeze-frame",
@@ -1719,7 +1734,8 @@
       "baseAtk": 500,
       "subStat": "CRIT DMG",
       "subStatValue": "72.0%",
-      "passive": "Increases ATK by 12%. Casting Resonance Liberation increases Basic Attack DMG and Glacio DMG by 24% and ignores 12% of the target's DEF for 12s."
+      "passive": "Increases ATK by 12%. Casting Resonance Liberation increases Basic Attack DMG and Glacio DMG by 24% and ignores 12% of the target's DEF for 12s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/freeze-frame/icon.webp"
     },
     {
       "id": "frostburn",
@@ -1729,7 +1745,8 @@
       "baseAtk": 587,
       "subStat": "CRIT DMG",
       "subStatValue": "48.6%",
-      "passive": "Increases ATK by 12%. Dealing Resonance Skill DMG grants 18% Glacio DMG Bonus and increases Resonance Skill DMG by 28% for 12s."
+      "passive": "Increases ATK by 12%. Dealing Resonance Skill DMG grants 18% Glacio DMG Bonus and increases Resonance Skill DMG by 28% for 12s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/frostburn/icon.webp"
     },
     {
       "id": "fusion-accretion",
@@ -1749,7 +1766,8 @@
       "baseAtk": 387,
       "subStat": "Energy Regen",
       "subStatValue": "38.8%",
-      "passive": "When the wielder dashes or dodges, increases ATK by 8% for 8s and increases Dodge Counter DMG by 50%."
+      "passive": "When the wielder dashes or dodges, increases ATK by 8% for 8s and increases Dodge Counter DMG by 50%.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/gauntlets-21d/icon.png"
     },
     {
       "id": "glint-of-clouds",
@@ -1769,7 +1787,8 @@
       "baseAtk": 412,
       "subStat": "ATK",
       "subStatValue": "30.3%",
-      "passive": "Within 12s after Resonance Skill is cast, increases ATK by 3% every 2s, stacking up to 4 times."
+      "passive": "Within 12s after Resonance Skill is cast, increases ATK by 3% every 2s, stacking up to 4 times.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/helios-cleaver/icon.png"
     },
     {
       "id": "hollow-mirage",
@@ -1779,7 +1798,8 @@
       "baseAtk": 412,
       "subStat": "ATK",
       "subStatValue": "36.4%",
-      "passive": "When Resonance Liberation is cast, grants 3 stacks of Iron Armor, each increasing ATK and DEF by 3%."
+      "passive": "When Resonance Liberation is cast, grants 3 stacks of Iron Armor, each increasing ATK and DEF by 3%.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/hollow-mirage/icon.png"
     },
     {
       "id": "jinzhou-keeper",
@@ -1789,7 +1809,8 @@
       "baseAtk": 387,
       "subStat": "ATK",
       "subStatValue": "36.4%",
-      "passive": "Casting Intro Skill increases the wearer ATK by 8% and HP by 10% for 15s."
+      "passive": "Casting Intro Skill increases the wearer ATK by 8% and HP by 10% for 15s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/jinzhou-keeper/icon.png"
     },
     {
       "id": "kumokiri",
@@ -1799,7 +1820,8 @@
       "baseAtk": 500,
       "subStat": "CRIT Rate",
       "subStatValue": "36.0%",
-      "passive": "Increases ATK by 12%. Inflicting Negative Status or dealing Resonance Liberation DMG increases Resonance Liberation DMG by 8% (up to 3 stacks) and grants 24% All-Attribute DMG Bonus to team members inflicting Negative Status."
+      "passive": "Increases ATK by 12%. Inflicting Negative Status or dealing Resonance Liberation DMG increases Resonance Liberation DMG by 8% (up to 3 stacks) and grants 24% All-Attribute DMG Bonus to team members inflicting Negative Status.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/kumokiri/icon.webp"
     },
     {
       "id": "legend-of-drunken-hero",
@@ -1829,7 +1851,8 @@
       "baseAtk": 587,
       "subStat": "CRIT Rate",
       "subStatValue": "24.3%",
-      "passive": "Increases ATK by 12%. Dealing Resonance Skill DMG increases Havoc DMG by 18% and boosts coordinated or off-field Resonance Skill DMG by 32% for 14s."
+      "passive": "Increases ATK by 12%. Dealing Resonance Skill DMG increases Havoc DMG by 18% and boosts coordinated or off-field Resonance Skill DMG by 32% for 14s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/lullaby/icon.png"
     },
     {
       "id": "lumingloss",
@@ -1839,7 +1862,8 @@
       "baseAtk": 387,
       "subStat": "ATK",
       "subStatValue": "36.4%",
-      "passive": "Casting Resonance Skill increases Basic Attack DMG and Heavy Attack DMG by 20% for 10s, stacking up to 1 time."
+      "passive": "Casting Resonance Skill increases Basic Attack DMG and Heavy Attack DMG by 20% for 10s, stacking up to 1 time.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/lumingloss/icon.png"
     },
     {
       "id": "luminous-hymn",
@@ -1859,7 +1883,8 @@
       "baseAtk": 412,
       "subStat": "ATK",
       "subStatValue": "30.3%",
-      "passive": "Wielder gains 6 stacks of Oath upon entering the battlefield. Dealing DMG consumes 1 stack and increases ATK by 2% for 10s."
+      "passive": "Wielder gains 6 stacks of Oath upon entering the battlefield. Dealing DMG consumes 1 stack and increases ATK by 2% for 10s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/lunar-cutter/icon.png"
     },
     {
       "id": "lustrous-razor",
@@ -1869,7 +1894,8 @@
       "baseAtk": 587,
       "subStat": "ATK",
       "subStatValue": "36.4%",
-      "passive": "Increases Energy Regen by 12.8%. Casting Resonance Skill increases Resonance Liberation DMG Bonus by 7%, stacking up to 3 times."
+      "passive": "Increases Energy Regen by 12.8%. Casting Resonance Skill increases Resonance Liberation DMG Bonus by 7%, stacking up to 3 times.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/lustrous-razor/icon.png"
     },
     {
       "id": "lux-and-umbra",
@@ -1889,7 +1915,8 @@
       "baseAtk": 337,
       "subStat": "Energy Regen",
       "subStatValue": "51.8%",
-      "passive": "When Resonance Skill is cast, restores 8 Concerto Energy. Can be triggered once every 20s."
+      "passive": "When Resonance Skill is cast, restores 8 Concerto Energy. Can be triggered once every 20s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/marcato/icon.png"
     },
     {
       "id": "meditation-on-mercy",
@@ -1909,7 +1936,8 @@
       "baseAtk": 500,
       "subStat": "CRIT Rate",
       "subStatValue": "36.0%",
-      "passive": "Increases ATK by 12%. Casting Intro Skill or Resonance Liberation increases Resonance Liberation DMG by 20% and ignores 7.2% of target DEF for 5s when gaining a Shield."
+      "passive": "Increases ATK by 12%. Casting Intro Skill or Resonance Liberation increases Resonance Liberation DMG by 20% and ignores 7.2% of target DEF for 5s when gaining a Shield.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/moongazers-sigil/icon.webp"
     },
     {
       "id": "novaburst",
@@ -1919,7 +1947,8 @@
       "baseAtk": 412,
       "subStat": "ATK",
       "subStatValue": "30.3%",
-      "passive": "When the Resonator dashes or dodges, increases ATK by 4%, stacking up to 3 times for 8s."
+      "passive": "When the Resonator dashes or dodges, increases ATK by 4%, stacking up to 3 times for 8s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/novaburst/icon.png"
     },
     {
       "id": "oceans-gift",
@@ -1939,7 +1968,8 @@
       "baseAtk": 337,
       "subStat": "Energy Regen",
       "subStatValue": "51.8%",
-      "passive": "When Resonance Skill is cast, restores 8 Concerto Energy. Can be triggered once every 20s."
+      "passive": "When Resonance Skill is cast, restores 8 Concerto Energy. Can be triggered once every 20s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/overture/icon.png"
     },
     {
       "id": "pistols-26",
@@ -1949,7 +1979,8 @@
       "baseAtk": 387,
       "subStat": "ATK",
       "subStatValue": "36.4%",
-      "passive": "When the wielder takes no damage, increases ATK by 6% every 5s, stacking up to 2 times."
+      "passive": "When the wielder takes no damage, increases ATK by 6% every 5s, stacking up to 2 times.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/pistols-26/icon.png"
     },
     {
       "id": "rectifier-25",
@@ -1959,7 +1990,8 @@
       "baseAtk": 337,
       "subStat": "Energy Regen",
       "subStatValue": "51.8%",
-      "passive": "When Resonance Skill is cast, if the wielder's HP is below 60%, restores 5% HP; if above 60%, increases ATK by 12% for 10s."
+      "passive": "When Resonance Skill is cast, if the wielder's HP is below 60%, restores 5% HP; if above 60%, increases ATK by 12% for 10s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/rectifier-25/icon.png"
     },
     {
       "id": "red-spring",
@@ -2069,7 +2101,8 @@
       "baseAtk": 587,
       "subStat": "CRIT Rate",
       "subStatValue": "24.3%",
-      "passive": "Increases ATK by 12%. Casting Intro Skill or Basic Attack increases Basic Attack DMG by 36% and boosts All-Attribute DMG of all nearby team members by 8% (stacking up to 3 times)."
+      "passive": "Increases ATK by 12%. Casting Intro Skill or Basic Attack increases Basic Attack DMG by 36% and boosts All-Attribute DMG of all nearby team members by 8% (stacking up to 3 times).",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/spectrum-blaster/icon.webp"
     },
     {
       "id": "starfield-calibrator",
@@ -2079,7 +2112,8 @@
       "baseAtk": 413,
       "subStat": "Energy Regen",
       "subStatValue": "77.0%",
-      "passive": "Increases DEF by 16%. Casting Resonance Skill restores 8 Concerto Energy and increases CRIT DMG of all nearby Resonators by 20% for 4s when the wielder heals an ally."
+      "passive": "Increases DEF by 16%. Casting Resonance Skill restores 8 Concerto Energy and increases CRIT DMG of all nearby Resonators by 20% for 4s when the wielder heals an ally.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/starfield-calibrator/icon.webp"
     },
     {
       "id": "static-mist",
@@ -2089,7 +2123,8 @@
       "baseAtk": 587,
       "subStat": "Crit Rate",
       "subStatValue": "24.3%",
-      "passive": "Increases Energy Regen by 12.8%. Casting Outro Skill increases the incoming Resonator ATK by 10%, stacking once."
+      "passive": "Increases Energy Regen by 12.8%. Casting Outro Skill increases the incoming Resonator ATK by 10%, stacking once.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/static-mist/icon.png"
     },
     {
       "id": "stellar-symphony",
@@ -2109,7 +2144,8 @@
       "baseAtk": 412,
       "subStat": "CRIT Rate",
       "subStatValue": "20.2%",
-      "passive": "Casting Resonance Skill increases the wielder's Resonance Liberation DMG Bonus by 18% for 15s."
+      "passive": "Casting Resonance Skill increases the wielder's Resonance Liberation DMG Bonus by 18% for 15s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/stonard/icon.png"
     },
     {
       "id": "stringmaster",
@@ -2119,7 +2155,8 @@
       "baseAtk": 500,
       "subStat": "Crit Rate",
       "subStatValue": "36.0%",
-      "passive": "Increases All-Attribute DMG Bonus by 12%. Dealing Resonance Skill DMG increases ATK by 12%, stacking up to 2 times, doubled when off-field."
+      "passive": "Increases All-Attribute DMG Bonus by 12%. Dealing Resonance Skill DMG increases ATK by 12%, stacking up to 2 times, doubled when off-field.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/stringmaster/icon.png"
     },
     {
       "id": "sword-18",
@@ -2129,7 +2166,8 @@
       "baseAtk": 387,
       "subStat": "ATK",
       "subStatValue": "36.4%",
-      "passive": "When the wielder's HP drops below 40%, increases Heavy Attack DMG by 18% and restores 5% HP upon dealing Heavy Attack DMG."
+      "passive": "When the wielder's HP drops below 40%, increases Heavy Attack DMG by 18% and restores 5% HP upon dealing Heavy Attack DMG.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/sword-18/icon.png"
     },
     {
       "id": "the-last-dance",
@@ -2159,7 +2197,8 @@
       "baseAtk": 387,
       "subStat": "ATK",
       "subStatValue": "36.4%",
-      "passive": "Hitting a target with Basic Attack or Heavy Attack increases Resonance Skill DMG Bonus by 7% for 10s, stacking up to 3 times."
+      "passive": "Hitting a target with Basic Attack or Heavy Attack increases Resonance Skill DMG Bonus by 7% for 10s, stacking up to 3 times.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/thunderbolt/icon.png"
     },
     {
       "id": "thunderflare-dominion",
@@ -2189,7 +2228,8 @@
       "baseAtk": 412,
       "subStat": "ATK",
       "subStatValue": "30.3%",
-      "passive": "Casting Intro Skill increases Resonance Skill DMG Bonus by 20% for 15s."
+      "passive": "Casting Intro Skill increases Resonance Skill DMG Bonus by 20% for 15s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/undying-flame/icon.png"
     },
     {
       "id": "unflickering-valor",
@@ -2209,7 +2249,8 @@
       "baseAtk": 500,
       "subStat": "CRIT DMG",
       "subStatValue": "72.0%",
-      "passive": "Increases ATK by 12%. Casting Echo Skill or Resonance Liberation increases Havoc DMG by 20% and Heavy Attack DMG by 32% for 12s."
+      "passive": "Increases ATK by 12%. Casting Echo Skill or Resonance Liberation increases Havoc DMG by 20% and Heavy Attack DMG by 32% for 12s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/unspoken-rue/icon.webp"
     },
     {
       "id": "variation",
@@ -2219,7 +2260,8 @@
       "baseAtk": 337,
       "subStat": "Energy Regen",
       "subStatValue": "51.8%",
-      "passive": "When Resonance Skill is cast, restores 8 Concerto Energy. Can be triggered once every 20s."
+      "passive": "When Resonance Skill is cast, restores 8 Concerto Energy. Can be triggered once every 20s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/variation/icon.png"
     },
     {
       "id": "verdant-summit",
@@ -2229,7 +2271,8 @@
       "baseAtk": 587,
       "subStat": "Crit DMG",
       "subStatValue": "48.6%",
-      "passive": "Increases Attribute DMG Bonus by 12%. Casting Intro Skill or Resonance Liberation increases Heavy Attack DMG Bonus by 24%, stacking up to 2 times."
+      "passive": "Increases Attribute DMG Bonus by 12%. Casting Intro Skill or Resonance Liberation increases Heavy Attack DMG Bonus by 24%, stacking up to 2 times.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/verdant-summit/icon.png"
     },
     {
       "id": "veritys-handle",
