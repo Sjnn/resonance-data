@@ -1,0 +1,10 @@
+{
+  "id": "lullaby",
+  "name": "Lullaby",
+  "weaponType": "Rectifier",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "CRIT Rate",
+  "subStatValue": "24.3%",
+  "passive": "Increases ATK by 12%. Dealing Resonance Skill DMG increases Havoc DMG by 18% and boosts coordinated or off-field Resonance Skill DMG by 32% for 14s."
+}

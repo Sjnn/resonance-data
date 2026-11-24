@@ -1,0 +1,10 @@
+{
+  "id": "starfield-calibrator",
+  "name": "Starfield Calibrator",
+  "weaponType": "Broadblade",
+  "rarity": 5,
+  "baseAtk": 413,
+  "subStat": "Energy Regen",
+  "subStatValue": "77.0%",
+  "passive": "Increases DEF by 16%. Casting Resonance Skill restores 8 Concerto Energy and increases CRIT DMG of all nearby Resonators by 20% for 4s when the wielder heals an ally."
+}

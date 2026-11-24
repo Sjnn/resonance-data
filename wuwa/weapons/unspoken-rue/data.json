@@ -1,0 +1,10 @@
+{
+  "id": "unspoken-rue",
+  "name": "Unspoken Rue",
+  "weaponType": "Rectifier",
+  "rarity": 5,
+  "baseAtk": 500,
+  "subStat": "CRIT DMG",
+  "subStatValue": "72.0%",
+  "passive": "Increases ATK by 12%. Casting Echo Skill or Resonance Liberation increases Havoc DMG by 20% and Heavy Attack DMG by 32% for 12s."
+}

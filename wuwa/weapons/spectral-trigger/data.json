@@ -1,0 +1,10 @@
+{
+  "id": "spectral-trigger",
+  "name": "Spectral Trigger",
+  "weaponType": "Pistols",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "CRIT Rate",
+  "subStatValue": "24.3%",
+  "passive": "Increases ATK by 12%. Dealing Resonance Liberation DMG increases Electro DMG by 18% and Resonance Liberation DMG by 32% for 12s."
+}

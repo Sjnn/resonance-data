@@ -1,0 +1,10 @@
+{
+  "id": "blooming-jadehaven",
+  "name": "Blooming Jadehaven",
+  "weaponType": "Sword",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "CRIT DMG",
+  "subStatValue": "48.6%",
+  "passive": "Increases ATK by 12%. Casting Intro Skill or Resonance Skill grants 18% Glacio DMG Bonus and increases Resonance Liberation DMG by 32% for 14s."
+}

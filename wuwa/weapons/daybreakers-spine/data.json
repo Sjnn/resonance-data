@@ -1,0 +1,10 @@
+{
+  "id": "daybreakers-spine",
+  "name": "Daybreaker's Spine",
+  "weaponType": "Gauntlets",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "CRIT Rate",
+  "subStatValue": "24.3%",
+  "passive": "Increases ATK by 12%. Dealing Basic Attack DMG grants 1 stack of Golden Verdict, increasing Basic Attack DMG by 10% (up to 4 stacks) and ignoring 18% of target Spectro RES at max stacks."
+}

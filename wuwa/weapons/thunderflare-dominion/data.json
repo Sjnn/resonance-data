@@ -1,0 +1,10 @@
+{
+  "id": "thunderflare-dominion",
+  "name": "Thunderflare Dominion",
+  "weaponType": "Broadblade",
+  "rarity": 5,
+  "baseAtk": 675,
+  "subStat": "CRIT Rate",
+  "subStatValue": "12.2%",
+  "passive": "Increases ATK by 12%. Casting Intro Skill or Resonance Skill increases Heavy Attack DMG by 20% and causes Heavy Attacks to ignore 7.2% of target DEF, stacking up to 5 times while shielded."
+}

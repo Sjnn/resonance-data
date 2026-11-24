@@ -1,0 +1,10 @@
+{
+  "id": "thousandfold-deliverance",
+  "name": "Thousandfold Deliverance",
+  "weaponType": "Broadblade",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "CRIT DMG",
+  "subStatValue": "48.6%",
+  "passive": "Increases ATK by 12%. Casting Resonance Liberation increases Heavy Attack DMG by 28% and grants 16% Electro DMG Bonus for 14s."
+}

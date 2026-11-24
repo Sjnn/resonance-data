@@ -1,0 +1,10 @@
+{
+  "id": "freeze-frame",
+  "name": "Freeze Frame",
+  "weaponType": "Rectifier",
+  "rarity": 5,
+  "baseAtk": 500,
+  "subStat": "CRIT DMG",
+  "subStatValue": "72.0%",
+  "passive": "Increases ATK by 12%. Casting Resonance Liberation increases Basic Attack DMG and Glacio DMG by 24% and ignores 12% of the target's DEF for 12s."
+}

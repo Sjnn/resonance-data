@@ -1,0 +1,10 @@
+{
+  "id": "emerald-sentence",
+  "name": "Emerald Sentence",
+  "weaponType": "Sword",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "CRIT Rate",
+  "subStatValue": "24.3%",
+  "passive": "Increases ATK by 12%. Casting Echo Skill grants 20% Heavy Attack DMG Bonus to the wielder and 20% Echo Skill DMG Amplification to all Resonators in the team for 30s."
+}

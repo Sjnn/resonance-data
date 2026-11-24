@@ -1,0 +1,10 @@
+{
+  "id": "everbright-polestar",
+  "name": "Everbright Polestar",
+  "weaponType": "Sword",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "CRIT Rate",
+  "subStatValue": "24.3%",
+  "passive": "Increases All-Attribute DMG Bonus by 12%. Inflicting Tune Rupture - Shifting or Fusion Burst causes Resonance Liberation DMG to ignore 32% of the target's DEF and 10% of Fusion RES."
+}

@@ -1,0 +1,10 @@
+{
+  "id": "spectrum-blaster",
+  "name": "Spectrum Blaster",
+  "weaponType": "Pistols",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "CRIT Rate",
+  "subStatValue": "24.3%",
+  "passive": "Increases ATK by 12%. Casting Intro Skill or Basic Attack increases Basic Attack DMG by 36% and boosts All-Attribute DMG of all nearby team members by 8% (stacking up to 3 times)."
+}

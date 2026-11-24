@@ -1,0 +1,10 @@
+{
+  "id": "skull-thrasher",
+  "name": "Skull Thrasher",
+  "weaponType": "Gauntlets",
+  "rarity": 4,
+  "baseAtk": 462,
+  "subStat": "ATK",
+  "subStatValue": "36.4%",
+  "passive": "Casting Resonance Skill increases Heavy Attack DMG by 18% and DEF by 15% for 12s."
+}

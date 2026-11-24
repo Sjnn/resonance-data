@@ -1,0 +1,10 @@
+{
+  "id": "kumokiri",
+  "name": "Kumokiri",
+  "weaponType": "Broadblade",
+  "rarity": 5,
+  "baseAtk": 500,
+  "subStat": "CRIT Rate",
+  "subStatValue": "36.0%",
+  "passive": "Increases ATK by 12%. Inflicting Negative Status or dealing Resonance Liberation DMG increases Resonance Liberation DMG by 8% (up to 3 stacks) and grants 24% All-Attribute DMG Bonus to team members inflicting Negative Status."
+}

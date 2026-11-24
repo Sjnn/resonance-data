@@ -1,0 +1,10 @@
+{
+  "id": "moongazers-sigil",
+  "name": "Moongazer's Sigil",
+  "weaponType": "Gauntlets",
+  "rarity": 5,
+  "baseAtk": 500,
+  "subStat": "CRIT Rate",
+  "subStatValue": "36.0%",
+  "passive": "Increases ATK by 12%. Casting Intro Skill or Resonance Liberation increases Resonance Liberation DMG by 20% and ignores 7.2% of target DEF for 5s when gaining a Shield."
+}

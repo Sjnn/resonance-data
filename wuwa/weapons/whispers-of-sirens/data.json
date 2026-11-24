@@ -1,0 +1,10 @@
+{
+  "id": "whispers-of-sirens",
+  "name": "Whispers of Sirens",
+  "weaponType": "Rectifier",
+  "rarity": 5,
+  "baseAtk": 500,
+  "subStat": "CRIT DMG",
+  "subStatValue": "72.0%",
+  "passive": "Increases ATK by 12%. Casting Echo Skill grants 1 stack of Gentle Dream (up to 2 stacks), increasing Basic Attack DMG by 40% per stack and ignoring 12% of the target's Havoc RES when hitting with Basic Attacks."
+}

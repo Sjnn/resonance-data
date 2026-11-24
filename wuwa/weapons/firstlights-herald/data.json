@@ -1,0 +1,10 @@
+{
+  "id": "firstlights-herald",
+  "name": "Firstlight's Herald",
+  "weaponType": "Broadblade",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "CRIT Rate",
+  "subStatValue": "24.3%",
+  "passive": "Increases ATK by 12%. Casting Intro Skill or Resonance Liberation increases Heavy Attack DMG by 32% and Spectro DMG by 16% for 14s."
+}

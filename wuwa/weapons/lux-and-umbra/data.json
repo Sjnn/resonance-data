@@ -1,0 +1,10 @@
+{
+  "id": "lux-and-umbra",
+  "name": "Lux & Umbra",
+  "weaponType": "Pistols",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "CRIT DMG",
+  "subStatValue": "48.6%",
+  "passive": "Increases ATK by 12%. Dealing Echo Skill DMG or Heavy Attack DMG amplifies both Heavy Attack DMG and Echo Skill DMG by 20% and ignores 8% of target DEF."
+}

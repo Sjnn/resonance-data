@@ -1,0 +1,10 @@
+{
+  "id": "azure-oath",
+  "name": "Azure Oath",
+  "weaponType": "Sword",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "CRIT Rate",
+  "subStatValue": "24.3%",
+  "passive": "Increases ATK by 12%. Casting Resonance Skill or Resonance Liberation increases Aero DMG by 20% and Resonance Liberation DMG by 32% for 14s."
+}

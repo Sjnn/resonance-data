@@ -1,0 +1,10 @@
+{
+  "id": "forged-dwarf-star",
+  "name": "Forged Dwarf Star",
+  "weaponType": "Gauntlets",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "CRIT Rate",
+  "subStatValue": "24.3%",
+  "passive": "Increases ATK by 12%. Casting Resonance Skill restores 6 Concerto Energy and increases Basic Attack DMG and Fusion DMG by 24% for 14s."
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glint-of-clouds",
+  "name": "Glint of Clouds",
+  "weaponType": "Sword",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "CRIT Rate",
+  "subStatValue": "24.3%",
+  "passive": "Increases ATK by 12%. Casting Resonance Skill increases Aero DMG by 18% and Basic Attack DMG by 32% for 14s."
+}

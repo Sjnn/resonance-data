@@ -1,0 +1,10 @@
+{
+  "id": "solsworn-ciphers",
+  "name": "Solsworn Ciphers",
+  "weaponType": "Gauntlets",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "CRIT Rate",
+  "subStatValue": "24.3%",
+  "passive": "Increases ATK by 12%. Casting Resonance Skill or Echo Skill increases Echo Skill DMG by 24% and Aero DMG by 16% for 12s."
+}

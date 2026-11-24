@@ -1,0 +1,10 @@
+{
+  "id": "frostburn",
+  "name": "Frostburn",
+  "weaponType": "Sword",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "CRIT DMG",
+  "subStatValue": "48.6%",
+  "passive": "Increases ATK by 12%. Dealing Resonance Skill DMG grants 18% Glacio DMG Bonus and increases Resonance Skill DMG by 28% for 12s."
+}
