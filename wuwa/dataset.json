@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "synced-2026-11-24T22:51:07.037Z",
-  "updatedAt": "2026-11-24T22:51:07.037Z",
+  "version": "synced-2026-11-24T22:53:38.112Z",
+  "updatedAt": "2026-11-24T22:53:38.112Z",
   "characters": [
     {
       "id": "aalto",
@@ -1946,7 +1946,8 @@
       "baseAtk": 462,
       "subStat": "ATK",
       "subStatValue": "18.2%",
-      "passive": "Dealing damage to enemies with Negative Status effects increases the wielder's ATK by 4% for 10s, stacking up to 4 times."
+      "passive": "Dealing damage to enemies with Negative Status effects increases the wielder's ATK by 4% for 10s, stacking up to 4 times.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/meditation-on-mercy/icon.png"
     },
     {
       "id": "moongazers-sigil",
