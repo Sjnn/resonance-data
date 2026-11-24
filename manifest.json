@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T08:18:31.165Z",
+  "updatedAt": "2026-11-24T08:18:46.517Z",
   "app": {
     "latestVersion": "1.0.0",
     "minSupportedVersion": "1.0.0",
@@ -11,7 +11,7 @@
     "wuwa": {
       "version": "2026.11.24",
       "path": "wuwa/dataset.json",
-      "sha256": "35d7e334ace1c818ec7e4a6711cf3340fe8965c16b44738236679d820fae7e35",
+      "sha256": "f5b3a68a543deba957ca2f665f5199fe9038f6f80052b86ee02bb77247d4cdb8",
       "counts": {
         "characters": 50,
         "weapons": 34,
