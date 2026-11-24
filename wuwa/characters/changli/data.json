@@ -1,0 +1,45 @@
+{
+  "id": "changli",
+  "name": "Changli",
+  "element": "Fusion",
+  "weaponType": "Sword",
+  "rarity": 5,
+  "roles": [
+    "main-dps",
+    "sub-dps"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "fusion-dmg",
+    "fusion-buff",
+    "liberation-buff",
+    "skill-dmg"
+  ],
+  "stats": {
+    "hp": 10387,
+    "atk": 462,
+    "def": 1099
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "blazing-brilliance",
+      "emerald-of-genesis"
+    ],
+    "echoSets": [
+      "molten-rift"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Fusion DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "Energy Regen",
+      "Resonance Skill DMG",
+      "ATK%"
+    ]
+  }
+}

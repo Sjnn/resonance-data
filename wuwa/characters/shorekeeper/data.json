@@ -1,0 +1,44 @@
+{
+  "id": "shorekeeper",
+  "name": "Shorekeeper",
+  "element": "Spectro",
+  "weaponType": "Rectifier",
+  "rarity": 5,
+  "roles": [
+    "sustain",
+    "buffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "universal-buffer",
+    "healing",
+    "crit-buff",
+    "atk-buff"
+  ],
+  "stats": {
+    "hp": 16712,
+    "atk": 287,
+    "def": 1099
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "stellar-symphony",
+      "variation"
+    ],
+    "echoSets": [
+      "rejuvenating-glow"
+    ],
+    "mainStats": {
+      "cost4": "Healing Bonus / HP%",
+      "cost3": "Energy Regen",
+      "cost1": "HP%"
+    },
+    "substats": [
+      "Energy Regen (250% target)",
+      "HP%",
+      "Crit DMG",
+      "Flat HP"
+    ]
+  }
+}

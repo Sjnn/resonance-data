@@ -1,0 +1,6 @@
+{
+  "id": "havoc-eclipse",
+  "name": "Havoc Eclipse",
+  "twoPiece": "Havoc DMG +10%",
+  "fivePiece": "Havoc DMG +7.5% after releasing Basic Attack or Heavy Attack, stacking up to 4 times for 15s."
+}

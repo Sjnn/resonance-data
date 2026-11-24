@@ -6,5 +6,5 @@
   "baseAtk": 587,
   "subStat": "Crit DMG",
   "subStatValue": "48.6%",
-  "passive": "Increases Attribute DMG Bonus by 12%. Every time Intro Skill or Resonance Liberation is cast, increases Heavy Attack DMG Bonus by 24%, stacking up to 2 times."
+  "passive": "Increases Attribute DMG Bonus by 12%. Casting Intro Skill or Resonance Liberation increases Heavy Attack DMG Bonus by 24%, stacking up to 2 times."
 }

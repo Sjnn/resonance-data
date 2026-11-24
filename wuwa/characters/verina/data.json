@@ -1,0 +1,44 @@
+{
+  "id": "verina",
+  "name": "Verina",
+  "element": "Spectro",
+  "weaponType": "Rectifier",
+  "rarity": 5,
+  "roles": [
+    "sustain",
+    "buffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "universal-buffer",
+    "healing",
+    "atk-buff",
+    "coordinated-attack"
+  ],
+  "stats": {
+    "hp": 14237,
+    "atk": 337,
+    "def": 1099
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "variation",
+      "cosmic-ripples"
+    ],
+    "echoSets": [
+      "rejuvenating-glow"
+    ],
+    "mainStats": {
+      "cost4": "Healing Bonus / ATK%",
+      "cost3": "Energy Regen",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Energy Regen",
+      "ATK%",
+      "Flat ATK",
+      "HP%"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "lustrous-razor",
+  "name": "Lustrous Razor",
+  "weaponType": "Broadblade",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "ATK",
+  "subStatValue": "36.4%",
+  "passive": "Increases Energy Regen by 12.8%. Casting Resonance Skill increases Resonance Liberation DMG Bonus by 7%, stacking up to 3 times."
+}

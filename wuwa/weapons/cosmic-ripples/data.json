@@ -1,0 +1,10 @@
+{
+  "id": "cosmic-ripples",
+  "name": "Cosmic Ripples",
+  "weaponType": "Rectifier",
+  "rarity": 5,
+  "baseAtk": 500,
+  "subStat": "ATK",
+  "subStatValue": "54.0%",
+  "passive": "Increases Energy Regen by 12.8%. Dealing Basic Attack DMG increases Basic Attack DMG Bonus by 3.2%, stacking up to 5 times."
+}

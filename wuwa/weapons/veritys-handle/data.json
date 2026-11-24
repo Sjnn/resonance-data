@@ -1,0 +1,10 @@
+{
+  "id": "veritys-handle",
+  "name": "Verity's Handle",
+  "weaponType": "Gauntlets",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "Crit Rate",
+  "subStatValue": "24.3%",
+  "passive": "Increases All-Attribute DMG Bonus by 12%. Casting Resonance Liberation increases Resonance Liberation DMG Bonus by 48% for 8s."
+}

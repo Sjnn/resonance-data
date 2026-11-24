@@ -1,0 +1,46 @@
+{
+  "id": "zhezhi",
+  "name": "Zhezhi",
+  "element": "Glacio",
+  "weaponType": "Rectifier",
+  "rarity": 5,
+  "roles": [
+    "sub-dps",
+    "buffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "glacio-buff",
+    "skill-buff",
+    "coordinated-attack"
+  ],
+  "stats": {
+    "hp": 12250,
+    "atk": 375,
+    "def": 1197
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "rime-draped-sprouts",
+      "stringmaster",
+      "cosmic-ripples"
+    ],
+    "echoSets": [
+      "empyrean-anthem",
+      "moonlit-clouds"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Glacio DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "Energy Regen",
+      "Basic Attack DMG",
+      "ATK%"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "jianxin",
+  "name": "Jianxin",
+  "element": "Aero",
+  "weaponType": "Gauntlets",
+  "rarity": 5,
+  "roles": [
+    "sustain",
+    "buffer",
+    "sub-dps"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "liberation-buff",
+    "healing",
+    "shield"
+  ],
+  "stats": {
+    "hp": 14112,
+    "atk": 337,
+    "def": 1124
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "abyss-surges"
+    ],
+    "echoSets": [
+      "moonlit-clouds",
+      "rejuvenating-glow"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / ATK%",
+      "cost3": "Energy Regen / Aero DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Energy Regen",
+      "ATK%",
+      "Crit Rate",
+      "Crit DMG"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "rime-draped-sprouts",
+  "name": "Rime-Draped Sprouts",
+  "weaponType": "Rectifier",
+  "rarity": 5,
+  "baseAtk": 500,
+  "subStat": "Crit DMG",
+  "subStatValue": "72.0%",
+  "passive": "Increases ATK by 12%. Casting Resonance Skill increases Basic Attack DMG Bonus by 12% up to 3 stacks, persisting off-field."
+}

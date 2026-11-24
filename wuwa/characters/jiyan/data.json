@@ -4,15 +4,39 @@
   "element": "Aero",
   "weaponType": "Broadblade",
   "rarity": 5,
-  "roles": ["main-dps"],
+  "roles": [
+    "main-dps"
+  ],
   "rotationType": "sustained",
-  "synergyTags": ["aero-dmg", "heavy-attack"],
-  "stats": { "hp": 10488, "atk": 438, "def": 1186 },
+  "synergyTags": [
+    "aero-dmg",
+    "heavy-attack"
+  ],
+  "stats": {
+    "hp": 10488,
+    "atk": 438,
+    "def": 1186
+  },
   "dataComplete": true,
   "build": {
-    "weapons": ["verdant-summit"],
-    "echoSets": ["sierra-gale"],
-    "mainStats": { "cost4": "Crit Rate / Crit DMG", "cost3": "Aero DMG", "cost1": "ATK%" },
-    "substats": ["Crit Rate", "Crit DMG", "Energy Regen", "ATK%", "Heavy Attack DMG"]
+    "weapons": [
+      "verdant-summit",
+      "lustrous-razor"
+    ],
+    "echoSets": [
+      "sierra-gale"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Aero DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "Energy Regen",
+      "ATK%",
+      "Heavy Attack DMG"
+    ]
   }
 }

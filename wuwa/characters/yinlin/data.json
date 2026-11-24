@@ -1,0 +1,45 @@
+{
+  "id": "yinlin",
+  "name": "Yinlin",
+  "element": "Electro",
+  "weaponType": "Rectifier",
+  "rarity": 5,
+  "roles": [
+    "sub-dps",
+    "buffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "electro-buff",
+    "liberation-buff",
+    "coordinated-attack"
+  ],
+  "stats": {
+    "hp": 11000,
+    "atk": 400,
+    "def": 1283
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "stringmaster",
+      "cosmic-ripples"
+    ],
+    "echoSets": [
+      "empyrean-anthem",
+      "void-thunder"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Electro DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "Energy Regen",
+      "Resonance Skill DMG",
+      "ATK%"
+    ]
+  }
+}

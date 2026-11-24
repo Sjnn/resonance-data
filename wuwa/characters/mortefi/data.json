@@ -1,0 +1,44 @@
+{
+  "id": "mortefi",
+  "name": "Mortefi",
+  "element": "Fusion",
+  "weaponType": "Pistols",
+  "rarity": 4,
+  "roles": [
+    "sub-dps",
+    "buffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "heavy-attack-buff",
+    "coordinated-attack",
+    "atk-buff"
+  ],
+  "stats": {
+    "hp": 10025,
+    "atk": 250,
+    "def": 1136
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "static-mist"
+    ],
+    "echoSets": [
+      "empyrean-anthem",
+      "moonlit-clouds"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Fusion DMG / Energy Regen",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Energy Regen",
+      "Crit Rate",
+      "Crit DMG",
+      "Resonance Liberation DMG",
+      "ATK%"
+    ]
+  }
+}

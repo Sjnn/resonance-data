@@ -1,0 +1,42 @@
+{
+  "id": "encore",
+  "name": "Encore",
+  "element": "Fusion",
+  "weaponType": "Rectifier",
+  "rarity": 5,
+  "roles": [
+    "main-dps"
+  ],
+  "rotationType": "sustained",
+  "synergyTags": [
+    "fusion-dmg",
+    "basic-attack"
+  ],
+  "stats": {
+    "hp": 10512,
+    "atk": 425,
+    "def": 1246
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "stringmaster",
+      "cosmic-ripples"
+    ],
+    "echoSets": [
+      "molten-rift"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Fusion DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "Basic Attack DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

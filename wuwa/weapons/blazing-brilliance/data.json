@@ -1,0 +1,10 @@
+{
+  "id": "blazing-brilliance",
+  "name": "Blazing Brilliance",
+  "weaponType": "Sword",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "Crit DMG",
+  "subStatValue": "48.6%",
+  "passive": "Increases ATK by 12%. Dealing damage grants stacks that increase Resonance Skill DMG by up to 56%."
+}

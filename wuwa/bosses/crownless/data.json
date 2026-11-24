@@ -1,0 +1,8 @@
+{
+  "id": "crownless",
+  "name": "Crownless",
+  "element": "Havoc",
+  "cost": 4,
+  "echoSetId": "havoc-eclipse",
+  "location": "Gorges of Spirits"
+}

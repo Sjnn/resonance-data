@@ -1,0 +1,42 @@
+{
+  "id": "jinhsi",
+  "name": "Jinhsi",
+  "element": "Spectro",
+  "weaponType": "Broadblade",
+  "rarity": 5,
+  "roles": [
+    "main-dps"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "spectro-dmg",
+    "skill-dmg"
+  ],
+  "stats": {
+    "hp": 10825,
+    "atk": 412,
+    "def": 1258
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "ages-of-harvest",
+      "lustrous-razor"
+    ],
+    "echoSets": [
+      "celestial-light"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Spectro DMG + ATK%",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "Resonance Skill DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

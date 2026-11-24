@@ -1,0 +1,43 @@
+{
+  "id": "rover-havoc",
+  "name": "Rover (Havoc)",
+  "element": "Havoc",
+  "weaponType": "Sword",
+  "rarity": 5,
+  "roles": [
+    "main-dps",
+    "sub-dps"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "havoc-dmg",
+    "liberation-dmg"
+  ],
+  "stats": {
+    "hp": 10825,
+    "atk": 412,
+    "def": 1258
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "emerald-of-genesis",
+      "blazing-brilliance"
+    ],
+    "echoSets": [
+      "havoc-eclipse"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Havoc DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Resonance Liberation DMG",
+      "Basic Attack DMG"
+    ]
+  }
+}

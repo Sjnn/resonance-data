@@ -1,0 +1,10 @@
+{
+  "id": "static-mist",
+  "name": "Static Mist",
+  "weaponType": "Pistols",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "Crit Rate",
+  "subStatValue": "24.3%",
+  "passive": "Increases Energy Regen by 12.8%. Casting Outro Skill increases the incoming Resonator ATK by 10%, stacking once."
+}

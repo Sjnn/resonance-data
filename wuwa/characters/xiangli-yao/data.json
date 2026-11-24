@@ -1,0 +1,42 @@
+{
+  "id": "xiangli-yao",
+  "name": "Xiangli Yao",
+  "element": "Electro",
+  "weaponType": "Gauntlets",
+  "rarity": 5,
+  "roles": [
+    "main-dps"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "electro-dmg",
+    "liberation-dmg"
+  ],
+  "stats": {
+    "hp": 10625,
+    "atk": 425,
+    "def": 1222
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "veritys-handle",
+      "abyss-surges"
+    ],
+    "echoSets": [
+      "void-thunder"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Electro DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "Resonance Liberation DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

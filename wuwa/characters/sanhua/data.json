@@ -1,0 +1,43 @@
+{
+  "id": "sanhua",
+  "name": "Sanhua",
+  "element": "Glacio",
+  "weaponType": "Sword",
+  "rarity": 4,
+  "roles": [
+    "sub-dps",
+    "buffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "basic-attack-buff",
+    "atk-buff"
+  ],
+  "stats": {
+    "hp": 10062,
+    "atk": 275,
+    "def": 937
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "emerald-of-genesis",
+      "overture"
+    ],
+    "echoSets": [
+      "moonlit-clouds"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Glacio DMG / Energy Regen",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Energy Regen",
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Resonance Liberation DMG"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "the-last-dance",
+  "name": "The Last Dance",
+  "weaponType": "Pistols",
+  "rarity": 5,
+  "baseAtk": 500,
+  "subStat": "Crit DMG",
+  "subStatValue": "72.0%",
+  "passive": "Increases ATK by 12%. Casting Intro Skill or Resonance Liberation increases Resonance Skill DMG Bonus by 48% for 5s."
+}

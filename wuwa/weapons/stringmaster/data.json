@@ -1,0 +1,10 @@
+{
+  "id": "stringmaster",
+  "name": "Stringmaster",
+  "weaponType": "Rectifier",
+  "rarity": 5,
+  "baseAtk": 500,
+  "subStat": "Crit Rate",
+  "subStatValue": "36.0%",
+  "passive": "Increases All-Attribute DMG Bonus by 12%. Dealing Resonance Skill DMG increases ATK by 12%, stacking up to 2 times, doubled when off-field."
+}

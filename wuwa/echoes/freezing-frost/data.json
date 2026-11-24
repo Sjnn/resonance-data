@@ -1,0 +1,6 @@
+{
+  "id": "freezing-frost",
+  "name": "Freezing Frost",
+  "twoPiece": "Glacio DMG +10%",
+  "fivePiece": "Glacio DMG +10% after releasing Basic Attack or Heavy Attack, stacking up to 3 times for 15s."
+}

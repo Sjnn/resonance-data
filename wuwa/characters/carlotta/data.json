@@ -1,0 +1,42 @@
+{
+  "id": "carlotta",
+  "name": "Carlotta",
+  "element": "Glacio",
+  "weaponType": "Pistols",
+  "rarity": 5,
+  "roles": [
+    "main-dps"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "glacio-dmg",
+    "skill-dmg"
+  ],
+  "stats": {
+    "hp": 12450,
+    "atk": 462,
+    "def": 1197
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "the-last-dance",
+      "static-mist"
+    ],
+    "echoSets": [
+      "frosty-resolve"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Glacio DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "Resonance Skill DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

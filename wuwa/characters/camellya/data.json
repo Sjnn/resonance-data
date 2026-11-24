@@ -1,0 +1,42 @@
+{
+  "id": "camellya",
+  "name": "Camellya",
+  "element": "Havoc",
+  "weaponType": "Sword",
+  "rarity": 5,
+  "roles": [
+    "main-dps"
+  ],
+  "rotationType": "sustained",
+  "synergyTags": [
+    "havoc-dmg",
+    "basic-attack"
+  ],
+  "stats": {
+    "hp": 10325,
+    "atk": 450,
+    "def": 1161
+  },
+  "dataComplete": true,
+  "build": {
+    "weapons": [
+      "red-spring",
+      "emerald-of-genesis"
+    ],
+    "echoSets": [
+      "havoc-eclipse"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate / Crit DMG",
+      "cost3": "Havoc DMG + ATK%",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "Basic Attack DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

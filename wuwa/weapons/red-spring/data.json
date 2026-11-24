@@ -1,0 +1,10 @@
+{
+  "id": "red-spring",
+  "name": "Red Spring",
+  "weaponType": "Sword",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "Crit Rate",
+  "subStatValue": "24.3%",
+  "passive": "Increases ATK by 12%. Dealing Basic Attack DMG increases Basic Attack DMG Bonus by up to 50%."
+}

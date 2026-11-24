@@ -1,0 +1,10 @@
+{
+  "id": "emerald-of-genesis",
+  "name": "Emerald of Genesis",
+  "weaponType": "Sword",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "Crit Rate",
+  "subStatValue": "24.3%",
+  "passive": "Increases Energy Regen by 12.8%. Casting Resonance Skill increases ATK by 6%, stacking up to 2 times."
+}

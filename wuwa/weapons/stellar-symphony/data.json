@@ -1,0 +1,10 @@
+{
+  "id": "stellar-symphony",
+  "name": "Stellar Symphony",
+  "weaponType": "Rectifier",
+  "rarity": 5,
+  "baseAtk": 412,
+  "subStat": "Energy Regen",
+  "subStatValue": "77.0%",
+  "passive": "Increases HP by 12%. Restores Concerto Energy when casting Resonance Liberation and increases all nearby allies ATK by 14% when healing."
+}

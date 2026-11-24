@@ -1,0 +1,10 @@
+{
+  "id": "abyss-surges",
+  "name": "Abyss Surges",
+  "weaponType": "Gauntlets",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "ATK",
+  "subStatValue": "36.4%",
+  "passive": "Increases Energy Regen by 12.8%. Hitting with Resonance Skill increases Basic Attack DMG by 10% and vice versa."
+}

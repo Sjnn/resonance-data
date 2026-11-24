@@ -1,0 +1,8 @@
+{
+  "id": "tempest-mephis",
+  "name": "Tempest Mephis",
+  "element": "Electro",
+  "cost": 4,
+  "echoSetId": "void-thunder",
+  "location": "Central Plains"
+}

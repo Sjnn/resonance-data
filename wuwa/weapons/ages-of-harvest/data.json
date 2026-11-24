@@ -1,0 +1,10 @@
+{
+  "id": "ages-of-harvest",
+  "name": "Ages of Harvest",
+  "weaponType": "Broadblade",
+  "rarity": 5,
+  "baseAtk": 587,
+  "subStat": "Crit Rate",
+  "subStatValue": "24.3%",
+  "passive": "Grants 12% Attribute DMG Bonus. Casting Intro Skill or Resonance Skill boosts Resonance Skill DMG up to 48%."
+}
