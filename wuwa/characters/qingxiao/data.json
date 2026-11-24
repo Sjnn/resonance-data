@@ -1,0 +1,40 @@
+{
+  "id": "qingxiao",
+  "name": "Qingxiao",
+  "element": "Aero",
+  "weaponType": "Sword",
+  "rarity": 5,
+  "roles": [
+    "main-dps"
+  ],
+  "rotationType": "sustained",
+  "synergyTags": [
+    "aero-dmg",
+    "tune-strain"
+  ],
+  "stats": {
+    "hp": 10450,
+    "atk": 450,
+    "def": 1125
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "glint-of-clouds"
+    ],
+    "echoSets": [
+      "heart-of-evils-purge"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate",
+      "cost3": "Aero DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

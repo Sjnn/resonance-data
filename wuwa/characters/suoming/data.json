@@ -1,0 +1,40 @@
+{
+  "id": "suoming",
+  "name": "Suoming",
+  "element": "Electro",
+  "weaponType": "Sword",
+  "rarity": 5,
+  "roles": [
+    "main-dps"
+  ],
+  "rotationType": "sustained",
+  "synergyTags": [
+    "electro-dmg",
+    "unison"
+  ],
+  "stats": {
+    "hp": 10400,
+    "atk": 455,
+    "def": 1120
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "unspoken-rue"
+    ],
+    "echoSets": [
+      "heart-of-sworn-vigil"
+    ],
+    "mainStats": {
+      "cost4": "Crit DMG",
+      "cost3": "Electro DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

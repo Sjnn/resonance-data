@@ -1,0 +1,42 @@
+{
+  "id": "suisui",
+  "name": "Suisui",
+  "element": "Glacio",
+  "weaponType": "Rectifier",
+  "rarity": 5,
+  "roles": [
+    "sustain",
+    "buffer",
+    "debuffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "healing",
+    "negative-status",
+    "hp-scaling"
+  ],
+  "stats": {
+    "hp": 12000,
+    "atk": 335,
+    "def": 1170
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "firstlights-herald"
+    ],
+    "echoSets": [
+      "song-of-feathered-trace"
+    ],
+    "mainStats": {
+      "cost4": "Healing Bonus",
+      "cost3": "Energy Regen",
+      "cost1": "HP%"
+    },
+    "substats": [
+      "Energy Regen",
+      "HP%",
+      "ATK%"
+    ]
+  }
+}

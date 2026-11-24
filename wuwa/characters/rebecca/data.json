@@ -1,0 +1,43 @@
+{
+  "id": "rebecca",
+  "name": "Rebecca",
+  "element": "Electro",
+  "weaponType": "Pistol",
+  "rarity": 5,
+  "roles": [
+    "sub-dps",
+    "buffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "electro-dmg",
+    "heavy-attack-amp"
+  ],
+  "stats": {
+    "hp": 10700,
+    "atk": 415,
+    "def": 1145
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "skull-thrasher"
+    ],
+    "echoSets": [
+      "shadow-of-shattered-dreams",
+      "void-thunder",
+      "reel-of-spliced-memories"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate",
+      "cost3": "Electro DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "Energy Regen",
+      "ATK%"
+    ]
+  }
+}

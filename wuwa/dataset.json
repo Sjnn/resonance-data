@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "synced-2026-11-24T08:18:31.165Z",
-  "updatedAt": "2026-11-24T08:18:31.165Z",
+  "version": "synced-2026-11-24T08:21:12.749Z",
+  "updatedAt": "2026-11-24T08:21:12.749Z",
   "characters": [
     {
       "id": "aalto",
@@ -362,6 +362,27 @@
       "dataComplete": true
     },
     {
+      "id": "denia",
+      "name": "Denia",
+      "element": "Fusion",
+      "weaponType": "Rectifier",
+      "rarity": 5,
+      "roles": [
+        "sub-dps"
+      ],
+      "rotationType": "quickswap",
+      "synergyTags": [
+        "fusion-dmg",
+        "fusion-burst"
+      ],
+      "stats": {
+        "hp": 10650,
+        "atk": 412,
+        "def": 1150
+      },
+      "dataComplete": false
+    },
+    {
       "id": "encore",
       "name": "Encore",
       "element": "Fusion",
@@ -426,6 +447,28 @@
       "dataComplete": false
     },
     {
+      "id": "hsin",
+      "name": "Hsin",
+      "element": "Electro",
+      "weaponType": "Rectifier",
+      "rarity": 5,
+      "roles": [
+        "main-dps"
+      ],
+      "rotationType": "sustained",
+      "synergyTags": [
+        "electro-dmg",
+        "electro-flare",
+        "unison"
+      ],
+      "stats": {
+        "hp": 10350,
+        "atk": 460,
+        "def": 1110
+      },
+      "dataComplete": false
+    },
+    {
       "id": "iuno",
       "name": "Iuno",
       "element": "Aero",
@@ -473,6 +516,28 @@
       "dataComplete": true
     },
     {
+      "id": "jingran",
+      "name": "Jingran",
+      "element": "Fusion",
+      "weaponType": "Broadblade",
+      "rarity": 5,
+      "roles": [
+        "main-dps"
+      ],
+      "rotationType": "sustained",
+      "synergyTags": [
+        "fusion-dmg",
+        "heavy-attack",
+        "hp-scaling"
+      ],
+      "stats": {
+        "hp": 12400,
+        "atk": 360,
+        "def": 1140
+      },
+      "dataComplete": false
+    },
+    {
       "id": "jinhsi",
       "name": "Jinhsi",
       "element": "Spectro",
@@ -515,6 +580,29 @@
       "dataComplete": true
     },
     {
+      "id": "lily",
+      "name": "Lily",
+      "element": "Spectro",
+      "weaponType": "Pistol",
+      "rarity": 5,
+      "roles": [
+        "sustain",
+        "buffer"
+      ],
+      "rotationType": "quickswap",
+      "synergyTags": [
+        "healing",
+        "unison",
+        "hp-scaling"
+      ],
+      "stats": {
+        "hp": 12100,
+        "atk": 330,
+        "def": 1180
+      },
+      "dataComplete": false
+    },
+    {
       "id": "lingyang",
       "name": "Lingyang",
       "element": "Glacio",
@@ -554,6 +642,27 @@
         "hp": 10800,
         "atk": 405,
         "def": 1150
+      },
+      "dataComplete": false
+    },
+    {
+      "id": "lucy",
+      "name": "Lucy",
+      "element": "Spectro",
+      "weaponType": "Pistol",
+      "rarity": 5,
+      "roles": [
+        "main-dps"
+      ],
+      "rotationType": "sustained",
+      "synergyTags": [
+        "spectro-dmg",
+        "heavy-attack"
+      ],
+      "stats": {
+        "hp": 10350,
+        "atk": 455,
+        "def": 1115
       },
       "dataComplete": false
     },
@@ -740,6 +849,27 @@
       "dataComplete": false
     },
     {
+      "id": "qingxiao",
+      "name": "Qingxiao",
+      "element": "Aero",
+      "weaponType": "Sword",
+      "rarity": 5,
+      "roles": [
+        "main-dps"
+      ],
+      "rotationType": "sustained",
+      "synergyTags": [
+        "aero-dmg",
+        "tune-strain"
+      ],
+      "stats": {
+        "hp": 10450,
+        "atk": 450,
+        "def": 1125
+      },
+      "dataComplete": false
+    },
+    {
       "id": "qiuyuan",
       "name": "Qiuyuan",
       "element": "Aero",
@@ -759,6 +889,28 @@
         "hp": 10775,
         "atk": 412,
         "def": 1186
+      },
+      "dataComplete": false
+    },
+    {
+      "id": "rebecca",
+      "name": "Rebecca",
+      "element": "Electro",
+      "weaponType": "Pistol",
+      "rarity": 5,
+      "roles": [
+        "sub-dps",
+        "buffer"
+      ],
+      "rotationType": "quickswap",
+      "synergyTags": [
+        "electro-dmg",
+        "heavy-attack-amp"
+      ],
+      "stats": {
+        "hp": 10700,
+        "atk": 415,
+        "def": 1145
       },
       "dataComplete": false
     },
@@ -806,6 +958,27 @@
         "def": 1209
       },
       "dataComplete": true
+    },
+    {
+      "id": "rover-electro",
+      "name": "Rover (Electro)",
+      "element": "Electro",
+      "weaponType": "Sword",
+      "rarity": 5,
+      "roles": [
+        "sub-dps"
+      ],
+      "rotationType": "quickswap",
+      "synergyTags": [
+        "electro-dmg",
+        "electro-flare"
+      ],
+      "stats": {
+        "hp": 10800,
+        "atk": 375,
+        "def": 1145
+      },
+      "dataComplete": false
     },
     {
       "id": "rover-havoc",
@@ -919,6 +1092,51 @@
       "dataComplete": false
     },
     {
+      "id": "suisui",
+      "name": "Suisui",
+      "element": "Glacio",
+      "weaponType": "Rectifier",
+      "rarity": 5,
+      "roles": [
+        "sustain",
+        "buffer",
+        "debuffer"
+      ],
+      "rotationType": "quickswap",
+      "synergyTags": [
+        "healing",
+        "negative-status",
+        "hp-scaling"
+      ],
+      "stats": {
+        "hp": 12000,
+        "atk": 335,
+        "def": 1170
+      },
+      "dataComplete": false
+    },
+    {
+      "id": "suoming",
+      "name": "Suoming",
+      "element": "Electro",
+      "weaponType": "Sword",
+      "rarity": 5,
+      "roles": [
+        "main-dps"
+      ],
+      "rotationType": "sustained",
+      "synergyTags": [
+        "electro-dmg",
+        "unison"
+      ],
+      "stats": {
+        "hp": 10400,
+        "atk": 455,
+        "def": 1120
+      },
+      "dataComplete": false
+    },
+    {
       "id": "taoqi",
       "name": "Taoqi",
       "element": "Havoc",
@@ -1007,6 +1225,27 @@
         "def": 1099
       },
       "dataComplete": true
+    },
+    {
+      "id": "yangyang-xuanling",
+      "name": "Yangyang Xuanling",
+      "element": "Havoc",
+      "weaponType": "Sword",
+      "rarity": 5,
+      "roles": [
+        "main-dps"
+      ],
+      "rotationType": "sustained",
+      "synergyTags": [
+        "havoc-dmg",
+        "havoc-bane"
+      ],
+      "stats": {
+        "hp": 10500,
+        "atk": 445,
+        "def": 1135
+      },
+      "dataComplete": false
     },
     {
       "id": "yinlin",
@@ -2168,6 +2407,27 @@
       ]
     },
     {
+      "characterId": "denia",
+      "role": "sub-dps",
+      "weapons": [
+        "forged-dwarf-star"
+      ],
+      "echoSets": [
+        "chromatic-foam"
+      ],
+      "mainStats": {
+        "cost4": "Crit Rate",
+        "cost3": "Fusion DMG",
+        "cost1": "ATK%"
+      },
+      "substats": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    {
       "characterId": "encore",
       "role": "main-dps",
       "weapons": [
@@ -2234,6 +2494,27 @@
       ]
     },
     {
+      "characterId": "hsin",
+      "role": "main-dps",
+      "weapons": [
+        "blooming-jadehaven"
+      ],
+      "echoSets": [
+        "heart-of-sworn-vigil"
+      ],
+      "mainStats": {
+        "cost4": "Crit DMG",
+        "cost3": "Electro DMG",
+        "cost1": "ATK%"
+      },
+      "substats": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    {
       "characterId": "iuno",
       "role": "sub-dps",
       "weapons": [
@@ -2275,6 +2556,27 @@
         "ATK%",
         "Crit Rate",
         "Crit DMG"
+      ]
+    },
+    {
+      "characterId": "jingran",
+      "role": "main-dps",
+      "weapons": [
+        "thousandfold-deliverance"
+      ],
+      "echoSets": [
+        "lamp-of-nether-road"
+      ],
+      "mainStats": {
+        "cost4": "Crit DMG",
+        "cost3": null,
+        "cost1": "HP%"
+      },
+      "substats": [
+        "Crit Rate",
+        "Crit DMG",
+        "HP%",
+        "Heavy Attack DMG"
       ]
     },
     {
@@ -2324,6 +2626,26 @@
       ]
     },
     {
+      "characterId": "lily",
+      "role": "sustain",
+      "weapons": [
+        "lullaby"
+      ],
+      "echoSets": [
+        "flower-of-tinged-yearning"
+      ],
+      "mainStats": {
+        "cost4": "Healing Bonus",
+        "cost3": "Energy Regen",
+        "cost1": "HP%"
+      },
+      "substats": [
+        "Energy Regen",
+        "HP%",
+        "Crit DMG"
+      ]
+    },
+    {
       "characterId": "lingyang",
       "role": "main-dps",
       "weapons": [
@@ -2367,6 +2689,29 @@
         "Crit DMG",
         "ATK%",
         "Energy Regen"
+      ]
+    },
+    {
+      "characterId": "lucy",
+      "role": "main-dps",
+      "weapons": [
+        "spectral-trigger"
+      ],
+      "echoSets": [
+        "shadow-of-shattered-dreams",
+        "rite-of-gilded-revelation",
+        "reel-of-spliced-memories"
+      ],
+      "mainStats": {
+        "cost4": "Crit Rate",
+        "cost3": "Spectro DMG",
+        "cost1": "ATK%"
+      },
+      "substats": [
+        "Crit Rate",
+        "Crit DMG",
+        "Heavy Attack DMG",
+        "ATK%"
       ]
     },
     {
@@ -2553,6 +2898,27 @@
       ]
     },
     {
+      "characterId": "qingxiao",
+      "role": "main-dps",
+      "weapons": [
+        "glint-of-clouds"
+      ],
+      "echoSets": [
+        "heart-of-evils-purge"
+      ],
+      "mainStats": {
+        "cost4": "Crit Rate",
+        "cost3": "Aero DMG",
+        "cost1": "ATK%"
+      },
+      "substats": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    {
       "characterId": "qiuyuan",
       "role": "sub-dps",
       "weapons": [
@@ -2572,6 +2938,29 @@
         "Crit DMG",
         "ATK%",
         "Energy Regen"
+      ]
+    },
+    {
+      "characterId": "rebecca",
+      "role": "sub-dps",
+      "weapons": [
+        "skull-thrasher"
+      ],
+      "echoSets": [
+        "shadow-of-shattered-dreams",
+        "void-thunder",
+        "reel-of-spliced-memories"
+      ],
+      "mainStats": {
+        "cost4": "Crit Rate",
+        "cost3": "Electro DMG",
+        "cost1": "ATK%"
+      },
+      "substats": [
+        "Crit Rate",
+        "Crit DMG",
+        "Energy Regen",
+        "ATK%"
       ]
     },
     {
@@ -2622,6 +3011,27 @@
         "Crit Rate",
         "Crit DMG",
         "Resonance Skill DMG"
+      ]
+    },
+    {
+      "characterId": "rover-electro",
+      "role": "sub-dps",
+      "weapons": [
+        "blazing-brilliance"
+      ],
+      "echoSets": [
+        "flash-of-electric-reflection"
+      ],
+      "mainStats": {
+        "cost4": "Crit Rate",
+        "cost3": "Electro DMG",
+        "cost1": "ATK%"
+      },
+      "substats": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
       ]
     },
     {
@@ -2739,6 +3149,47 @@
       ]
     },
     {
+      "characterId": "suisui",
+      "role": "sustain",
+      "weapons": [
+        "firstlights-herald"
+      ],
+      "echoSets": [
+        "song-of-feathered-trace"
+      ],
+      "mainStats": {
+        "cost4": "Healing Bonus",
+        "cost3": "Energy Regen",
+        "cost1": "HP%"
+      },
+      "substats": [
+        "Energy Regen",
+        "HP%",
+        "ATK%"
+      ]
+    },
+    {
+      "characterId": "suoming",
+      "role": "main-dps",
+      "weapons": [
+        "unspoken-rue"
+      ],
+      "echoSets": [
+        "heart-of-sworn-vigil"
+      ],
+      "mainStats": {
+        "cost4": "Crit DMG",
+        "cost3": "Electro DMG",
+        "cost1": "ATK%"
+      },
+      "substats": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
+      ]
+    },
+    {
       "characterId": "taoqi",
       "role": "sustain",
       "weapons": [
@@ -2827,6 +3278,27 @@
         "Crit DMG",
         "ATK%",
         "Resonance Liberation DMG"
+      ]
+    },
+    {
+      "characterId": "yangyang-xuanling",
+      "role": "main-dps",
+      "weapons": [
+        "azure-oath"
+      ],
+      "echoSets": [
+        "song-of-feathered-trace"
+      ],
+      "mainStats": {
+        "cost4": "Crit Rate",
+        "cost3": "Havoc DMG",
+        "cost1": "ATK%"
+      },
+      "substats": [
+        "Crit Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Regen"
       ]
     },
     {

@@ -1,0 +1,42 @@
+{
+  "id": "lucy",
+  "name": "Lucy",
+  "element": "Spectro",
+  "weaponType": "Pistol",
+  "rarity": 5,
+  "roles": [
+    "main-dps"
+  ],
+  "rotationType": "sustained",
+  "synergyTags": [
+    "spectro-dmg",
+    "heavy-attack"
+  ],
+  "stats": {
+    "hp": 10350,
+    "atk": 455,
+    "def": 1115
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "spectral-trigger"
+    ],
+    "echoSets": [
+      "shadow-of-shattered-dreams",
+      "rite-of-gilded-revelation",
+      "reel-of-spliced-memories"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate",
+      "cost3": "Spectro DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "Heavy Attack DMG",
+      "ATK%"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "lily",
+  "name": "Lily",
+  "element": "Spectro",
+  "weaponType": "Pistol",
+  "rarity": 5,
+  "roles": [
+    "sustain",
+    "buffer"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "healing",
+    "unison",
+    "hp-scaling"
+  ],
+  "stats": {
+    "hp": 12100,
+    "atk": 330,
+    "def": 1180
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "lullaby"
+    ],
+    "echoSets": [
+      "flower-of-tinged-yearning"
+    ],
+    "mainStats": {
+      "cost4": "Healing Bonus",
+      "cost3": "Energy Regen",
+      "cost1": "HP%"
+    },
+    "substats": [
+      "Energy Regen",
+      "HP%",
+      "Crit DMG"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "denia",
+  "name": "Denia",
+  "element": "Fusion",
+  "weaponType": "Rectifier",
+  "rarity": 5,
+  "roles": [
+    "sub-dps"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "fusion-dmg",
+    "fusion-burst"
+  ],
+  "stats": {
+    "hp": 10650,
+    "atk": 412,
+    "def": 1150
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "forged-dwarf-star"
+    ],
+    "echoSets": [
+      "chromatic-foam"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate",
+      "cost3": "Fusion DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

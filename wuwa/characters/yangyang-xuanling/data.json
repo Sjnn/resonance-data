@@ -1,0 +1,40 @@
+{
+  "id": "yangyang-xuanling",
+  "name": "Yangyang Xuanling",
+  "element": "Havoc",
+  "weaponType": "Sword",
+  "rarity": 5,
+  "roles": [
+    "main-dps"
+  ],
+  "rotationType": "sustained",
+  "synergyTags": [
+    "havoc-dmg",
+    "havoc-bane"
+  ],
+  "stats": {
+    "hp": 10500,
+    "atk": 445,
+    "def": 1135
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "azure-oath"
+    ],
+    "echoSets": [
+      "song-of-feathered-trace"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate",
+      "cost3": "Havoc DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

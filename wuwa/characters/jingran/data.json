@@ -1,0 +1,41 @@
+{
+  "id": "jingran",
+  "name": "Jingran",
+  "element": "Fusion",
+  "weaponType": "Broadblade",
+  "rarity": 5,
+  "roles": [
+    "main-dps"
+  ],
+  "rotationType": "sustained",
+  "synergyTags": [
+    "fusion-dmg",
+    "heavy-attack",
+    "hp-scaling"
+  ],
+  "stats": {
+    "hp": 12400,
+    "atk": 360,
+    "def": 1140
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "thousandfold-deliverance"
+    ],
+    "echoSets": [
+      "lamp-of-nether-road"
+    ],
+    "mainStats": {
+      "cost4": "Crit DMG",
+      "cost3": null,
+      "cost1": "HP%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "HP%",
+      "Heavy Attack DMG"
+    ]
+  }
+}

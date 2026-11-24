@@ -1,0 +1,40 @@
+{
+  "id": "rover-electro",
+  "name": "Rover (Electro)",
+  "element": "Electro",
+  "weaponType": "Sword",
+  "rarity": 5,
+  "roles": [
+    "sub-dps"
+  ],
+  "rotationType": "quickswap",
+  "synergyTags": [
+    "electro-dmg",
+    "electro-flare"
+  ],
+  "stats": {
+    "hp": 10800,
+    "atk": 375,
+    "def": 1145
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "blazing-brilliance"
+    ],
+    "echoSets": [
+      "flash-of-electric-reflection"
+    ],
+    "mainStats": {
+      "cost4": "Crit Rate",
+      "cost3": "Electro DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}

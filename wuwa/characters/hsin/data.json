@@ -1,0 +1,41 @@
+{
+  "id": "hsin",
+  "name": "Hsin",
+  "element": "Electro",
+  "weaponType": "Rectifier",
+  "rarity": 5,
+  "roles": [
+    "main-dps"
+  ],
+  "rotationType": "sustained",
+  "synergyTags": [
+    "electro-dmg",
+    "electro-flare",
+    "unison"
+  ],
+  "stats": {
+    "hp": 10350,
+    "atk": 460,
+    "def": 1110
+  },
+  "dataComplete": false,
+  "build": {
+    "weapons": [
+      "blooming-jadehaven"
+    ],
+    "echoSets": [
+      "heart-of-sworn-vigil"
+    ],
+    "mainStats": {
+      "cost4": "Crit DMG",
+      "cost3": "Electro DMG",
+      "cost1": "ATK%"
+    },
+    "substats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen"
+    ]
+  }
+}
