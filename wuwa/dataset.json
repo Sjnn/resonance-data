@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "synced-2026-11-24T08:22:19.897Z",
-  "updatedAt": "2026-11-24T08:22:19.897Z",
+  "version": "synced-2026-11-24T22:29:43.273Z",
+  "updatedAt": "2026-11-24T22:29:43.273Z",
   "characters": [
     {
       "id": "aalto",
@@ -23,7 +23,8 @@
         "atk": 262,
         "def": 1075
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/aalto/icon.png"
     },
     {
       "id": "aemeath",
@@ -45,7 +46,8 @@
         "atk": 450,
         "def": 1125
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/aemeath/icon.png"
     },
     {
       "id": "augusta",
@@ -66,7 +68,8 @@
         "atk": 462,
         "def": 1112
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/augusta/icon.png"
     },
     {
       "id": "baizhi",
@@ -89,7 +92,8 @@
         "atk": 212,
         "def": 1002
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/baizhi/icon.png"
     },
     {
       "id": "brant",
@@ -114,7 +118,8 @@
         "atk": 387,
         "def": 1307
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/brant/icon.png"
     },
     {
       "id": "buling",
@@ -137,7 +142,8 @@
         "atk": 312,
         "def": 960
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/buling/icon.png"
     },
     {
       "id": "calcharo",
@@ -158,7 +164,8 @@
         "atk": 437,
         "def": 1185
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/calcharo/icon.png"
     },
     {
       "id": "camellya",
@@ -179,7 +186,8 @@
         "atk": 450,
         "def": 1161
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/camellya/icon.png"
     },
     {
       "id": "cantarella",
@@ -203,7 +211,8 @@
         "atk": 400,
         "def": 1100
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/cantarella/icon.png"
     },
     {
       "id": "carlotta",
@@ -224,7 +233,8 @@
         "atk": 462,
         "def": 1197
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/carlotta/icon.png"
     },
     {
       "id": "cartethyia",
@@ -245,7 +255,8 @@
         "atk": 312,
         "def": 1161
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/cartethyia/icon.png"
     },
     {
       "id": "changli",
@@ -269,7 +280,8 @@
         "atk": 462,
         "def": 1099
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/changli/icon.png"
     },
     {
       "id": "chisa",
@@ -293,7 +305,8 @@
         "atk": 388,
         "def": 1150
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/chisa/icon.png"
     },
     {
       "id": "chixia",
@@ -314,7 +327,8 @@
         "atk": 300,
         "def": 953
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/chixia/icon.png"
     },
     {
       "id": "ciaccona",
@@ -336,7 +350,8 @@
         "atk": 375,
         "def": 1197
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/ciaccona/icon.png"
     },
     {
       "id": "danjin",
@@ -359,7 +374,8 @@
         "atk": 262,
         "def": 1148
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/danjin/icon.png"
     },
     {
       "id": "denia",
@@ -380,7 +396,8 @@
         "atk": 412,
         "def": 1150
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/denia/icon.png"
     },
     {
       "id": "encore",
@@ -401,7 +418,8 @@
         "atk": 425,
         "def": 1246
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/encore/icon.png"
     },
     {
       "id": "galbrena",
@@ -423,7 +441,8 @@
         "atk": 462,
         "def": 1112
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/galbrena/icon.png"
     },
     {
       "id": "hiyuki",
@@ -444,7 +463,8 @@
         "atk": 440,
         "def": 1140
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/hiyuki/icon.png"
     },
     {
       "id": "hsin",
@@ -466,7 +486,8 @@
         "atk": 460,
         "def": 1110
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/hsin/icon.png"
     },
     {
       "id": "iuno",
@@ -489,7 +510,8 @@
         "atk": 425,
         "def": 1161
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/iuno/icon.png"
     },
     {
       "id": "jianxin",
@@ -513,7 +535,8 @@
         "atk": 337,
         "def": 1124
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/jianxin/icon.png"
     },
     {
       "id": "jingran",
@@ -535,7 +558,8 @@
         "atk": 360,
         "def": 1140
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/jingran/icon.png"
     },
     {
       "id": "jinhsi",
@@ -556,7 +580,8 @@
         "atk": 412,
         "def": 1258
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/jinhsi/icon.png"
     },
     {
       "id": "jiyan",
@@ -577,7 +602,8 @@
         "atk": 438,
         "def": 1186
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/jiyan/icon.png"
     },
     {
       "id": "lily",
@@ -600,7 +626,8 @@
         "atk": 330,
         "def": 1180
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lily/icon.png"
     },
     {
       "id": "lingyang",
@@ -621,7 +648,8 @@
         "atk": 437,
         "def": 1209
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lingyang/icon.png"
     },
     {
       "id": "lucilla",
@@ -643,7 +671,8 @@
         "atk": 405,
         "def": 1150
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lucilla/icon.png"
     },
     {
       "id": "lucy",
@@ -664,7 +693,8 @@
         "atk": 455,
         "def": 1115
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lucy/icon.png"
     },
     {
       "id": "lumi",
@@ -686,7 +716,8 @@
         "atk": 337,
         "def": 892
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lumi/icon.png"
     },
     {
       "id": "lupa",
@@ -709,7 +740,8 @@
         "atk": 387,
         "def": 1185
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lupa/icon.png"
     },
     {
       "id": "luuk-herssen",
@@ -731,7 +763,8 @@
         "atk": 445,
         "def": 1130
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/luuk-herssen/icon.png"
     },
     {
       "id": "lynae",
@@ -754,7 +787,8 @@
         "atk": 412,
         "def": 1160
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lynae/icon.png"
     },
     {
       "id": "mornye",
@@ -778,7 +812,8 @@
         "atk": 325,
         "def": 1480
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/mornye/icon.png"
     },
     {
       "id": "mortefi",
@@ -801,7 +836,8 @@
         "atk": 250,
         "def": 1136
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/mortefi/icon.png"
     },
     {
       "id": "phoebe",
@@ -824,7 +860,8 @@
         "atk": 412,
         "def": 1258
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/phoebe/icon.png"
     },
     {
       "id": "phrolova",
@@ -846,7 +883,8 @@
         "atk": 438,
         "def": 1137
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/phrolova/icon.png"
     },
     {
       "id": "qingxiao",
@@ -867,7 +905,8 @@
         "atk": 450,
         "def": 1125
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/qingxiao/icon.png"
     },
     {
       "id": "qiuyuan",
@@ -890,7 +929,8 @@
         "atk": 412,
         "def": 1186
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/qiuyuan/icon.png"
     },
     {
       "id": "rebecca",
@@ -912,7 +952,8 @@
         "atk": 415,
         "def": 1145
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/rebecca/icon.png"
     },
     {
       "id": "roccia",
@@ -935,7 +976,8 @@
         "atk": 375,
         "def": 1197
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/roccia/icon.png"
     },
     {
       "id": "rover-aero",
@@ -957,7 +999,8 @@
         "atk": 387,
         "def": 1209
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/rover-aero/icon.png"
     },
     {
       "id": "rover-electro",
@@ -978,7 +1021,8 @@
         "atk": 375,
         "def": 1145
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/rover-electro/icon.png"
     },
     {
       "id": "rover-havoc",
@@ -1000,7 +1044,8 @@
         "atk": 412,
         "def": 1258
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/rover-havoc/icon.png"
     },
     {
       "id": "rover-spectro",
@@ -1022,7 +1067,8 @@
         "atk": 375,
         "def": 1368
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/rover-spectro/icon.png"
     },
     {
       "id": "sanhua",
@@ -1044,7 +1090,8 @@
         "atk": 275,
         "def": 937
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/sanhua/icon.png"
     },
     {
       "id": "shorekeeper",
@@ -1068,7 +1115,8 @@
         "atk": 287,
         "def": 1099
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/shorekeeper/icon.png"
     },
     {
       "id": "sigrika",
@@ -1089,7 +1137,8 @@
         "atk": 450,
         "def": 1120
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/sigrika/icon.png"
     },
     {
       "id": "suisui",
@@ -1113,7 +1162,8 @@
         "atk": 335,
         "def": 1170
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/suisui/icon.png"
     },
     {
       "id": "suoming",
@@ -1134,7 +1184,8 @@
         "atk": 455,
         "def": 1120
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/suoming/icon.png"
     },
     {
       "id": "taoqi",
@@ -1157,7 +1208,8 @@
         "atk": 225,
         "def": 1564
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/taoqi/icon.png"
     },
     {
       "id": "verina",
@@ -1181,7 +1233,8 @@
         "atk": 337,
         "def": 1099
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/verina/icon.png"
     },
     {
       "id": "xiangli-yao",
@@ -1202,7 +1255,8 @@
         "atk": 425,
         "def": 1222
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/xiangli-yao/icon.png"
     },
     {
       "id": "yangyang",
@@ -1224,7 +1278,8 @@
         "atk": 250,
         "def": 1099
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/yangyang/icon.png"
     },
     {
       "id": "yangyang-xuanling",
@@ -1245,7 +1300,8 @@
         "atk": 445,
         "def": 1135
       },
-      "dataComplete": false
+      "dataComplete": false,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/yangyang-xuanling/icon.png"
     },
     {
       "id": "yinlin",
@@ -1268,7 +1324,8 @@
         "atk": 400,
         "def": 1283
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/yinlin/icon.png"
     },
     {
       "id": "youhu",
@@ -1290,7 +1347,8 @@
         "atk": 262,
         "def": 1051
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/youhu/icon.png"
     },
     {
       "id": "yuanwu",
@@ -1312,7 +1370,8 @@
         "atk": 225,
         "def": 1637
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/yuanwu/icon.png"
     },
     {
       "id": "zani",
@@ -1333,7 +1392,8 @@
         "atk": 437,
         "def": 1136
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/zani/icon.png"
     },
     {
       "id": "zhezhi",
@@ -1356,7 +1416,8 @@
         "atk": 375,
         "def": 1197
       },
-      "dataComplete": true
+      "dataComplete": true,
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/zhezhi/icon.png"
     }
   ],
   "weapons": [
