@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "synced-2026-11-26T08:41:33.885Z",
-  "updatedAt": "2026-11-26T08:41:33.885Z",
+  "version": "synced-2026-11-26T08:46:53.876Z",
+  "updatedAt": "2026-11-26T08:46:53.876Z",
   "characters": [
     {
       "id": "aalto",
@@ -2826,7 +2826,8 @@
       "id": "havoc-eclipse",
       "name": "Havoc Eclipse",
       "twoPiece": "Havoc DMG +10%",
-      "fivePiece": "Havoc DMG +7.5% after releasing Basic Attack or Heavy Attack, stacking up to 4 times for 15s."
+      "fivePiece": "Havoc DMG +7.5% after releasing Basic Attack or Heavy Attack, stacking up to 4 times for 15s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/havoc-eclipse/icon.png"
     },
     {
       "id": "heart-of-evils-purge",
