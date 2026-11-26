@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "synced-2026-11-26T07:50:11.496Z",
-  "updatedAt": "2026-11-26T07:50:11.496Z",
+  "version": "synced-2026-11-26T07:56:50.356Z",
+  "updatedAt": "2026-11-26T07:56:50.356Z",
   "characters": [
     {
       "id": "aalto",
@@ -2453,6 +2453,14 @@
       "location": "Rinascita (Weekly)"
     },
     {
+      "id": "hyvatia",
+      "name": "Hyvatia",
+      "element": "Spectro",
+      "cost": 4,
+      "echoSetId": "halo-of-starry-radiance",
+      "location": "Lahai-Roi (Weekly)"
+    },
+    {
       "id": "impermanence-heron",
       "name": "Impermanence Heron",
       "element": "Havoc",
@@ -2485,12 +2493,28 @@
       "location": "Septimont, Rinascita"
     },
     {
+      "id": "lady-of-the-sea",
+      "name": "Lady of the Sea",
+      "element": "Aero",
+      "cost": 4,
+      "echoSetId": "crown-of-valor",
+      "location": "Sanguis Plateaus"
+    },
+    {
       "id": "lampylumen-myriad",
       "name": "Lampylumen Myriad",
       "element": "Glacio",
       "cost": 4,
       "echoSetId": "freezing-frost",
       "location": "Tiger's Maw Mine"
+    },
+    {
+      "id": "leviathan",
+      "name": "Leviathan",
+      "element": "Havoc",
+      "cost": 4,
+      "echoSetId": "thread-of-severed-fate",
+      "location": "Rinascita (Weekly)"
     },
     {
       "id": "lioness-of-glory",
@@ -2525,6 +2549,14 @@
       "location": "Fallen Grave, Whining Aix's Mire"
     },
     {
+      "id": "nameless-explorer",
+      "name": "Nameless Explorer",
+      "element": "Spectro",
+      "cost": 4,
+      "echoSetId": "rite-of-gilded-revelation",
+      "location": "Lahai-Roi"
+    },
+    {
       "id": "nightmare-crownless",
       "name": "Nightmare: Crownless",
       "element": "Havoc",
@@ -2541,6 +2573,14 @@
       "location": "Hallowed Reach, Rinascita"
     },
     {
+      "id": "nightmare-hecate",
+      "name": "Nightmare: Hecate",
+      "element": "Havoc",
+      "cost": 4,
+      "echoSetId": "dream-of-the-lost",
+      "location": "Rinascita"
+    },
+    {
       "id": "nightmare-impermanence-heron",
       "name": "Nightmare: Impermanence Heron",
       "element": "Havoc",
@@ -2555,6 +2595,14 @@
       "cost": 4,
       "echoSetId": "molten-rift",
       "location": "Nimbus Sanctum, Rinascita"
+    },
+    {
+      "id": "nightmare-lampylumen-myriad",
+      "name": "Nightmare: Lampylumen Myriad",
+      "element": "Glacio",
+      "cost": 4,
+      "echoSetId": "frosty-resolve",
+      "location": "Huanglong"
     },
     {
       "id": "nightmare-mourning-aix",
@@ -2581,12 +2629,28 @@
       "location": "Whisperwind Haven, Rinascita"
     },
     {
+      "id": "reactor-husk",
+      "name": "Reactor Husk",
+      "element": "Spectro",
+      "cost": 4,
+      "echoSetId": "pact-of-neonlight-leap",
+      "location": "Lahai-Roi"
+    },
+    {
       "id": "sentry-construct",
       "name": "Sentry Construct",
       "element": "Glacio",
       "cost": 4,
       "echoSetId": "frosty-resolve",
       "location": "Averardo Vault, Rinascita"
+    },
+    {
+      "id": "sigillum",
+      "name": "Sigillum",
+      "element": "Aero",
+      "cost": 4,
+      "echoSetId": "sound-of-true-name",
+      "location": "Lahai-Roi (Weekly)"
     },
     {
       "id": "tempest-mephis",
@@ -2597,12 +2661,36 @@
       "location": "Central Plains"
     },
     {
+      "id": "the-false-sovereign",
+      "name": "The False Sovereign",
+      "element": "Electro",
+      "cost": 4,
+      "echoSetId": "crown-of-valor",
+      "location": "Sanguis Plateaus"
+    },
+    {
       "id": "thundering-mephis",
       "name": "Thundering Mephis",
       "element": "Electro",
       "cost": 4,
       "echoSetId": "void-thunder",
       "location": "Desorock Highland"
+    },
+    {
+      "id": "twin-nova-collapsar-blade",
+      "name": "Twin Nova: Collapsar Blade",
+      "element": "Fusion",
+      "cost": 4,
+      "echoSetId": "trailblazing-star",
+      "location": "Lahai-Roi"
+    },
+    {
+      "id": "twin-nova-nebula-cannon",
+      "name": "Twin Nova: Nebula Cannon",
+      "element": "Fusion",
+      "cost": 4,
+      "echoSetId": "chromatic-foam",
+      "location": "Lahai-Roi"
     }
   ],
   "echoes": [
