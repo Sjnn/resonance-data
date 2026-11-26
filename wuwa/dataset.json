@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "synced-2026-11-26T07:56:50.356Z",
-  "updatedAt": "2026-11-26T07:56:50.356Z",
+  "version": "synced-2026-11-26T08:00:39.245Z",
+  "updatedAt": "2026-11-26T08:00:39.245Z",
   "characters": [
     {
       "id": "aalto",
@@ -2571,14 +2571,6 @@
       "cost": 4,
       "echoSetId": "sierra-gale",
       "location": "Hallowed Reach, Rinascita"
-    },
-    {
-      "id": "nightmare-hecate",
-      "name": "Nightmare: Hecate",
-      "element": "Havoc",
-      "cost": 4,
-      "echoSetId": "dream-of-the-lost",
-      "location": "Rinascita"
     },
     {
       "id": "nightmare-impermanence-heron",
