@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "synced-2026-11-26T08:36:22.605Z",
-  "updatedAt": "2026-11-26T08:36:22.605Z",
+  "version": "synced-2026-11-26T08:41:15.210Z",
+  "updatedAt": "2026-11-26T08:41:15.210Z",
   "characters": [
     {
       "id": "aalto",
@@ -2728,49 +2728,57 @@
       "id": "celestial-light",
       "name": "Celestial Light",
       "twoPiece": "Spectro DMG +10%",
-      "fivePiece": "Spectro DMG +30% for 15s after releasing Intro Skill."
+      "fivePiece": "Spectro DMG +30% for 15s after releasing Intro Skill.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/celestial-light/icon.png"
     },
     {
       "id": "chromatic-foam",
       "name": "Chromatic Foam",
       "twoPiece": "Fusion DMG +10%",
-      "fivePiece": "Inflicting Fusion Burst grants 10% Fusion DMG Bonus for 15s and boosts the next incoming Resonator's Fusion DMG by 25% for 15s."
+      "fivePiece": "Inflicting Fusion Burst grants 10% Fusion DMG Bonus for 15s and boosts the next incoming Resonator's Fusion DMG by 25% for 15s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/chromatic-foam/icon.png"
     },
     {
       "id": "crown-of-valor",
       "name": "Crown of Valor",
       "twoPiece": "ATK +10%",
-      "fivePiece": "Gaining a Shield increases ATK by 6% and Crit DMG by 4% for 4s, stacking up to 5 times."
+      "fivePiece": "Gaining a Shield increases ATK by 6% and Crit DMG by 4% for 4s, stacking up to 5 times.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/crown-of-valor/icon.png"
     },
     {
       "id": "dream-of-the-lost",
       "name": "Dream of the Lost",
       "twoPiece": "Resonance Energy 0 State: Crit Rate +20%",
-      "fivePiece": "While holding 0 Resonance Energy, increases Crit Rate by 20% and grants 35% Echo Skill DMG Bonus."
+      "fivePiece": "While holding 0 Resonance Energy, increases Crit Rate by 20% and grants 35% Echo Skill DMG Bonus.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/dream-of-the-lost/icon.png"
     },
     {
       "id": "empyrean-anthem",
       "name": "Empyrean Anthem",
       "twoPiece": "Energy Regen +10%",
-      "fivePiece": "Increases Coordinated Attack DMG by 80%. Upon a critical hit of Coordinated Attack, increases active Resonator ATK by 20% for 4s."
+      "fivePiece": "Increases Coordinated Attack DMG by 80%. Upon a critical hit of Coordinated Attack, increases active Resonator ATK by 20% for 4s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/empyrean-anthem/icon.png"
     },
     {
       "id": "eternal-radiance",
       "name": "Eternal Radiance",
       "twoPiece": "Spectro DMG +10%",
-      "fivePiece": "Inflicting Spectro Frazzle increases Crit Rate by 20% for 15s; attacking enemies with 10 stacks grants 15% Spectro DMG Bonus for 15s."
+      "fivePiece": "Inflicting Spectro Frazzle increases Crit Rate by 20% for 15s; attacking enemies with 10 stacks grants 15% Spectro DMG Bonus for 15s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/eternal-radiance/icon.png"
     },
     {
       "id": "flamewings-shadow",
       "name": "Flamewing's Shadow",
       "twoPiece": "Fusion DMG +10%",
-      "fivePiece": "Dealing Echo Skill DMG increases Heavy Attack Crit Rate by 20% for 6s; dealing Heavy Attack DMG increases Echo Skill Crit Rate by 20% for 6s. While both effects are active, gains 16% Fusion DMG Bonus."
+      "fivePiece": "Dealing Echo Skill DMG increases Heavy Attack Crit Rate by 20% for 6s; dealing Heavy Attack DMG increases Echo Skill Crit Rate by 20% for 6s. While both effects are active, gains 16% Fusion DMG Bonus.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/flamewings-shadow/icon.png"
     },
     {
       "id": "flaming-clawprint",
       "name": "Flaming Clawprint",
       "twoPiece": "Fusion DMG +10%",
-      "fivePiece": "Casting Resonance Liberation increases Fusion DMG of all party members by 15% and the wearer Resonance Liberation DMG by 20% for 35s."
+      "fivePiece": "Casting Resonance Liberation increases Fusion DMG of all party members by 15% and the wearer Resonance Liberation DMG by 20% for 35s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/flaming-clawprint/icon.png"
     },
     {
       "id": "flash-of-electric-reflection",
@@ -2783,31 +2791,36 @@
       "id": "flower-of-tinged-yearning",
       "name": "Flower of Tinged Yearning",
       "twoPiece": "Spectro DMG +10%",
-      "fivePiece": "Casting Intro Skill or Resonance Liberation increases Heavy Attack DMG by 28% and grants 16% Spectro DMG Bonus for 14s."
+      "fivePiece": "Casting Intro Skill or Resonance Liberation increases Heavy Attack DMG by 28% and grants 16% Spectro DMG Bonus for 14s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/flower-of-tinged-yearning/icon.png"
     },
     {
       "id": "freezing-frost",
       "name": "Freezing Frost",
       "twoPiece": "Glacio DMG +10%",
-      "fivePiece": "Glacio DMG +10% after releasing Basic Attack or Heavy Attack, stacking up to 3 times for 15s."
+      "fivePiece": "Glacio DMG +10% after releasing Basic Attack or Heavy Attack, stacking up to 3 times for 15s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/freezing-frost/icon.png"
     },
     {
       "id": "frosty-resolve",
       "name": "Frosty Resolve",
       "twoPiece": "Resonance Skill DMG +12%",
-      "fivePiece": "Casting Resonance Skill grants 22.5% Glacio DMG Bonus for 15s; casting Resonance Liberation increases Skill DMG by 18%, stacking up to 2 times."
+      "fivePiece": "Casting Resonance Skill grants 22.5% Glacio DMG Bonus for 15s; casting Resonance Liberation increases Skill DMG by 18%, stacking up to 2 times.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/frosty-resolve/icon.png"
     },
     {
       "id": "gusts-of-welkin",
       "name": "Gusts of Welkin",
       "twoPiece": "Aero DMG +10%",
-      "fivePiece": "Inflicting Aero Erosion increases Aero DMG of all party members by 15% and the wearer by an additional 15% for 20s."
+      "fivePiece": "Inflicting Aero Erosion increases Aero DMG of all party members by 15% and the wearer by an additional 15% for 20s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/gusts-of-welkin/icon.png"
     },
     {
       "id": "halo-of-starry-radiance",
       "name": "Halo of Starry Radiance",
       "twoPiece": "Healing Bonus +10%",
-      "fivePiece": "When healing a Resonator in the team, every 1% of Off-Tune Buildup Rate grants 0.2% All-Attribute DMG Bonus to all Resonators in the team (up to 25%) for 4s."
+      "fivePiece": "When healing a Resonator in the team, every 1% of Off-Tune Buildup Rate grants 0.2% All-Attribute DMG Bonus to all Resonators in the team (up to 25%) for 4s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/halo-of-starry-radiance/icon.png"
     },
     {
       "id": "havoc-eclipse",
@@ -2819,127 +2832,148 @@
       "id": "heart-of-evils-purge",
       "name": "Heart of Evil's Purge",
       "twoPiece": "Electro DMG +10%",
-      "fivePiece": "Casting Resonance Liberation increases Heavy Attack DMG by 28% and grants 16% Electro DMG Bonus for 14s."
+      "fivePiece": "Casting Resonance Liberation increases Heavy Attack DMG by 28% and grants 16% Electro DMG Bonus for 14s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/heart-of-evils-purge/icon.png"
     },
     {
       "id": "heart-of-sworn-vigil",
       "name": "Heart of Sworn Vigil",
       "twoPiece": "Havoc DMG +10%",
-      "fivePiece": "Dealing Resonance Skill or Echo Skill DMG increases Havoc DMG by 20% and Heavy Attack DMG Bonus by 24% for 12s."
+      "fivePiece": "Dealing Resonance Skill or Echo Skill DMG increases Havoc DMG by 20% and Heavy Attack DMG Bonus by 24% for 12s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/heart-of-sworn-vigil/icon.png"
     },
     {
       "id": "lamp-of-nether-road",
       "name": "Lamp of Nether Road",
       "twoPiece": "Havoc DMG +10%",
-      "fivePiece": "Dealing Resonance Skill DMG increases Havoc DMG by 18% and boosts off-field or coordinated Resonance Skill DMG by 28% for 14s."
+      "fivePiece": "Dealing Resonance Skill DMG increases Havoc DMG by 18% and boosts off-field or coordinated Resonance Skill DMG by 28% for 14s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/lamp-of-nether-road/icon.png"
     },
     {
       "id": "law-of-harmony",
       "name": "Law of Harmony",
       "twoPiece": "Heavy Attack DMG +12%",
-      "fivePiece": "Casting Echo Skill grants 30% Heavy Attack DMG Bonus to the wearer and 4% Echo Skill DMG Bonus to the team, stacking up to 4 times."
+      "fivePiece": "Casting Echo Skill grants 30% Heavy Attack DMG Bonus to the wearer and 4% Echo Skill DMG Bonus to the team, stacking up to 4 times.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/law-of-harmony/icon.png"
     },
     {
       "id": "lingering-tunes",
       "name": "Lingering Tunes",
       "twoPiece": "ATK +10%",
-      "fivePiece": "While on the field, ATK increases by 5% every 1.5s, up to 4 stacks. Outro Skill DMG increases by 60%."
+      "fivePiece": "While on the field, ATK increases by 5% every 1.5s, up to 4 stacks. Outro Skill DMG increases by 60%.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/lingering-tunes/icon.png"
     },
     {
       "id": "midnight-veil",
       "name": "Midnight Veil",
       "twoPiece": "Havoc DMG +10%",
-      "fivePiece": "Triggering Outro Skill deals 480% Havoc DMG to nearby enemies and grants the incoming Resonator 15% Havoc DMG Bonus for 15s."
+      "fivePiece": "Triggering Outro Skill deals 480% Havoc DMG to nearby enemies and grants the incoming Resonator 15% Havoc DMG Bonus for 15s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/midnight-veil/icon.png"
     },
     {
       "id": "molten-rift",
       "name": "Molten Rift",
       "twoPiece": "Fusion DMG +10%",
-      "fivePiece": "Fusion DMG +30% for 15s after releasing Resonance Skill."
+      "fivePiece": "Fusion DMG +30% for 15s after releasing Resonance Skill.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/molten-rift/icon.png"
     },
     {
       "id": "moonlit-clouds",
       "name": "Moonlit Clouds",
       "twoPiece": "Energy Regen +10%",
-      "fivePiece": "After using Outro Skill, increases the ATK of the next Resonator by 22.5% for 15s."
+      "fivePiece": "After using Outro Skill, increases the ATK of the next Resonator by 22.5% for 15s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/moonlit-clouds/icon.png"
     },
     {
       "id": "pact-of-neonlight-leap",
       "name": "Pact of Neonlight Leap",
       "twoPiece": "Spectro DMG +10%",
-      "fivePiece": "Casting Outro Skill increases the incoming Resonator's ATK by 15%, with an additional 0.3% ATK boost per point of Tune Break Boost (up to 15%) for 15s."
+      "fivePiece": "Casting Outro Skill increases the incoming Resonator's ATK by 15%, with an additional 0.3% ATK boost per point of Tune Break Boost (up to 15%) for 15s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/pact-of-neonlight-leap/icon.png"
     },
     {
       "id": "reel-of-spliced-memories",
       "name": "Reel of Spliced Memories",
       "twoPiece": "Glacio DMG +10%",
-      "fivePiece": "Casting Intro Skill or Resonance Skill grants 18% Glacio DMG Bonus and increases Resonance Liberation DMG by 28% for 14s."
+      "fivePiece": "Casting Intro Skill or Resonance Skill grants 18% Glacio DMG Bonus and increases Resonance Liberation DMG by 28% for 14s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/reel-of-spliced-memories/icon.png"
     },
     {
       "id": "rejuvenating-glow",
       "name": "Rejuvenating Glow",
       "twoPiece": "Healing Bonus +10%",
-      "fivePiece": "Increases the ATK of all party members by 15% for 30s upon healing allies."
+      "fivePiece": "Increases the ATK of all party members by 15% for 30s upon healing allies.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/rejuvenating-glow/icon.png"
     },
     {
       "id": "rite-of-gilded-revelation",
       "name": "Rite of Gilded Revelation",
       "twoPiece": "Spectro DMG +10%",
-      "fivePiece": "Dealing Basic Attack DMG increases Spectro DMG by 10% for 5s, stacking up to 3 times. At 3 stacks, casting Resonance Liberation grants 40% Basic Attack DMG Bonus."
+      "fivePiece": "Dealing Basic Attack DMG increases Spectro DMG by 10% for 5s, stacking up to 3 times. At 3 stacks, casting Resonance Liberation grants 40% Basic Attack DMG Bonus.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/rite-of-gilded-revelation/icon.png"
     },
     {
       "id": "shadow-of-shattered-dreams",
       "name": "Shadow of Shattered Dreams",
       "twoPiece": "Aero DMG +10%",
-      "fivePiece": "Casting Resonance Skill increases Aero DMG by 18% and Basic Attack DMG Bonus by 28% for 14s."
+      "fivePiece": "Casting Resonance Skill increases Aero DMG by 18% and Basic Attack DMG Bonus by 28% for 14s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/shadow-of-shattered-dreams/icon.png"
     },
     {
       "id": "sierra-gale",
       "name": "Sierra Gale",
       "twoPiece": "Aero DMG +10%",
-      "fivePiece": "Aero DMG +30% for 15s upon using Intro Skill."
+      "fivePiece": "Aero DMG +30% for 15s upon using Intro Skill.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/sierra-gale/icon.png"
     },
     {
       "id": "song-of-feathered-trace",
       "name": "Song of Feathered Trace",
       "twoPiece": "Aero DMG +10%",
-      "fivePiece": "Casting Resonance Skill or Resonance Liberation increases Aero DMG by 20% and Resonance Liberation DMG Bonus by 28% for 14s."
+      "fivePiece": "Casting Resonance Skill or Resonance Liberation increases Aero DMG by 20% and Resonance Liberation DMG Bonus by 28% for 14s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/song-of-feathered-trace/icon.png"
     },
     {
       "id": "sound-of-true-name",
       "name": "Sound of True Name",
       "twoPiece": "Aero DMG +10%",
-      "fivePiece": "Dealing Echo Skill DMG increases Echo Skill DMG by 15% for 5s, stacking up to 2 times. At 2 stacks, grants 15% Aero DMG Bonus."
+      "fivePiece": "Dealing Echo Skill DMG increases Echo Skill DMG by 15% for 5s, stacking up to 2 times. At 2 stacks, grants 15% Aero DMG Bonus.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/sound-of-true-name/icon.png"
     },
     {
       "id": "thread-of-severed-fate",
       "name": "Thread of Severed Fate",
       "twoPiece": "Havoc DMG +10%",
-      "fivePiece": "Inflicting Havoc Bane increases the Resonator's ATK by 20% and Resonance Liberation DMG Bonus by 30% for 5s."
+      "fivePiece": "Inflicting Havoc Bane increases the Resonator's ATK by 20% and Resonance Liberation DMG Bonus by 30% for 5s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/thread-of-severed-fate/icon.png"
     },
     {
       "id": "tidebreaking-courage",
       "name": "Tidebreaking Courage",
       "twoPiece": "Energy Regen +10%",
-      "fivePiece": "Increases ATK by 15%. Reaching 250% Energy Regen increases all Attribute DMG by 30%."
+      "fivePiece": "Increases ATK by 15%. Reaching 250% Energy Regen increases all Attribute DMG by 30%.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/tidebreaking-courage/icon.png"
     },
     {
       "id": "trailblazing-star",
       "name": "Trailblazing Star",
       "twoPiece": "Fusion DMG +10%",
-      "fivePiece": "Inflicting Fusion Burst or Tune Rupture - Shifting increases the Resonator's Crit Rate by 20% and grants 20% Fusion DMG Bonus for 8s."
+      "fivePiece": "Inflicting Fusion Burst or Tune Rupture - Shifting increases the Resonator's Crit Rate by 20% and grants 20% Fusion DMG Bonus for 8s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/trailblazing-star/icon.png"
     },
     {
       "id": "void-thunder",
       "name": "Void Thunder",
       "twoPiece": "Electro DMG +10%",
-      "fivePiece": "Electro DMG +15% after releasing Heavy Attack or Resonance Skill, stacking up to 2 times for 15s."
+      "fivePiece": "Electro DMG +15% after releasing Heavy Attack or Resonance Skill, stacking up to 2 times for 15s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/void-thunder/icon.png"
     },
     {
       "id": "wishes-of-quiet-snowfall",
       "name": "Wishes of Quiet Snowfall",
       "twoPiece": "Glacio DMG +10%",
-      "fivePiece": "Casting Intro Skill or Resonance Skill increases Glacio DMG by 18% and boosts Resonance Skill and Resonance Liberation DMG by 24% for 12s."
+      "fivePiece": "Casting Intro Skill or Resonance Skill increases Glacio DMG by 18% and boosts Resonance Skill and Resonance Liberation DMG by 24% for 12s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/wishes-of-quiet-snowfall/icon.png"
     }
   ],
   "builds": [
