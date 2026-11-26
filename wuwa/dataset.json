@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "synced-2026-11-26T08:14:20.387Z",
-  "updatedAt": "2026-11-26T08:14:20.387Z",
+  "version": "synced-2026-11-26T08:15:26.750Z",
+  "updatedAt": "2026-11-26T08:15:26.750Z",
   "characters": [
     {
       "id": "aalto",
@@ -2503,7 +2503,8 @@
       "element": "Aero",
       "cost": 4,
       "echoSetId": "gusts-of-welkin",
-      "location": "Septimont, Rinascita"
+      "location": "Septimont, Rinascita",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/kelpie/icon.png"
     },
     {
       "id": "lady-of-the-sea",
@@ -2583,7 +2584,8 @@
       "element": "Havoc",
       "cost": 4,
       "echoSetId": "havoc-eclipse",
-      "location": "Thessaleo Fells, Rinascita"
+      "location": "Thessaleo Fells, Rinascita",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/nightmare-crownless/icon.png"
     },
     {
       "id": "nightmare-feilian-beringal",
@@ -2600,7 +2602,8 @@
       "element": "Havoc",
       "cost": 4,
       "echoSetId": "midnight-veil",
-      "location": "Nimbus Sanctum, Rinascita"
+      "location": "Nimbus Sanctum, Rinascita",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/nightmare-impermanence-heron/icon.png"
     },
     {
       "id": "nightmare-inferno-rider",
@@ -2608,7 +2611,8 @@
       "element": "Fusion",
       "cost": 4,
       "echoSetId": "molten-rift",
-      "location": "Nimbus Sanctum, Rinascita"
+      "location": "Nimbus Sanctum, Rinascita",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/nightmare-inferno-rider/icon.png"
     },
     {
       "id": "nightmare-lampylumen-myriad",
@@ -2616,7 +2620,8 @@
       "element": "Glacio",
       "cost": 4,
       "echoSetId": "frosty-resolve",
-      "location": "Huanglong"
+      "location": "Huanglong",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/nightmare-lampylumen-myriad/icon.png"
     },
     {
       "id": "nightmare-mourning-aix",
@@ -2624,7 +2629,8 @@
       "element": "Spectro",
       "cost": 4,
       "echoSetId": "eternal-radiance",
-      "location": "Penitent End, Rinascita"
+      "location": "Penitent End, Rinascita",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/nightmare-mourning-aix/icon.png"
     },
     {
       "id": "nightmare-tempest-mephis",
@@ -2632,7 +2638,8 @@
       "element": "Electro",
       "cost": 4,
       "echoSetId": "void-thunder",
-      "location": "Thessaleo Fells, Rinascita"
+      "location": "Thessaleo Fells, Rinascita",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/nightmare-tempest-mephis/icon.png"
     },
     {
       "id": "nightmare-thundering-mephis",
@@ -2640,7 +2647,8 @@
       "element": "Electro",
       "cost": 4,
       "echoSetId": "void-thunder",
-      "location": "Whisperwind Haven, Rinascita"
+      "location": "Whisperwind Haven, Rinascita",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/nightmare-thundering-mephis/icon.png"
     },
     {
       "id": "reactor-husk",
@@ -2702,7 +2710,8 @@
       "element": "Fusion",
       "cost": 4,
       "echoSetId": "trailblazing-star",
-      "location": "Lahai-Roi"
+      "location": "Lahai-Roi",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/twin-nova-collapsar-blade/icon.png"
     },
     {
       "id": "twin-nova-nebula-cannon",
