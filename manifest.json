@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T22:53:57.733Z",
+  "updatedAt": "2026-11-26T07:45:32.034Z",
   "app": {
     "latestVersion": "1.0.0",
     "minSupportedVersion": "1.0.0",
@@ -9,9 +9,9 @@
   },
   "games": {
     "wuwa": {
-      "version": "2026.11.24",
+      "version": "2026.11.26",
       "path": "wuwa/dataset.json",
-      "sha256": "decff98cac194523325f05790daf3051fb005b07a850b9389000dc1a1a4df069",
+      "sha256": "6e8c51339706446c373b5ae20420e1c3c25e7dc27af1cb4fb601cd1c43179634",
       "counts": {
         "characters": 61,
         "weapons": 87,

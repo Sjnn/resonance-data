@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "synced-2026-11-24T22:53:57.733Z",
-  "updatedAt": "2026-11-24T22:53:57.733Z",
+  "version": "synced-2026-11-26T07:45:32.034Z",
+  "updatedAt": "2026-11-26T07:45:32.034Z",
   "characters": [
     {
       "id": "aalto",
@@ -1551,7 +1551,7 @@
       "subStat": "CRIT DMG",
       "subStatValue": "48.6%",
       "passive": "Increases ATK by 12%. Casting Intro Skill or Resonance Skill grants 18% Glacio DMG Bonus and increases Resonance Liberation DMG by 32% for 14s.",
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/blooming-jadehaven/icon.webp"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/blooming-jadehaven/icon.png"
     },
     {
       "id": "broadblade-41",
@@ -1738,7 +1738,7 @@
       "subStat": "CRIT Rate",
       "subStatValue": "24.3%",
       "passive": "Increases ATK by 12%. Casting Resonance Skill restores 6 Concerto Energy and increases Basic Attack DMG and Fusion DMG by 24% for 14s.",
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/forged-dwarf-star/icon.webp"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/forged-dwarf-star/icon.png"
     },
     {
       "id": "freeze-frame",
@@ -1749,7 +1749,7 @@
       "subStat": "CRIT DMG",
       "subStatValue": "72.0%",
       "passive": "Increases ATK by 12%. Casting Resonance Liberation increases Basic Attack DMG and Glacio DMG by 24% and ignores 12% of the target's DEF for 12s.",
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/freeze-frame/icon.webp"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/freeze-frame/icon.png"
     },
     {
       "id": "frostburn",
@@ -1760,7 +1760,7 @@
       "subStat": "CRIT DMG",
       "subStatValue": "48.6%",
       "passive": "Increases ATK by 12%. Dealing Resonance Skill DMG grants 18% Glacio DMG Bonus and increases Resonance Skill DMG by 28% for 12s.",
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/frostburn/icon.webp"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/frostburn/icon.png"
     },
     {
       "id": "fusion-accretion",
@@ -1837,7 +1837,7 @@
       "subStat": "CRIT Rate",
       "subStatValue": "36.0%",
       "passive": "Increases ATK by 12%. Inflicting Negative Status or dealing Resonance Liberation DMG increases Resonance Liberation DMG by 8% (up to 3 stacks) and grants 24% All-Attribute DMG Bonus to team members inflicting Negative Status.",
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/kumokiri/icon.webp"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/kumokiri/icon.png"
     },
     {
       "id": "legend-of-drunken-hero",
@@ -1958,7 +1958,7 @@
       "subStat": "CRIT Rate",
       "subStatValue": "36.0%",
       "passive": "Increases ATK by 12%. Casting Intro Skill or Resonance Liberation increases Resonance Liberation DMG by 20% and ignores 7.2% of target DEF for 5s when gaining a Shield.",
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/moongazers-sigil/icon.webp"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/moongazers-sigil/icon.png"
     },
     {
       "id": "novaburst",
@@ -2134,7 +2134,7 @@
       "subStat": "CRIT Rate",
       "subStatValue": "24.3%",
       "passive": "Increases ATK by 12%. Casting Intro Skill or Basic Attack increases Basic Attack DMG by 36% and boosts All-Attribute DMG of all nearby team members by 8% (stacking up to 3 times).",
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/spectrum-blaster/icon.webp"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/spectrum-blaster/icon.png"
     },
     {
       "id": "starfield-calibrator",
@@ -2145,7 +2145,7 @@
       "subStat": "Energy Regen",
       "subStatValue": "77.0%",
       "passive": "Increases DEF by 16%. Casting Resonance Skill restores 8 Concerto Energy and increases CRIT DMG of all nearby Resonators by 20% for 4s when the wielder heals an ally.",
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/starfield-calibrator/icon.webp"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/starfield-calibrator/icon.png"
     },
     {
       "id": "static-mist",
@@ -2288,7 +2288,7 @@
       "subStat": "CRIT DMG",
       "subStatValue": "72.0%",
       "passive": "Increases ATK by 12%. Casting Echo Skill or Resonance Liberation increases Havoc DMG by 20% and Heavy Attack DMG by 32% for 12s.",
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/unspoken-rue/icon.webp"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/weapons/unspoken-rue/icon.png"
     },
     {
       "id": "variation",
