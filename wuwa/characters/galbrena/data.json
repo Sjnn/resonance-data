@@ -2,7 +2,7 @@
   "id": "galbrena",
   "name": "Galbrena",
   "element": "Fusion",
-  "weaponType": "Pistol",
+  "weaponType": "Pistols",
   "rarity": 5,
   "roles": [
     "main-dps"

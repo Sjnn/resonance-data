@@ -2,7 +2,7 @@
   "id": "iuno",
   "name": "Iuno",
   "element": "Aero",
-  "weaponType": "Gauntlet",
+  "weaponType": "Gauntlets",
   "rarity": 5,
   "roles": [
     "sub-dps",

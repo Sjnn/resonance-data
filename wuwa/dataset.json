@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "synced-2026-11-26T07:45:54.610Z",
-  "updatedAt": "2026-11-26T07:45:54.610Z",
+  "version": "synced-2026-11-26T07:50:11.496Z",
+  "updatedAt": "2026-11-26T07:50:11.496Z",
   "characters": [
     {
       "id": "aalto",
@@ -46,7 +46,7 @@
         "atk": 450,
         "def": 1125
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/aemeath/icon.png"
     },
     {
@@ -68,7 +68,7 @@
         "atk": 462,
         "def": 1112
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/augusta/icon.png"
     },
     {
@@ -142,7 +142,7 @@
         "atk": 312,
         "def": 960
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/buling/icon.png"
     },
     {
@@ -211,7 +211,7 @@
         "atk": 400,
         "def": 1100
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/cantarella/icon.png"
     },
     {
@@ -305,7 +305,7 @@
         "atk": 388,
         "def": 1150
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/chisa/icon.png"
     },
     {
@@ -396,7 +396,7 @@
         "atk": 412,
         "def": 1150
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/denia/icon.png"
     },
     {
@@ -425,7 +425,7 @@
       "id": "galbrena",
       "name": "Galbrena",
       "element": "Fusion",
-      "weaponType": "Pistol",
+      "weaponType": "Pistols",
       "rarity": 5,
       "roles": [
         "main-dps"
@@ -441,7 +441,7 @@
         "atk": 462,
         "def": 1112
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/galbrena/icon.png"
     },
     {
@@ -463,7 +463,7 @@
         "atk": 440,
         "def": 1140
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/hiyuki/icon.png"
     },
     {
@@ -486,14 +486,14 @@
         "atk": 460,
         "def": 1110
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/hsin/icon.png"
     },
     {
       "id": "iuno",
       "name": "Iuno",
       "element": "Aero",
-      "weaponType": "Gauntlet",
+      "weaponType": "Gauntlets",
       "rarity": 5,
       "roles": [
         "sub-dps",
@@ -510,7 +510,7 @@
         "atk": 425,
         "def": 1161
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/iuno/icon.png"
     },
     {
@@ -558,7 +558,7 @@
         "atk": 360,
         "def": 1140
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/jingran/icon.png"
     },
     {
@@ -609,7 +609,7 @@
       "id": "lily",
       "name": "Lily",
       "element": "Spectro",
-      "weaponType": "Pistol",
+      "weaponType": "Pistols",
       "rarity": 5,
       "roles": [
         "sustain",
@@ -626,7 +626,7 @@
         "atk": 330,
         "def": 1180
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lily/icon.png"
     },
     {
@@ -671,14 +671,14 @@
         "atk": 405,
         "def": 1150
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lucilla/icon.png"
     },
     {
       "id": "lucy",
       "name": "Lucy",
       "element": "Spectro",
-      "weaponType": "Pistol",
+      "weaponType": "Pistols",
       "rarity": 5,
       "roles": [
         "main-dps"
@@ -693,7 +693,7 @@
         "atk": 455,
         "def": 1115
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lucy/icon.png"
     },
     {
@@ -747,7 +747,7 @@
       "id": "luuk-herssen",
       "name": "Luuk Herssen",
       "element": "Spectro",
-      "weaponType": "Gauntlet",
+      "weaponType": "Gauntlets",
       "rarity": 5,
       "roles": [
         "main-dps"
@@ -763,14 +763,14 @@
         "atk": 445,
         "def": 1130
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/luuk-herssen/icon.png"
     },
     {
       "id": "lynae",
       "name": "Lynae",
       "element": "Spectro",
-      "weaponType": "Pistol",
+      "weaponType": "Pistols",
       "rarity": 5,
       "roles": [
         "sub-dps",
@@ -787,7 +787,7 @@
         "atk": 412,
         "def": 1160
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lynae/icon.png"
     },
     {
@@ -812,7 +812,7 @@
         "atk": 325,
         "def": 1480
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/mornye/icon.png"
     },
     {
@@ -883,7 +883,7 @@
         "atk": 438,
         "def": 1137
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/phrolova/icon.png"
     },
     {
@@ -905,7 +905,7 @@
         "atk": 450,
         "def": 1125
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/qingxiao/icon.png"
     },
     {
@@ -929,14 +929,14 @@
         "atk": 412,
         "def": 1186
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/qiuyuan/icon.png"
     },
     {
       "id": "rebecca",
       "name": "Rebecca",
       "element": "Electro",
-      "weaponType": "Pistol",
+      "weaponType": "Pistols",
       "rarity": 5,
       "roles": [
         "sub-dps",
@@ -952,7 +952,7 @@
         "atk": 415,
         "def": 1145
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/rebecca/icon.png"
     },
     {
@@ -1021,7 +1021,7 @@
         "atk": 375,
         "def": 1145
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/rover-electro/icon.png"
     },
     {
@@ -1122,7 +1122,7 @@
       "id": "sigrika",
       "name": "Sigrika",
       "element": "Aero",
-      "weaponType": "Gauntlet",
+      "weaponType": "Gauntlets",
       "rarity": 5,
       "roles": [
         "main-dps"
@@ -1137,7 +1137,7 @@
         "atk": 450,
         "def": 1120
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/sigrika/icon.png"
     },
     {
@@ -1162,7 +1162,7 @@
         "atk": 335,
         "def": 1170
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/suisui/icon.png"
     },
     {
@@ -1184,7 +1184,7 @@
         "atk": 455,
         "def": 1120
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/suoming/icon.png"
     },
     {
@@ -1300,7 +1300,7 @@
         "atk": 445,
         "def": 1135
       },
-      "dataComplete": false,
+      "dataComplete": true,
       "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/yangyang-xuanling/icon.png"
     },
     {
@@ -2613,10 +2613,22 @@
       "fivePiece": "Spectro DMG +30% for 15s after releasing Intro Skill."
     },
     {
+      "id": "chromatic-foam",
+      "name": "Chromatic Foam",
+      "twoPiece": "Fusion DMG +10%",
+      "fivePiece": "Inflicting Fusion Burst grants 10% Fusion DMG Bonus for 15s and boosts the next incoming Resonator's Fusion DMG by 25% for 15s."
+    },
+    {
       "id": "crown-of-valor",
       "name": "Crown of Valor",
       "twoPiece": "ATK +10%",
       "fivePiece": "Gaining a Shield increases ATK by 6% and Crit DMG by 4% for 4s, stacking up to 5 times."
+    },
+    {
+      "id": "dream-of-the-lost",
+      "name": "Dream of the Lost",
+      "twoPiece": "Resonance Energy 0 State: Crit Rate +20%",
+      "fivePiece": "While holding 0 Resonance Energy, increases Crit Rate by 20% and grants 35% Echo Skill DMG Bonus."
     },
     {
       "id": "empyrean-anthem",
@@ -2631,10 +2643,28 @@
       "fivePiece": "Inflicting Spectro Frazzle increases Crit Rate by 20% for 15s; attacking enemies with 10 stacks grants 15% Spectro DMG Bonus for 15s."
     },
     {
+      "id": "flamewings-shadow",
+      "name": "Flamewing's Shadow",
+      "twoPiece": "Fusion DMG +10%",
+      "fivePiece": "Dealing Echo Skill DMG increases Heavy Attack Crit Rate by 20% for 6s; dealing Heavy Attack DMG increases Echo Skill Crit Rate by 20% for 6s. While both effects are active, gains 16% Fusion DMG Bonus."
+    },
+    {
       "id": "flaming-clawprint",
       "name": "Flaming Clawprint",
       "twoPiece": "Fusion DMG +10%",
       "fivePiece": "Casting Resonance Liberation increases Fusion DMG of all party members by 15% and the wearer Resonance Liberation DMG by 20% for 35s."
+    },
+    {
+      "id": "flash-of-electric-reflection",
+      "name": "Flash of Electric Reflection",
+      "twoPiece": "Electro DMG +10%",
+      "fivePiece": "Dealing Resonance Liberation DMG increases Electro DMG by 18% and Resonance Liberation DMG Bonus by 28% for 12s."
+    },
+    {
+      "id": "flower-of-tinged-yearning",
+      "name": "Flower of Tinged Yearning",
+      "twoPiece": "Spectro DMG +10%",
+      "fivePiece": "Casting Intro Skill or Resonance Liberation increases Heavy Attack DMG by 28% and grants 16% Spectro DMG Bonus for 14s."
     },
     {
       "id": "freezing-frost",
@@ -2655,10 +2685,34 @@
       "fivePiece": "Inflicting Aero Erosion increases Aero DMG of all party members by 15% and the wearer by an additional 15% for 20s."
     },
     {
+      "id": "halo-of-starry-radiance",
+      "name": "Halo of Starry Radiance",
+      "twoPiece": "Healing Bonus +10%",
+      "fivePiece": "When healing a Resonator in the team, every 1% of Off-Tune Buildup Rate grants 0.2% All-Attribute DMG Bonus to all Resonators in the team (up to 25%) for 4s."
+    },
+    {
       "id": "havoc-eclipse",
       "name": "Havoc Eclipse",
       "twoPiece": "Havoc DMG +10%",
       "fivePiece": "Havoc DMG +7.5% after releasing Basic Attack or Heavy Attack, stacking up to 4 times for 15s."
+    },
+    {
+      "id": "heart-of-evils-purge",
+      "name": "Heart of Evil's Purge",
+      "twoPiece": "Electro DMG +10%",
+      "fivePiece": "Casting Resonance Liberation increases Heavy Attack DMG by 28% and grants 16% Electro DMG Bonus for 14s."
+    },
+    {
+      "id": "heart-of-sworn-vigil",
+      "name": "Heart of Sworn Vigil",
+      "twoPiece": "Havoc DMG +10%",
+      "fivePiece": "Dealing Resonance Skill or Echo Skill DMG increases Havoc DMG by 20% and Heavy Attack DMG Bonus by 24% for 12s."
+    },
+    {
+      "id": "lamp-of-nether-road",
+      "name": "Lamp of Nether Road",
+      "twoPiece": "Havoc DMG +10%",
+      "fivePiece": "Dealing Resonance Skill DMG increases Havoc DMG by 18% and boosts off-field or coordinated Resonance Skill DMG by 28% for 14s."
     },
     {
       "id": "law-of-harmony",
@@ -2691,10 +2745,34 @@
       "fivePiece": "After using Outro Skill, increases the ATK of the next Resonator by 22.5% for 15s."
     },
     {
+      "id": "pact-of-neonlight-leap",
+      "name": "Pact of Neonlight Leap",
+      "twoPiece": "Spectro DMG +10%",
+      "fivePiece": "Casting Outro Skill increases the incoming Resonator's ATK by 15%, with an additional 0.3% ATK boost per point of Tune Break Boost (up to 15%) for 15s."
+    },
+    {
+      "id": "reel-of-spliced-memories",
+      "name": "Reel of Spliced Memories",
+      "twoPiece": "Glacio DMG +10%",
+      "fivePiece": "Casting Intro Skill or Resonance Skill grants 18% Glacio DMG Bonus and increases Resonance Liberation DMG by 28% for 14s."
+    },
+    {
       "id": "rejuvenating-glow",
       "name": "Rejuvenating Glow",
       "twoPiece": "Healing Bonus +10%",
       "fivePiece": "Increases the ATK of all party members by 15% for 30s upon healing allies."
+    },
+    {
+      "id": "rite-of-gilded-revelation",
+      "name": "Rite of Gilded Revelation",
+      "twoPiece": "Spectro DMG +10%",
+      "fivePiece": "Dealing Basic Attack DMG increases Spectro DMG by 10% for 5s, stacking up to 3 times. At 3 stacks, casting Resonance Liberation grants 40% Basic Attack DMG Bonus."
+    },
+    {
+      "id": "shadow-of-shattered-dreams",
+      "name": "Shadow of Shattered Dreams",
+      "twoPiece": "Aero DMG +10%",
+      "fivePiece": "Casting Resonance Skill increases Aero DMG by 18% and Basic Attack DMG Bonus by 28% for 14s."
     },
     {
       "id": "sierra-gale",
@@ -2703,16 +2781,46 @@
       "fivePiece": "Aero DMG +30% for 15s upon using Intro Skill."
     },
     {
+      "id": "song-of-feathered-trace",
+      "name": "Song of Feathered Trace",
+      "twoPiece": "Aero DMG +10%",
+      "fivePiece": "Casting Resonance Skill or Resonance Liberation increases Aero DMG by 20% and Resonance Liberation DMG Bonus by 28% for 14s."
+    },
+    {
+      "id": "sound-of-true-name",
+      "name": "Sound of True Name",
+      "twoPiece": "Aero DMG +10%",
+      "fivePiece": "Dealing Echo Skill DMG increases Echo Skill DMG by 15% for 5s, stacking up to 2 times. At 2 stacks, grants 15% Aero DMG Bonus."
+    },
+    {
+      "id": "thread-of-severed-fate",
+      "name": "Thread of Severed Fate",
+      "twoPiece": "Havoc DMG +10%",
+      "fivePiece": "Inflicting Havoc Bane increases the Resonator's ATK by 20% and Resonance Liberation DMG Bonus by 30% for 5s."
+    },
+    {
       "id": "tidebreaking-courage",
       "name": "Tidebreaking Courage",
       "twoPiece": "Energy Regen +10%",
       "fivePiece": "Increases ATK by 15%. Reaching 250% Energy Regen increases all Attribute DMG by 30%."
     },
     {
+      "id": "trailblazing-star",
+      "name": "Trailblazing Star",
+      "twoPiece": "Fusion DMG +10%",
+      "fivePiece": "Inflicting Fusion Burst or Tune Rupture - Shifting increases the Resonator's Crit Rate by 20% and grants 20% Fusion DMG Bonus for 8s."
+    },
+    {
       "id": "void-thunder",
       "name": "Void Thunder",
       "twoPiece": "Electro DMG +10%",
       "fivePiece": "Electro DMG +15% after releasing Heavy Attack or Resonance Skill, stacking up to 2 times for 15s."
+    },
+    {
+      "id": "wishes-of-quiet-snowfall",
+      "name": "Wishes of Quiet Snowfall",
+      "twoPiece": "Glacio DMG +10%",
+      "fivePiece": "Casting Intro Skill or Resonance Skill increases Glacio DMG by 18% and boosts Resonance Skill and Resonance Liberation DMG by 24% for 12s."
     }
   ],
   "builds": [

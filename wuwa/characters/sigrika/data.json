@@ -2,7 +2,7 @@
   "id": "sigrika",
   "name": "Sigrika",
   "element": "Aero",
-  "weaponType": "Gauntlet",
+  "weaponType": "Gauntlets",
   "rarity": 5,
   "roles": [
     "main-dps"

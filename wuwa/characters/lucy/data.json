@@ -2,7 +2,7 @@
   "id": "lucy",
   "name": "Lucy",
   "element": "Spectro",
-  "weaponType": "Pistol",
+  "weaponType": "Pistols",
   "rarity": 5,
   "roles": [
     "main-dps"

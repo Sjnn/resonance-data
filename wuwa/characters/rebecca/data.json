@@ -2,7 +2,7 @@
   "id": "rebecca",
   "name": "Rebecca",
   "element": "Electro",
-  "weaponType": "Pistol",
+  "weaponType": "Pistols",
   "rarity": 5,
   "roles": [
     "sub-dps",

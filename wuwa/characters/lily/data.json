@@ -2,7 +2,7 @@
   "id": "lily",
   "name": "Lily",
   "element": "Spectro",
-  "weaponType": "Pistol",
+  "weaponType": "Pistols",
   "rarity": 5,
   "roles": [
     "sustain",
