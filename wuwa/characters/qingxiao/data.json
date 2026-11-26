@@ -17,7 +17,7 @@
     "atk": 450,
     "def": 1125
   },
-  "dataComplete": false,
+  "dataComplete": true,
   "build": {
     "weapons": [
       "glint-of-clouds"

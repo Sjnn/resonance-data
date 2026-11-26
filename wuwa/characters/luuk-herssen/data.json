@@ -18,7 +18,7 @@
     "atk": 445,
     "def": 1130
   },
-  "dataComplete": false,
+  "dataComplete": true,
   "build": {
     "weapons": [
       "daybreakers-spine"

@@ -19,7 +19,7 @@
     "atk": 330,
     "def": 1180
   },
-  "dataComplete": false,
+  "dataComplete": true,
   "build": {
     "weapons": [
       "lullaby"

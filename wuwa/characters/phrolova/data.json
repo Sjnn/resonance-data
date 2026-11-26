@@ -18,7 +18,7 @@
     "atk": 438,
     "def": 1137
   },
-  "dataComplete": false,
+  "dataComplete": true,
   "build": {
     "weapons": [
       "lethean-elegy"

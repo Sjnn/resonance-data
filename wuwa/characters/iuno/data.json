@@ -19,7 +19,7 @@
     "atk": 425,
     "def": 1161
   },
-  "dataComplete": false,
+  "dataComplete": true,
   "build": {
     "weapons": [
       "moongazers-sigil"

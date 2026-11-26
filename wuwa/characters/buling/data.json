@@ -19,7 +19,7 @@
     "atk": 312,
     "def": 960
   },
-  "dataComplete": false,
+  "dataComplete": true,
   "build": {
     "weapons": [
       "stellar-symphony"

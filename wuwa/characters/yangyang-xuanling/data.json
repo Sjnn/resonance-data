@@ -17,7 +17,7 @@
     "atk": 445,
     "def": 1135
   },
-  "dataComplete": false,
+  "dataComplete": true,
   "build": {
     "weapons": [
       "azure-oath"

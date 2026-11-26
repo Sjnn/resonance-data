@@ -1,0 +1,6 @@
+{
+  "id": "halo-of-starry-radiance",
+  "name": "Halo of Starry Radiance",
+  "twoPiece": "Healing Bonus +10%",
+  "fivePiece": "When healing a Resonator in the team, every 1% of Off-Tune Buildup Rate grants 0.2% All-Attribute DMG Bonus to all Resonators in the team (up to 25%) for 4s."
+}

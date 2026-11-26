@@ -19,7 +19,7 @@
     "atk": 412,
     "def": 1186
   },
-  "dataComplete": false,
+  "dataComplete": true,
   "build": {
     "weapons": [
       "emerald-sentence"

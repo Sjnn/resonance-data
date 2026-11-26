@@ -20,7 +20,7 @@
     "atk": 335,
     "def": 1170
   },
-  "dataComplete": false,
+  "dataComplete": true,
   "build": {
     "weapons": [
       "firstlights-herald"

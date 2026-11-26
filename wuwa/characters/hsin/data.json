@@ -18,7 +18,7 @@
     "atk": 460,
     "def": 1110
   },
-  "dataComplete": false,
+  "dataComplete": true,
   "build": {
     "weapons": [
       "blooming-jadehaven"

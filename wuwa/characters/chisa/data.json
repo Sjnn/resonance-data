@@ -20,7 +20,7 @@
     "atk": 388,
     "def": 1150
   },
-  "dataComplete": false,
+  "dataComplete": true,
   "build": {
     "weapons": [
       "kumokiri"

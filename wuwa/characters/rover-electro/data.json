@@ -17,7 +17,7 @@
     "atk": 375,
     "def": 1145
   },
-  "dataComplete": false,
+  "dataComplete": true,
   "build": {
     "weapons": [
       "blazing-brilliance"

@@ -17,7 +17,7 @@
     "atk": 450,
     "def": 1120
   },
-  "dataComplete": false,
+  "dataComplete": true,
   "build": {
     "weapons": [
       "solsworn-ciphers"

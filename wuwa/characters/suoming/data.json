@@ -17,7 +17,7 @@
     "atk": 455,
     "def": 1120
   },
-  "dataComplete": false,
+  "dataComplete": true,
   "build": {
     "weapons": [
       "unspoken-rue"

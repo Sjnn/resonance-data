@@ -18,7 +18,7 @@
     "atk": 462,
     "def": 1112
   },
-  "dataComplete": false,
+  "dataComplete": true,
   "build": {
     "weapons": [
       "lux-and-umbra"

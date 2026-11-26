@@ -18,7 +18,7 @@
     "atk": 405,
     "def": 1150
   },
-  "dataComplete": false,
+  "dataComplete": true,
   "build": {
     "weapons": [
       "freeze-frame"

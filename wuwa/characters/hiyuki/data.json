@@ -17,7 +17,7 @@
     "atk": 440,
     "def": 1140
   },
-  "dataComplete": false,
+  "dataComplete": true,
   "build": {
     "weapons": [
       "frostburn"

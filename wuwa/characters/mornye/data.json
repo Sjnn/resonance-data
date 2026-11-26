@@ -20,7 +20,7 @@
     "atk": 325,
     "def": 1480
   },
-  "dataComplete": false,
+  "dataComplete": true,
   "build": {
     "weapons": [
       "starfield-calibrator"

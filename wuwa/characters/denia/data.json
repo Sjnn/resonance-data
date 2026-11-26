@@ -17,7 +17,7 @@
     "atk": 412,
     "def": 1150
   },
-  "dataComplete": false,
+  "dataComplete": true,
   "build": {
     "weapons": [
       "forged-dwarf-star"

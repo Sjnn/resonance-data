@@ -18,7 +18,7 @@
     "atk": 360,
     "def": 1140
   },
-  "dataComplete": false,
+  "dataComplete": true,
   "build": {
     "weapons": [
       "thousandfold-deliverance"
