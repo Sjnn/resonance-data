@@ -24,7 +24,13 @@
         "def": 1075
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/aalto/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/aalto/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Roaring Rock Fist",
+        "specialty": "Wintry Bell",
+        "forgeryMaterial": "Phlogiston",
+        "weeklyBossMaterial": "Monument Bell"
+      }
     },
     {
       "id": "aemeath",
@@ -47,7 +53,13 @@
         "def": 1125
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/aemeath/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/aemeath/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Our Choice",
+        "specialty": "Moss Amber",
+        "forgeryMaterial": "Polarizer",
+        "weeklyBossMaterial": "Gold in Memory"
+      }
     },
     {
       "id": "augusta",
@@ -69,7 +81,13 @@
         "def": 1112
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/augusta/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/augusta/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Blighted Crown of Puppet King",
+        "specialty": "Luminous Calendula",
+        "forgeryMaterial": "Waveworn Residue",
+        "weeklyBossMaterial": "When Irises Bloom"
+      }
     },
     {
       "id": "baizhi",
@@ -93,7 +111,13 @@
         "def": 1002
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/baizhi/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/baizhi/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Sound-Keeping Tacet Core",
+        "specialty": "Lanternberry",
+        "forgeryMaterial": "Helix",
+        "weeklyBossMaterial": "Monument Bell"
+      }
     },
     {
       "id": "brant",
@@ -119,7 +143,13 @@
         "def": 1307
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/brant/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/brant/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Blazing Bone",
+        "specialty": "Golden Fleece",
+        "forgeryMaterial": "Metallic Drip",
+        "weeklyBossMaterial": "The Netherworld"
+      }
     },
     {
       "id": "buling",
@@ -143,7 +173,13 @@
         "def": 960
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/buling/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/buling/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Blighted Crown of Puppet King",
+        "specialty": "Pecok Flower",
+        "forgeryMaterial": "Helix",
+        "weeklyBossMaterial": "Curse of the Abyss"
+      }
     },
     {
       "id": "calcharo",
@@ -165,7 +201,13 @@
         "def": 1185
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/calcharo/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/calcharo/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Thundering Mephis Core",
+        "specialty": "Iris",
+        "forgeryMaterial": "Waveworn Residue",
+        "weeklyBossMaterial": "Monument Bell"
+      }
     },
     {
       "id": "camellya",
@@ -187,7 +229,13 @@
         "def": 1161
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/camellya/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/camellya/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Topological Confinement",
+        "specialty": "Nova",
+        "forgeryMaterial": "Metallic Drip",
+        "weeklyBossMaterial": "Dreamless Feather"
+      }
     },
     {
       "id": "cantarella",
@@ -212,7 +260,13 @@
         "def": 1100
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/cantarella/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/cantarella/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Cleansing Conch",
+        "specialty": "Seaside Cendrelis",
+        "forgeryMaterial": "Helix",
+        "weeklyBossMaterial": "When Irises Bloom"
+      }
     },
     {
       "id": "carlotta",
@@ -234,7 +288,13 @@
         "def": 1197
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/carlotta/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/carlotta/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Platinum Core",
+        "specialty": "Sword Acorus",
+        "forgeryMaterial": "Phlogiston",
+        "weeklyBossMaterial": "The Netherworld"
+      }
     },
     {
       "id": "cartethyia",
@@ -256,7 +316,13 @@
         "def": 1161
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/cartethyia/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/cartethyia/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Unfading Glory",
+        "specialty": "Bamboo Iris",
+        "forgeryMaterial": "Metallic Drip",
+        "weeklyBossMaterial": "When Irises Bloom"
+      }
     },
     {
       "id": "changli",
@@ -281,7 +347,13 @@
         "def": 1099
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/changli/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/changli/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Rage Tacet Core",
+        "specialty": "Pavo Plum",
+        "forgeryMaterial": "Metallic Drip",
+        "weeklyBossMaterial": "Sentinel's Dagger"
+      }
     },
     {
       "id": "chisa",
@@ -306,7 +378,13 @@
         "def": 1150
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/chisa/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/chisa/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Abyssal Husk",
+        "specialty": "Summer Flower",
+        "forgeryMaterial": "Waveworn Residue",
+        "weeklyBossMaterial": "When Irises Bloom"
+      }
     },
     {
       "id": "chixia",
@@ -328,7 +406,13 @@
         "def": 953
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/chixia/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/chixia/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Rage Tacet Core",
+        "specialty": "Belle Poppy",
+        "forgeryMaterial": "Phlogiston",
+        "weeklyBossMaterial": "Monument Bell"
+      }
     },
     {
       "id": "ciaccona",
@@ -351,7 +435,13 @@
         "def": 1197
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/ciaccona/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/ciaccona/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Blazing Bone",
+        "specialty": "Golden Fleece",
+        "forgeryMaterial": "Phlogiston",
+        "weeklyBossMaterial": "When Irises Bloom"
+      }
     },
     {
       "id": "danjin",
@@ -375,7 +465,13 @@
         "def": 1148
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/danjin/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/danjin/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Strife Tacet Core",
+        "specialty": "Belle Poppy",
+        "forgeryMaterial": "Metallic Drip",
+        "weeklyBossMaterial": "Dreamless Feather"
+      }
     },
     {
       "id": "denia",
@@ -397,7 +493,13 @@
         "def": 1150
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/denia/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/denia/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Burning Judgment",
+        "specialty": "Dream of Stars",
+        "forgeryMaterial": "Spliced String",
+        "weeklyBossMaterial": "We Who Question"
+      }
     },
     {
       "id": "encore",
@@ -419,7 +521,13 @@
         "def": 1246
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/encore/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/encore/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Rage Tacet Core",
+        "specialty": "Pecok Flower",
+        "forgeryMaterial": "Helix",
+        "weeklyBossMaterial": "Dreamless Feather"
+      }
     },
     {
       "id": "galbrena",
@@ -442,7 +550,13 @@
         "def": 1112
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/galbrena/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/galbrena/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Blighted Crown of Puppet King",
+        "specialty": "Stone Rose",
+        "forgeryMaterial": "Phlogiston",
+        "weeklyBossMaterial": "Curse of the Abyss"
+      }
     },
     {
       "id": "hiyuki",
@@ -464,7 +578,13 @@
         "def": 1140
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/hiyuki/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/hiyuki/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Our Choice",
+        "specialty": "Redbell",
+        "forgeryMaterial": "Polarizer",
+        "weeklyBossMaterial": "We Who Question"
+      }
     },
     {
       "id": "hsin",
@@ -487,7 +607,13 @@
         "def": 1110
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/hsin/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/hsin/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Solidarity",
+        "specialty": "Bloom of Hearkening",
+        "forgeryMaterial": "Spliced String",
+        "weeklyBossMaterial": "Remnant of the Wheel"
+      }
     },
     {
       "id": "iuno",
@@ -511,7 +637,13 @@
         "def": 1161
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/iuno/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/iuno/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Abyssal Husk",
+        "specialty": "Sliverglow Bloom",
+        "forgeryMaterial": "Cadence Seed",
+        "weeklyBossMaterial": "The Netherworld"
+      }
     },
     {
       "id": "jianxin",
@@ -536,7 +668,13 @@
         "def": 1124
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/jianxin/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/jianxin/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Roaring Rock Fist",
+        "specialty": "Lanternberry",
+        "forgeryMaterial": "Cadence Seed",
+        "weeklyBossMaterial": "Unending Destruction"
+      }
     },
     {
       "id": "jingran",
@@ -559,7 +697,13 @@
         "def": 1140
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/jingran/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/jingran/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Forged Empyrean",
+        "specialty": "Cloudperch Seed",
+        "forgeryMaterial": "Carved Crystal",
+        "weeklyBossMaterial": "Skyward Glazed Heart"
+      }
     },
     {
       "id": "jinhsi",
@@ -581,7 +725,13 @@
         "def": 1258
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/jinhsi/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/jinhsi/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Elegy Tacet Core",
+        "specialty": "Loong's Pearl",
+        "forgeryMaterial": "Waveworn Residue",
+        "weeklyBossMaterial": "Sentinel's Dagger"
+      }
     },
     {
       "id": "jiyan",
@@ -603,7 +753,13 @@
         "def": 1186
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/jiyan/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/jiyan/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Roaring Grief",
+        "specialty": "Coriolus",
+        "forgeryMaterial": "Waveworn Residue",
+        "weeklyBossMaterial": "Monument Bell"
+      }
     },
     {
       "id": "lily",
@@ -627,7 +783,13 @@
         "def": 1180
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lily/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lily/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Suncoveter",
+        "specialty": "Reverie Lily",
+        "forgeryMaterial": "Incomplete Combustor",
+        "weeklyBossMaterial": "Gold in Memory"
+      }
     },
     {
       "id": "lingyang",
@@ -649,7 +811,13 @@
         "def": 1209
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lingyang/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lingyang/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Sound-Keeping Tacet Core",
+        "specialty": "Coriolus",
+        "forgeryMaterial": "Cadence Seed",
+        "weeklyBossMaterial": "Unending Destruction"
+      }
     },
     {
       "id": "lucilla",
@@ -672,7 +840,13 @@
         "def": 1150
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lucilla/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lucilla/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Suncoveter\\",
+        "specialty": "Forget-Me-Not",
+        "forgeryMaterial": "Spliced String",
+        "weeklyBossMaterial": "We Who Question"
+      }
     },
     {
       "id": "lucy",
@@ -694,7 +868,13 @@
         "def": 1115
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lucy/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lucy/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Nightmare Flashdrive",
+        "specialty": "Past Reveries",
+        "forgeryMaterial": "Incomplete Combustor",
+        "weeklyBossMaterial": "Gold in Memory"
+      }
     },
     {
       "id": "lumi",
@@ -717,7 +897,13 @@
         "def": 892
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lumi/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lumi/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Thundering Tacet Core",
+        "specialty": "Terraspawn Fungus",
+        "forgeryMaterial": "Waveworn Residue",
+        "weeklyBossMaterial": "Sentinel"
+      }
     },
     {
       "id": "lupa",
@@ -741,7 +927,13 @@
         "def": 1185
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lupa/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lupa/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Unfading Glory",
+        "specialty": "Bloodleaf Viburnum",
+        "forgeryMaterial": "Waveworn Residue",
+        "weeklyBossMaterial": "The Netherworld"
+      }
     },
     {
       "id": "luuk-herssen",
@@ -764,7 +956,13 @@
         "def": 1130
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/luuk-herssen/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/luuk-herssen/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Suncoveter\\",
+        "specialty": "Edelschnee",
+        "forgeryMaterial": "Waveworn Shard",
+        "weeklyBossMaterial": "Gold in Memory"
+      }
     },
     {
       "id": "lynae",
@@ -788,7 +986,13 @@
         "def": 1160
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lynae/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/lynae/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Suncoveter\\",
+        "specialty": "Rimewisp",
+        "forgeryMaterial": "Incomplete Combustor",
+        "weeklyBossMaterial": "Dreamless Feather"
+      }
     },
     {
       "id": "mornye",
@@ -813,7 +1017,13 @@
         "def": 1480
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/mornye/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/mornye/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Burning Judgment",
+        "specialty": "Gemini Spore",
+        "forgeryMaterial": "Carved Crystal",
+        "weeklyBossMaterial": "The Netherworld"
+      }
     },
     {
       "id": "mortefi",
@@ -837,7 +1047,13 @@
         "def": 1136
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/mortefi/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/mortefi/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Rage Tacet Core",
+        "specialty": "Coriolus",
+        "forgeryMaterial": "Phlogiston",
+        "weeklyBossMaterial": "Monument Bell"
+      }
     },
     {
       "id": "phoebe",
@@ -861,7 +1077,13 @@
         "def": 1258
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/phoebe/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/phoebe/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Cleansing Conch",
+        "specialty": "Firecracker Jewelweed",
+        "forgeryMaterial": "Helix",
+        "weeklyBossMaterial": "Sentinel"
+      }
     },
     {
       "id": "phrolova",
@@ -906,7 +1128,13 @@
         "def": 1125
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/qingxiao/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/qingxiao/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Forged Empyrean",
+        "specialty": "Blade Blossom",
+        "forgeryMaterial": "Polarizer",
+        "weeklyBossMaterial": "We Who Question"
+      }
     },
     {
       "id": "qiuyuan",
@@ -930,7 +1158,13 @@
         "def": 1186
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/qiuyuan/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/qiuyuan/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Truth in Lies",
+        "specialty": "Wintry Bell",
+        "forgeryMaterial": "Metallic Drip",
+        "weeklyBossMaterial": "Curse of the Abyss"
+      }
     },
     {
       "id": "rebecca",
@@ -953,7 +1187,13 @@
         "def": 1145
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/rebecca/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/rebecca/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Nightmare Flashdrive",
+        "specialty": "Past Reveries",
+        "forgeryMaterial": "Incomplete Combustor",
+        "weeklyBossMaterial": "We Who Question"
+      }
     },
     {
       "id": "roccia",
@@ -977,7 +1217,13 @@
         "def": 1197
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/roccia/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/roccia/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Cleansing Conch",
+        "specialty": "Firecracker Jewelweed",
+        "forgeryMaterial": "Cadence Seed",
+        "weeklyBossMaterial": "The Netherworld"
+      }
     },
     {
       "id": "rover-aero",
@@ -1000,7 +1246,13 @@
         "def": 1209
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/rover-aero/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/rover-aero/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Mysterious Code",
+        "specialty": "Pecok Flower",
+        "forgeryMaterial": "Metallic Drip",
+        "weeklyBossMaterial": "When Irises Bloom"
+      }
     },
     {
       "id": "rover-electro",
@@ -1022,7 +1274,13 @@
         "def": 1145
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/rover-electro/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/rover-electro/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Mysterious Code",
+        "specialty": "Pecok Flower",
+        "forgeryMaterial": "Metallic Drip",
+        "weeklyBossMaterial": "Monument Bell"
+      }
     },
     {
       "id": "rover-havoc",
@@ -1045,7 +1303,13 @@
         "def": 1258
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/rover-havoc/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/rover-havoc/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Mysterious Code",
+        "specialty": "Pecok Flower",
+        "forgeryMaterial": "Metallic Drip",
+        "weeklyBossMaterial": "Dreamless Feather"
+      }
     },
     {
       "id": "rover-spectro",
@@ -1068,7 +1332,13 @@
         "def": 1368
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/rover-spectro/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/rover-spectro/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Mysterious Code",
+        "specialty": "Pecok Flower",
+        "forgeryMaterial": "Metallic Drip",
+        "weeklyBossMaterial": "Dreamless Feather"
+      }
     },
     {
       "id": "sanhua",
@@ -1091,7 +1361,13 @@
         "def": 937
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/sanhua/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/sanhua/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Sound-Keeping Tacet Core",
+        "specialty": "Wintry Bell",
+        "forgeryMaterial": "Metallic Drip",
+        "weeklyBossMaterial": "Monument Bell"
+      }
     },
     {
       "id": "shorekeeper",
@@ -1116,7 +1392,13 @@
         "def": 1099
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/shorekeeper/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/shorekeeper/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Topological Confinement",
+        "specialty": "Nova",
+        "forgeryMaterial": "Helix",
+        "weeklyBossMaterial": "Sentinel's Dagger"
+      }
     },
     {
       "id": "sigrika",
@@ -1138,7 +1420,13 @@
         "def": 1120
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/sigrika/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/sigrika/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Our Choice",
+        "specialty": "Arithmetic Shell",
+        "forgeryMaterial": "Waveworn Shard",
+        "weeklyBossMaterial": "Gold in Memory"
+      }
     },
     {
       "id": "suisui",
@@ -1163,7 +1451,13 @@
         "def": 1170
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/suisui/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/suisui/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Solidarity\\",
+        "specialty": "Flowborne Dream",
+        "forgeryMaterial": "Spliced String",
+        "weeklyBossMaterial": "Skyward Glazed Heart"
+      }
     },
     {
       "id": "suoming",
@@ -1185,7 +1479,13 @@
         "def": 1120
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/suoming/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/suoming/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Forged Empyrean",
+        "specialty": "Miasmic Branch",
+        "forgeryMaterial": "Polarizer",
+        "weeklyBossMaterial": "Remnant of the Wheel"
+      }
     },
     {
       "id": "taoqi",
@@ -1209,7 +1509,13 @@
         "def": 1564
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/taoqi/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/taoqi/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Gold-Dissolving Feather",
+        "specialty": "Iris",
+        "forgeryMaterial": "Waveworn Residue",
+        "weeklyBossMaterial": "Dreamless Feather"
+      }
     },
     {
       "id": "verina",
@@ -1234,7 +1540,13 @@
         "def": 1099
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/verina/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/verina/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Howler Core",
+        "specialty": "Belle Poppy",
+        "forgeryMaterial": "Helix",
+        "weeklyBossMaterial": "Monument Bell"
+      }
     },
     {
       "id": "xiangli-yao",
@@ -1256,7 +1568,13 @@
         "def": 1222
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/xiangli-yao/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/xiangli-yao/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Hidden Thunder Tacet Core",
+        "specialty": "Violet Coral",
+        "forgeryMaterial": "Cadence Seed",
+        "weeklyBossMaterial": "Unending Destruction"
+      }
     },
     {
       "id": "yangyang",
@@ -1279,7 +1597,13 @@
         "def": 1099
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/yangyang/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/yangyang/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Roaring Rock Fist",
+        "specialty": "Wintry Bell",
+        "forgeryMaterial": "Metallic Drip",
+        "weeklyBossMaterial": "Unending Destruction"
+      }
     },
     {
       "id": "yangyang-xuanling",
@@ -1301,7 +1625,13 @@
         "def": 1135
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/yangyang-xuanling/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/yangyang-xuanling/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Roaring Rock Fist",
+        "specialty": "Wintry Bell",
+        "forgeryMaterial": "Metallic Drip",
+        "weeklyBossMaterial": "Unending Destruction"
+      }
     },
     {
       "id": "yinlin",
@@ -1325,7 +1655,13 @@
         "def": 1283
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/yinlin/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/yinlin/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Group Abomination Core",
+        "specialty": "Coriolus",
+        "forgeryMaterial": "Helix",
+        "weeklyBossMaterial": "Dreamless Feather"
+      }
     },
     {
       "id": "youhu",
@@ -1348,7 +1684,13 @@
         "def": 1051
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/youhu/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/youhu/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Topological Confinement",
+        "specialty": "Violet Coral",
+        "forgeryMaterial": "Cadence Seed",
+        "weeklyBossMaterial": "Monument Bell"
+      }
     },
     {
       "id": "yuanwu",
@@ -1371,7 +1713,13 @@
         "def": 1637
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/yuanwu/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/yuanwu/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Hidden Thunder Tacet Core",
+        "specialty": "Terraspawn Fungus",
+        "forgeryMaterial": "Cadence Seed",
+        "weeklyBossMaterial": "Unending Destruction"
+      }
     },
     {
       "id": "zani",
@@ -1393,7 +1741,13 @@
         "def": 1136
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/zani/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/zani/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Platinum Core",
+        "specialty": "Sword Acorus",
+        "forgeryMaterial": "Cadence Seed",
+        "weeklyBossMaterial": "The Netherworld"
+      }
     },
     {
       "id": "zhezhi",
@@ -1417,7 +1771,13 @@
         "def": 1197
       },
       "dataComplete": true,
-      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/zhezhi/icon.png"
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/characters/zhezhi/icon.png",
+      "ascensionMaterials": {
+        "bossMaterial": "Sound-Keeping Tacet Core",
+        "specialty": "Lanternberry",
+        "forgeryMaterial": "Helix",
+        "weeklyBossMaterial": "Monument Bell"
+      }
     }
   ],
   "weapons": [
