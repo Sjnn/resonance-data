@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "synced-2026-11-26T08:00:56.565Z",
-  "updatedAt": "2026-11-26T08:00:56.565Z",
+  "version": "synced-2026-11-26T08:13:57.647Z",
+  "updatedAt": "2026-11-26T08:13:57.647Z",
   "characters": [
     {
       "id": "aalto",
@@ -2386,7 +2386,8 @@
       "element": "Glacio",
       "cost": 4,
       "echoSetId": "rejuvenating-glow",
-      "location": "Tolling Stream, Gorges of Spirits"
+      "location": "Tolling Stream, Gorges of Spirits",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/bell-borne-geochelone/icon.png"
     },
     {
       "id": "crownless",
@@ -2394,7 +2395,8 @@
       "element": "Havoc",
       "cost": 4,
       "echoSetId": "havoc-eclipse",
-      "location": "Gorges of Spirits"
+      "location": "Gorges of Spirits",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/crownless/icon.png"
     },
     {
       "id": "dragon-of-dirge",
@@ -2402,7 +2404,8 @@
       "element": "Fusion",
       "cost": 4,
       "echoSetId": "tidebreaking-courage",
-      "location": "Penitent End, Rinascita"
+      "location": "Penitent End, Rinascita",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/dragon-of-dirge/icon.png"
     },
     {
       "id": "dreamless",
@@ -2410,7 +2413,8 @@
       "element": "Havoc",
       "cost": 4,
       "echoSetId": "havoc-eclipse",
-      "location": "Norfall Barrens (Weekly)"
+      "location": "Norfall Barrens (Weekly)",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/dreamless/icon.png"
     },
     {
       "id": "fallacy-of-no-return",
@@ -2418,7 +2422,8 @@
       "element": "Spectro",
       "cost": 4,
       "echoSetId": "rejuvenating-glow",
-      "location": "Tethys' Deep, The Black Shores"
+      "location": "Tethys' Deep, The Black Shores",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/fallacy-of-no-return/icon.png"
     },
     {
       "id": "feilian-beringal",
@@ -2426,7 +2431,8 @@
       "element": "Aero",
       "cost": 4,
       "echoSetId": "sierra-gale",
-      "location": "Giant Banyan, Dim Forest"
+      "location": "Giant Banyan, Dim Forest",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/feilian-beringal/icon.png"
     },
     {
       "id": "fenrico",
@@ -2434,7 +2440,8 @@
       "element": "Havoc",
       "cost": 4,
       "echoSetId": "midnight-veil",
-      "location": "Fabricatorium of the Deep (Weekly)"
+      "location": "Fabricatorium of the Deep (Weekly)",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/fenrico/icon.png"
     },
     {
       "id": "fleur-de-lis",
@@ -2442,7 +2449,8 @@
       "element": "Aero",
       "cost": 4,
       "echoSetId": "gusts-of-welkin",
-      "location": "Avinoleum, Rinascita (Weekly)"
+      "location": "Avinoleum, Rinascita (Weekly)",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/fleur-de-lis/icon.png"
     },
     {
       "id": "hecate",
@@ -2450,7 +2458,8 @@
       "element": "Havoc",
       "cost": 4,
       "echoSetId": "empyrean-anthem",
-      "location": "Rinascita (Weekly)"
+      "location": "Rinascita (Weekly)",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/hecate/icon.png"
     },
     {
       "id": "hyvatia",
@@ -2458,7 +2467,8 @@
       "element": "Spectro",
       "cost": 4,
       "echoSetId": "halo-of-starry-radiance",
-      "location": "Lahai-Roi (Weekly)"
+      "location": "Lahai-Roi (Weekly)",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/hyvatia/icon.png"
     },
     {
       "id": "impermanence-heron",
@@ -2466,7 +2476,8 @@
       "element": "Havoc",
       "cost": 4,
       "echoSetId": "moonlit-clouds",
-      "location": "Distribution Center, Desorock Highland"
+      "location": "Distribution Center, Desorock Highland",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/impermanence-heron/icon.png"
     },
     {
       "id": "inferno-rider",
@@ -2474,7 +2485,8 @@
       "element": "Fusion",
       "cost": 4,
       "echoSetId": "molten-rift",
-      "location": "Sea of Flames, Port City of Guixu"
+      "location": "Sea of Flames, Port City of Guixu",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/inferno-rider/icon.png"
     },
     {
       "id": "jue",
@@ -2482,7 +2494,8 @@
       "element": "Spectro",
       "cost": 4,
       "echoSetId": "celestial-light",
-      "location": "Mt. Firmament (Weekly)"
+      "location": "Mt. Firmament (Weekly)",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/jue/icon.png"
     },
     {
       "id": "kelpie",
@@ -2498,7 +2511,8 @@
       "element": "Aero",
       "cost": 4,
       "echoSetId": "crown-of-valor",
-      "location": "Sanguis Plateaus"
+      "location": "Sanguis Plateaus",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/lady-of-the-sea/icon.png"
     },
     {
       "id": "lampylumen-myriad",
@@ -2506,7 +2520,8 @@
       "element": "Glacio",
       "cost": 4,
       "echoSetId": "freezing-frost",
-      "location": "Tiger's Maw Mine"
+      "location": "Tiger's Maw Mine",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/lampylumen-myriad/icon.png"
     },
     {
       "id": "leviathan",
@@ -2514,7 +2529,8 @@
       "element": "Havoc",
       "cost": 4,
       "echoSetId": "thread-of-severed-fate",
-      "location": "Rinascita (Weekly)"
+      "location": "Rinascita (Weekly)",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/leviathan/icon.png"
     },
     {
       "id": "lioness-of-glory",
@@ -2522,7 +2538,8 @@
       "element": "Fusion",
       "cost": 4,
       "echoSetId": "flaming-clawprint",
-      "location": "Septimont, Rinascita"
+      "location": "Septimont, Rinascita",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/lioness-of-glory/icon.png"
     },
     {
       "id": "lorelei",
@@ -2530,7 +2547,8 @@
       "element": "Havoc",
       "cost": 4,
       "echoSetId": "midnight-veil",
-      "location": "Atrium of Reflections, Whisperwind Haven"
+      "location": "Atrium of Reflections, Whisperwind Haven",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/lorelei/icon.png"
     },
     {
       "id": "mech-abomination",
@@ -2538,7 +2556,8 @@
       "element": "Electro",
       "cost": 4,
       "echoSetId": "lingering-tunes",
-      "location": "Court of Savantae Ruins, Whining Aix's Mire"
+      "location": "Court of Savantae Ruins, Whining Aix's Mire",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/mech-abomination/icon.png"
     },
     {
       "id": "mourning-aix",
@@ -2546,7 +2565,8 @@
       "element": "Spectro",
       "cost": 4,
       "echoSetId": "celestial-light",
-      "location": "Fallen Grave, Whining Aix's Mire"
+      "location": "Fallen Grave, Whining Aix's Mire",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/mourning-aix/icon.png"
     },
     {
       "id": "nameless-explorer",
@@ -2554,7 +2574,8 @@
       "element": "Spectro",
       "cost": 4,
       "echoSetId": "rite-of-gilded-revelation",
-      "location": "Lahai-Roi"
+      "location": "Lahai-Roi",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/nameless-explorer/icon.png"
     },
     {
       "id": "nightmare-crownless",
@@ -2570,7 +2591,8 @@
       "element": "Aero",
       "cost": 4,
       "echoSetId": "sierra-gale",
-      "location": "Hallowed Reach, Rinascita"
+      "location": "Hallowed Reach, Rinascita",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/nightmare-feilian-beringal/icon.png"
     },
     {
       "id": "nightmare-impermanence-heron",
@@ -2626,7 +2648,8 @@
       "element": "Spectro",
       "cost": 4,
       "echoSetId": "pact-of-neonlight-leap",
-      "location": "Lahai-Roi"
+      "location": "Lahai-Roi",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/reactor-husk/icon.png"
     },
     {
       "id": "sentry-construct",
@@ -2634,7 +2657,8 @@
       "element": "Glacio",
       "cost": 4,
       "echoSetId": "frosty-resolve",
-      "location": "Averardo Vault, Rinascita"
+      "location": "Averardo Vault, Rinascita",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/sentry-construct/icon.png"
     },
     {
       "id": "sigillum",
@@ -2642,7 +2666,8 @@
       "element": "Aero",
       "cost": 4,
       "echoSetId": "sound-of-true-name",
-      "location": "Lahai-Roi (Weekly)"
+      "location": "Lahai-Roi (Weekly)",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/sigillum/icon.png"
     },
     {
       "id": "tempest-mephis",
@@ -2650,7 +2675,8 @@
       "element": "Electro",
       "cost": 4,
       "echoSetId": "void-thunder",
-      "location": "Central Plains"
+      "location": "Central Plains",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/tempest-mephis/icon.png"
     },
     {
       "id": "the-false-sovereign",
@@ -2658,7 +2684,8 @@
       "element": "Electro",
       "cost": 4,
       "echoSetId": "crown-of-valor",
-      "location": "Sanguis Plateaus"
+      "location": "Sanguis Plateaus",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/the-false-sovereign/icon.png"
     },
     {
       "id": "thundering-mephis",
@@ -2666,7 +2693,8 @@
       "element": "Electro",
       "cost": 4,
       "echoSetId": "void-thunder",
-      "location": "Desorock Highland"
+      "location": "Desorock Highland",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/thundering-mephis/icon.png"
     },
     {
       "id": "twin-nova-collapsar-blade",
