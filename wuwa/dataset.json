@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "synced-2026-11-26T08:21:01.592Z",
-  "updatedAt": "2026-11-26T08:21:01.592Z",
+  "version": "synced-2026-11-26T08:36:04.654Z",
+  "updatedAt": "2026-11-26T08:36:04.654Z",
   "characters": [
     {
       "id": "aalto",
@@ -2776,7 +2776,8 @@
       "id": "flash-of-electric-reflection",
       "name": "Flash of Electric Reflection",
       "twoPiece": "Electro DMG +10%",
-      "fivePiece": "Dealing Resonance Liberation DMG increases Electro DMG by 18% and Resonance Liberation DMG Bonus by 28% for 12s."
+      "fivePiece": "Dealing Resonance Liberation DMG increases Electro DMG by 18% and Resonance Liberation DMG Bonus by 28% for 12s.",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/echoes/flash-of-electric-reflection/icon.png"
     },
     {
       "id": "flower-of-tinged-yearning",
