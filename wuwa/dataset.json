@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "synced-2026-11-26T08:16:29.655Z",
-  "updatedAt": "2026-11-26T08:16:29.655Z",
+  "version": "synced-2026-11-26T08:20:30.454Z",
+  "updatedAt": "2026-11-26T08:20:30.454Z",
   "characters": [
     {
       "id": "aalto",
@@ -2715,11 +2715,12 @@
     },
     {
       "id": "twin-nova-nebula-cannon",
-      "name": "Twin Nova: Nebula Cannon",
+      "name": "Twin Nova: Nebulous Cannon",
       "element": "Fusion",
       "cost": 4,
       "echoSetId": "chromatic-foam",
-      "location": "Lahai-Roi"
+      "location": "Lahai-Roi",
+      "remoteImageUrl": "https://raw.githubusercontent.com/Sjnn/resonance-data/main/wuwa/bosses/twin-nova-nebula-cannon/icon.png"
     }
   ],
   "echoes": [
